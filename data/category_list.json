@@ -1,0 +1,59 @@
+{
+  "characters": {
+    "name": "Characters"
+  },
+  "bosses": {
+    "name": "Bosses"
+  },
+  "creatures": {
+    "name": "Creatures"
+  },
+  "enemies": {
+    "name": "Enemies"
+  },
+  "dungeons": {
+    "name": "Dungeons"
+  },
+  "locations": {
+    "name": "Locations"
+  },
+  "items": {
+    "name": "Items"
+  },
+  "translations": {
+    "name": "Translations"
+  },
+  "armor": {
+    "name": "Armor"
+  },
+  "weapons": {
+    "name": "Weapons"
+  },
+  "shields": {
+    "name": "Shields"
+  },
+  "bows_arrows": {
+    "name": "Bows & Arrows"
+  },
+  "materials": {
+    "name": "Materials"
+  },
+  "food": {
+    "name": "Food"
+  },
+  "zonai_devices": {
+    "name": "Zonai Devices"
+  },
+  "key_items": {
+    "name": "Key Items"
+  },
+  "head_gear": {
+    "name": "Head Gear"
+  },
+  "body_gear": {
+    "name": "Body Gear"
+  },
+  "leg_gear": {
+    "name": "Leg Gear"
+  }
+}
