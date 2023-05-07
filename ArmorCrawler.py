@@ -35,10 +35,13 @@ soup = BeautifulSoup(html, 'html.parser')
 armor_type = ['Head Gear', 'Body Gear', 'Leg Gear']
 armor_type_id = ['head_gear', 'body_gear', 'leg_gear']
 
+items_ref = db.collection(u'categories').document(u'items')
+armor_ref = db.collection(u'categories').document(u'armor')
 
 all_table = soup.find_all('table')
 for i in range(0, 3):
-    category_ref = ['categories/items', 'categories/armor', f'categories/{armor_type_id[i]}']
+    armor_type_ref = db.collection(u'categories').document(armor_type_id[i])
+    category_ref = [items_ref, armor_ref, armor_type_ref]
     table = all_table[i]
     items = table.find_all('tr')
     for item in items:
@@ -105,5 +108,5 @@ for i in range(0, 3):
             doc_ref.set(data)
             print(data)
     # break
-with open("data/armor_list.json", 'w') as f:
-    json.dump(array_item, f, indent=True)
+# with open("data/armor_list.json", 'w') as f:
+#     json.dump(array_item, f, indent=True)

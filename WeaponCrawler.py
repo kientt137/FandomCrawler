@@ -21,7 +21,10 @@ req = Request(fandom_link)
 html = urlopen(req).read()
 soup = BeautifulSoup(html, 'html.parser')
 
-category_ref = ["categories/weapons"]
+items_ref = db.collection(u'categories').document(u'items')
+weapons_ref = db.collection(u'categories').document(u'weapons')
+
+category_ref = [items_ref, weapons_ref]
 
 all_table = soup.find_all('table')
 
@@ -95,5 +98,5 @@ for item in items:
         doc_ref = db.collection(u'items').document(item_id)
         doc_ref.set(data)
         print(data)
-with open("data/weapon_list.json", 'w') as f:
-    json.dump(array_item, f, indent=True)
+# with open("data/weapon_list.json", 'w') as f:
+#     json.dump(array_item, f, indent=True)
