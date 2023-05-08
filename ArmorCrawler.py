@@ -89,7 +89,7 @@ for i in range(0, 3):
                                 value = []
                                 for li in lis:
                                     value.append(li.text)
-                                attributes[title] = value
+                                attributes[title] = '\n'.join(value)
                             else:
                                 attributes[title] = div_value.text
                         except Exception as e:
