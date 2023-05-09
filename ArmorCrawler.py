@@ -14,17 +14,6 @@ app = firebase_admin.initialize_app(cred)
 
 db = firestore.client()
 
-
-# with open("data/item_category.json", 'r') as f:
-#     list_category = json.load(f)
-
-#     for key, value in list_category.items():
-#         # upload to firestore
-#         # doc_ref = db.collection(u'item_category').document(key)
-#         # doc_ref.set({
-#         #     u'name': value['name'],
-#         #     u'link': value['link']
-#         # })
 array_item = []
 fandom_link = "https://zelda.fandom.com/wiki/Armor_in_Tears_of_the_Kingdom"
 
@@ -35,12 +24,12 @@ soup = BeautifulSoup(html, 'html.parser')
 armor_type = ['Head Gear', 'Body Gear', 'Leg Gear']
 armor_type_id = ['head_gear', 'body_gear', 'leg_gear']
 
-items_ref = db.collection(u'categories').document(u'items')
-armor_ref = db.collection(u'categories').document(u'armor')
+items_ref = "categories/items"
+armor_ref = "categories/armor"
 
 all_table = soup.find_all('table')
 for i in range(0, 3):
-    armor_type_ref = db.collection(u'categories').document(armor_type_id[i])
+    armor_type_ref = f"categories/{armor_type_id[i]}"
     category_ref = [items_ref, armor_ref, armor_type_ref]
     table = all_table[i]
     items = table.find_all('tr')
@@ -104,9 +93,7 @@ for i in range(0, 3):
                 "attributes": attributes
             }
             array_item.append(data)
-            doc_ref = db.collection(u'items').document(item_id)
-            doc_ref.set(data)
             print(data)
     # break
-# with open("data/armor_list.json", 'w') as f:
-#     json.dump(array_item, f, indent=True)
+with open("data/armor_list.json", 'w') as f:
+    json.dump(array_item, f, indent=True)

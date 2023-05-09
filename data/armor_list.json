@@ -5,4 +5,388 @@
   "description": "Stone headgear made for tourists by Goron crafters. Not only is it flame resistant, but it also covers your entire head.",
   "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f9/BotW_Flamebreaker_Helm_Icon.png/revision/latest/scale-to-width-down/96?cb=20180513143710",
   "category_ref": [
-   
+   "categories/items",
+   "categories/armor",
+   "categories/head_gear"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Flamebreaker_Helm",
+  "attributes": {
+   "Defense": "3",
+   "Effect": "??",
+   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+  }
+ },
+ {
+  "item_id": "hylian_hood",
+  "name": "Hylian Hood",
+  "description": "A hood woven using traditional Hyrulean methods, made from sturdy material.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e2/BotW_Hylian_Hood_Icon.png/revision/latest/scale-to-width-down/96?cb=20171228115610",
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/head_gear"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hylian_Hood",
+  "attributes": {
+   "Defense": "3",
+   "Effect": "\u2014",
+   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+  }
+ },
+ {
+  "item_id": "snowquill_headdress",
+  "name": "Snowquill Headdress",
+  "description": "A Rito accessory made from snow-bird feathers. Adorned with a ruby, a gem that harnesses the power of fire.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/90/BotW_Snowquill_Headdress_Icon.png/revision/latest/scale-to-width-down/96?cb=20180513143225",
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/head_gear"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Snowquill_Headdress",
+  "attributes": {
+   "Defense": "3",
+   "Effect": "??",
+   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+  }
+ },
+ {
+  "item_id": "zonai_helmet",
+  "name": "Zonai Helmet",
+  "description": "Part of the Zonai Armor Set.",
+  "image_url": null,
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/head_gear"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Defense": "??",
+   "Effect": "??"
+  }
+ },
+ {
+  "item_id": "archaic_tunic",
+  "name": "Archaic Tunic",
+  "description": "Old-fashioned-upper-body wear. It's got some holes, but the soft cloth feels good to the touch. It's hard to keep it wrinkle-free.",
+  "image_url": null,
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/body_gear"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Defense": "1",
+   "Effect": "??"
+  }
+ },
+ {
+  "item_id": "champions_tunic",
+  "name": "Champion's Tunic",
+  "description": "In ancient Hyrule, only those respected by the royal family could wear this garment.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/98/BotW_Champion%27s_Tunic_Icon.png/revision/latest/scale-to-width-down/96?cb=20210330163455",
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/body_gear"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Champion%27s_Tunic",
+  "attributes": {
+   "Defense": "5",
+   "Effect": "??",
+   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+  }
+ },
+ {
+  "item_id": "flamebreaker_armor",
+  "name": "Flamebreaker Armor",
+  "description": "Fire-resistant armor crafted by Gorons for Hylians curious enough to visit Goron City.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d9/BotW_Flamebreaker_Armor_Icon.png/revision/latest/scale-to-width-down/96?cb=20210201152007",
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/body_gear"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Flamebreaker_Armor",
+  "attributes": {
+   "Defense": "3",
+   "Effect": "??",
+   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+  }
+ },
+ {
+  "item_id": "hylian_tunic",
+  "name": "Hylian Tunic",
+  "description": "A common garb popular in Hyrule, especially among travelers. Its light-yet-sturdy fabric doesn't limit movement.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/26/BotW_Hylian_Tunic_Icon.png/revision/latest/scale-to-width-down/96?cb=20210123153000",
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/body_gear"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hylian_Tunic",
+  "attributes": {
+   "Defense": "3",
+   "Effect": "\u2014",
+   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+  }
+ },
+ {
+  "item_id": "rito_wingsuit",
+  "name": "Rito Wingsuit",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/body_gear"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Defense": "??",
+   "Effect": "??"
+  }
+ },
+ {
+  "item_id": "snowquill_tunic",
+  "name": "Snowquill Tunic",
+  "description": "Made by Rito artisans, this tunic stacks molted Rito feathers in each layer to help retain body heat.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6f/BotW_Snowquill_Tunic_Icon.png/revision/latest/scale-to-width-down/96?cb=20210124190720",
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/body_gear"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Snowquill_Tunic",
+  "attributes": {
+   "Defense": "3",
+   "Effect": "??",
+   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+  }
+ },
+ {
+  "item_id": "soldiers_armor",
+  "name": "Soldier's Armor",
+  "description": "Hyrulean guards praised this sturdy armor for its superior defense. The high level of craftsmanship is obvious.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/2c/BotW_Soldier%27s_Armor_Icon.png/revision/latest/scale-to-width-down/96?cb=20210218024521",
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/body_gear"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Soldier%27s_Armor",
+  "attributes": {
+   "Defense": "4",
+   "Effect": "??",
+   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+  }
+ },
+ {
+  "item_id": "zonai_armor",
+  "name": "Zonai Armor",
+  "description": "Part of the Zonai Armor Set.",
+  "image_url": null,
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/body_gear"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Defense": "??",
+   "Effect": "??"
+  }
+ },
+ {
+  "item_id": "archaic_legwear",
+  "name": "Archaic Legwear",
+  "description": "Simple, classic legwear. They're well-worn and showing their age, but still got a few good years left in them. It can be a bit cumbersome to have to tie the straps.",
+  "image_url": null,
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/leg_gear"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Defense": "1",
+   "Effect": "??"
+  }
+ },
+ {
+  "item_id": "archaic_warm_greaves",
+  "name": "Archaic Warm Greaves",
+  "description": "Warm greaves belived to be from a very long time ago. Despite the old look, the heat-retaining materia- (imcomplete)",
+  "image_url": null,
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/leg_gear"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Defense": "1",
+   "Effect": "??"
+  }
+ },
+ {
+  "item_id": "flamebreaker_boots",
+  "name": "Flamebreaker Boots",
+  "description": "Goron artisans used flame-resistant rocks to craft these fireproof boots for curious Hylians visiting Goron City.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9d/BotW_Flamebreaker_Boots_Icon.png/revision/latest/scale-to-width-down/96?cb=20180704211409",
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/leg_gear"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Flamebreaker_Boots",
+  "attributes": {
+   "Defense": "3",
+   "Effect": "??",
+   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+  }
+ },
+ {
+  "item_id": "hylian_trousers",
+  "name": "Hylian Trousers",
+  "description": "These trousers are common throughout the Hyrule region. The soft fabric makes them quite comfortable.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/5a/BotW_Hylian_Trousers_Icon.png/revision/latest/scale-to-width-down/96?cb=20180515190715",
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/leg_gear"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hylian_Trousers",
+  "attributes": {
+   "Defense": "3",
+   "Effect": "\u2014",
+   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+  }
+ },
+ {
+  "item_id": "snowquill_trousers",
+  "name": "Snowquill Trousers",
+  "description": "The Rito feathers that line these trousers make them excellent at retaining body heat.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d6/BotW_Snowquill_Trousers_Icon.png/revision/latest/scale-to-width-down/96?cb=20180704211041",
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/leg_gear"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Snowquill_Trousers",
+  "attributes": {
+   "Defense": "3",
+   "Effect": "??",
+   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+  }
+ },
+ {
+  "item_id": "soldiers_greaves",
+  "name": "Soldier's Greaves",
+  "description": "Greaves favored by Hyrulean guards. They owe their distinctly high defense to the metal plates they're made from.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/63/BotW_Soldier%27s_Greaves_Icon.png/revision/latest/scale-to-width-down/96?cb=20181002152537",
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/leg_gear"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Soldier%27s_Greaves",
+  "attributes": {
+   "Defense": "4",
+   "Effect": "\u2014",
+   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
+   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+  }
+ },
+ {
+  "item_id": "zonai_shoes",
+  "name": "Zonai Shoes",
+  "description": "Part of the Zonai Armor Set.",
+  "image_url": null,
+  "category_ref": [
+   "categories/items",
+   "categories/armor",
+   "categories/leg_gear"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Defense": "??",
+   "Effect": "??"
+  }
+ }
+]
