@@ -1,0 +1,428 @@
+[
+ {
+  "name": "Bokoblin",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "bokoblin",
+  "attributes": {
+   "Plural": "Bokoblins[1]",
+   "Main appearance(s)": "The Wind Waker\nTwilight Princess\nSkyward Sword\nBreath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Link's Crossbow Training\nHyrule Warriors\nMy Nintendo Picross: Twilight Princess\nTwilight Princess (Himekawa)\nSuper Smash Bros. Ultimate\nCadence of Hyrule\nHyrule Warriors: Age of Calamity",
+   "Health": "The Wind Waker5 (Blue & Pink)  6 (Green)\n5 (Blue & Pink) \n 6 (Green)\nBreath of the Wild13\n13",
+   "Attack": "The Wind WakerJump Kick: Swing Weapon: Jump Attack with Weapon: \nJump Kick: \nSwing Weapon: \nJump Attack with Weapon: \nTwilight PrincessSword Slash: \nSword Slash: ",
+   "Spoil(s)": "The Wind WakerJoy Pendant\nJoy Pendant\nSkyward SwordOrnamental SkullGolden Skull\nOrnamental Skull\nGolden Skull\nBreath of the WildBokoblin Fang\nBokoblin Fang"
+  }
+ },
+ {
+  "name": "Blue Bokoblin",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "blue_bokoblin",
+  "attributes": {
+   "Race": "Bokoblin",
+   "Main appearance(s)": "Skyward Sword\nBreath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Link's Crossbow Training\nCadence of Hyrule\nHyrule Warriors: Age of Calamity",
+   "Habitat(s)": "Gerudo Desert (BotW)\nGerudo Highlands (BotW)",
+   "Health": "Skyward Sword20\n20\n\nBreath of the Wild72\n72",
+   "Spoil(s)": "Ornamental Skull (SS)\nGolden Skull (SS)\nBokoblin Horn (BotW)\nBokoblin Fang (BotW)\nBokoblin Guts (BotW)\nBlue Bokoblin Horn (TotK)"
+  }
+ },
+ {
+  "name": "Black Bokoblin",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "black_bokoblin",
+  "attributes": {
+   "Race": "Bokoblin",
+   "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Cadence of Hyrule\nHyrule Warriors: Age of Calamity",
+   "Health": "240",
+   "Spoil(s)": "Breath of the WildBokoblin HornBokoblin FangBokoblin Guts\nBokoblin Horn\nBokoblin Fang\nBokoblin Guts"
+  }
+ },
+ {
+  "name": "Silver Bokoblin",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "silver_bokoblin",
+  "attributes": {
+   "Race": "Bokoblin",
+   "Main appearance(s)": "Breath of the Wild",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Health": "720",
+   "Spoil(s)": "Bokoblin Horn\nBokoblin Fang\nBokoblin Guts\nAmber\nOpal\nTopaz\nRuby\nSapphire\nDiamond"
+  }
+ },
+ {
+  "name": "Boss Bokoblin",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "boss_bokoblin",
+  "attributes": {
+   "Race": "Bokoblin",
+   "Main appearance(s)": "Tears of the Kingdom",
+   "Spoil(s)": "Boss Bokoblin Horn (TotK)"
+  }
+ },
+ {
+  "name": "Blue Boss Bokoblin",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "blue_boss_bokoblin",
+  "attributes": {
+   "Race": "Boss Bokoblin",
+   "Main appearance(s)": "Tears of the Kingdom",
+   "Spoil(s)": "Blue Boss Bokoblin Horn (TotK)"
+  }
+ },
+ {
+  "name": "Moblin",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "moblin",
+  "attributes": {
+   "Plural": "Moblins[1](LA)",
+   "Main appearance(s)": "The Legend of Zelda\nThe Adventure of Link\nA Link to the Past\nLink's Awakening\nOcarina of Time\nOracle of Seasons\nOracle of Ages\nFour Swords\nThe Wind Waker\nThe Minish Cap\nSkyward Sword\nA Link Between Worlds\nBreath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Zelda (Game & Watch)\nThe Legend of Zelda TV series\nCaptain N: The Game Master\nThe Crystal Trap\nThe Shadow Prince\nThe Faces of Evil\nThe Wand of Gamelon\nZelda's Adventure\nNintendo Land\nHyrule Warriors\nSuper Smash Bros. Ultimate\nCadence of Hyrule\nHyrule Warriors: Age of Calamity",
+   "Habitat(s)": "Various",
+   "Member(s)": "Great Moblin\nMoblin Chief\nMoe\nMonster Lady",
+   "Health": "The Legend of Zelda2 (Red)3 (Blue)\n2 (Red)\n3 (Blue)\nThe Adventure of Link1 (Weak)4 (Orange)12 (Red)  18 (Blue)\n1 (Weak)\n4 (Orange)\n12 (Red) \n 18 (Blue)\nLink's Awakening2\n2\nOcarina of Time1\n1\nThe Wind Waker10 (Blue)\n10 (Blue)\nBreath of the Wild56 (Red)[2]144 (Blue)[2]360 (Black)[2]2 (Stalmoblins)[2]1080 (Silver)[2]\n56 (Red)[2]\n144 (Blue)[2]\n360 (Black)[2]\n2 (Stalmoblins)[2]\n1080 (Silver)[2]",
+   "Attack": "The Legend of Zelda(Red Moblin)  Contact: Spear Throw:  (Blue Moblin)  Contact: Spear Throw: \n(Red Moblin) \n Contact: \nSpear Throw:  \n(Blue Moblin) \n Contact: \nSpear Throw: \nLink's AwakeningSword Slash: Spear Throw: \nSword Slash: \nSpear Throw: \nOcarina of TimeSpear Charge: \nSpear Charge: \nThe Wind WakerSpear Stab: Spear Crush: Spear Swing: Punch: Uppercut: \nSpear Stab: \nSpear Crush: \nSpear Swing: \nPunch: \nUppercut: ",
+   "Weapon(s)": "Any",
+   "Spoil(s)": "Heart (TLoZ)\nFairy (TLoZ)\nOne Rupee (TLoZ)\nFour Bombs (TLoZ)\nClock (TLoZ)\nSkull Necklaces",
+   "Exp Points": "20 "
+  }
+ },
+ {
+  "name": "Blue Moblin",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "blue_moblin",
+  "attributes": {
+   "Race": "Moblin",
+   "Main appearance(s)": "The Legend of Zelda\nThe Adventure of Link\nOracle of Seasons\nOracle of Ages\nThe Wind Waker\nBreath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Habitat(s)": "Hyrule Field (BotW)\nDeep Akkala (BotW)",
+   "Health": "The Legend of Zelda3\n3\nThe Adventure of Link18\n18\nBreath of the Wild144\n144",
+   "Attack": "The Legend of ZeldaArrow (1 heart)\nArrow (1 heart)",
+   "Spoil(s)": "Moblin Horn (BotW)\nMoblin Fang (BotW)\nMoblin Guts (BotW)\nBlue Moblin Horn (TotK)"
+  }
+ },
+ {
+  "name": "Lizalfos",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "lizalfos",
+  "attributes": {
+   "Plural": "Lizalfos[1]",
+   "Main appearance(s)": "Ocarina of Time\nTwilight Princess\nSkyward Sword\nBreath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Link's Crossbow Training\nHyrule Warriors\nHyrule Warriors: Age of Calamity",
+   "Health": "Ocarina of Time6\n6\n\nSkyward Sword36\n36\n\nBreath of the Wild50[2]\n50[2]",
+   "Attack": "Ocarina of TimeSword Slash/Jump Slash: Fire Breath: \nSword Slash/Jump Slash: \nFire Breath: \nSkyward SwordUppercut: Tail Mace: Fire Breath: \nUppercut: \nTail Mace: \nFire Breath: ",
+   "Weapon(s)": "Bow\nBomb\nDeku Stick\nSword",
+   "Spoil(s)": "Skyward SwordLizard TailBomb Bag\nLizard Tail\nBomb Bag\nBreath of the WildLizalfos HornLizalfos Talon\nLizalfos Horn\nLizalfos Talon"
+  }
+ },
+ {
+  "name": "Blue Lizalfos",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "blue_lizalfos",
+  "attributes": {
+   "Race": "Lizalfos",
+   "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Cadence of Hyrule\nHyrule Warriors: Age of Calamity",
+   "Habitat(s)": "Gerudo Desert\nTabantha Frontier",
+   "Health": "120",
+   "Spoil(s)": "Lizalfos Horn\nLizalfos Talon\nLizalfos Tail"
+  }
+ },
+ {
+  "name": "Black Lizalfos",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "black_lizalfos",
+  "attributes": {
+   "Race": "Lizalfos",
+   "Main appearance(s)": "Breath of the Wild",
+   "Other appearance(s)": "Cadence of Hyrule\nHyrule Warriors: Age of Calamity",
+   "Habitat(s)": "Hyrule Field\nHebra Mountains",
+   "Health": "288",
+   "Spoil(s)": "Lizalfos Horn\nLizalfos Talon\nLizalfos Tail"
+  }
+ },
+ {
+  "name": "Silver Lizalfos",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "silver_lizalfos",
+  "attributes": {
+   "Race": "Lizalfos",
+   "Main appearance(s)": "Breath of the Wild",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Health": "864",
+   "Spoil(s)": "Lizalfos Horn\nLizalfos Talon\nLizalfos Tail\nAmber\nOpal\nRuby\nSapphire\nDiamond"
+  }
+ },
+ {
+  "name": "Chuchu",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "chuchu",
+  "attributes": {
+   "Plural": "Chuchus[1]",
+   "Main appearance(s)": "Majora's Mask\nThe Wind Waker\nThe Minish Cap\nTwilight Princess\nPhantom Hourglass\nSpirit Tracks\nSkyward Sword\nBreath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Nintendo Land\nHyrule Warriors Legends\nHyrule Warriors: Age of Calamity",
+   "Habitat(s)": "Overworld\nDungeons\nPawprint Isle (TWW)",
+   "Health": "The Wind Waker2 (Green and Yellow)  1 (Blue and Red)\n2 (Green and Yellow) \n 1 (Blue and Red)\nBreath of the Wild3/20/48 (Small/Medium/Large)\n3/20/48 (Small/Medium/Large)",
+   "Attack": "The Wind WakerJump (1/4 Heart) (GreenYellowand Red)  Jump (1/2 Heart) (Blue and Dark)\nThe Wind WakerJump (1/4 Heart) (GreenYellowand Red)  Jump (1/2 Heart) (Blue and Dark)\nJump (1/4 Heart) (Green\nYellow\nand Red) \n Jump (1/2 Heart) (Blue and Dark)",
+   "Weapon(s)": "Sword\nBoomerang\nBombs\nArrows",
+   "Spoil(s)": "Chu Jelly"
+  }
+ },
+ {
+  "name": "Rock Octorok",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "rock_octorok",
+  "attributes": {
+   "Race": "Octorok",
+   "Main appearance(s)": "Skyward Sword\nBreath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Habitat(s)": "Breath of the WildEldin CanyonGerudo Highlands\nEldin Canyon\nGerudo Highlands",
+   "Health": "Skyward Sword1\n1\nBreath of the Wild8\n8",
+   "Attack": "Skyward SwordSpitting Rocks\nSpitting Rocks\nBreath of the WildSpitting explosive RocksSpitting Weapons back\nSpitting explosive Rocks\nSpitting Weapons back",
+   "Weapon(s)": "Skyward SwordShields\nShields\nBreath of the WildRemote Bombs\nRemote Bombs",
+   "Spoil(s)": "Breath of the WildOctorok TentacleOcto BalloonOctorok EyeballFish\nOctorok Tentacle\nOcto Balloon\nOctorok Eyeball\nFish"
+  }
+ },
+ {
+  "name": "White-Maned Lynel",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "white-maned_lynel",
+  "attributes": {
+   "Race": "Lynel",
+   "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Habitat(s)": "Hyrule Field\nHebra Mountains\nGreat Plateau ",
+   "Health": "4000",
+   "Spoil(s)": "Lynel Horn\nLynel Hoof\nLynel Guts"
+  }
+ },
+ {
+  "name": "Blue-Maned Lynel",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "blue-maned_lynel",
+  "attributes": {
+   "Race": "Lynel",
+   "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Habitat(s)": "Hyrule Field\nDeep Akkala",
+   "Health": "3000",
+   "Spoil(s)": "Lynel Horn\nLynel Hoof\nLynel Guts"
+  }
+ },
+ {
+  "name": "Silver Lynel",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "silver_lynel",
+  "attributes": {
+   "Race": "Lynel",
+   "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Habitat(s)": "Breath of the WildHyrule Castle \nHyrule Castle ",
+   "Health": "5000",
+   "Spoil(s)": "Breath of the WildLynel HornLynel HoofLynel GutsTopazRubySapphireDiamondStar Fragment\nLynel Horn\nLynel Hoof\nLynel Guts\nTopaz\nRuby\nSapphire\nDiamond\nStar Fragment"
+  }
+ },
+ {
+  "name": "Gibdo",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "gibdo",
+  "attributes": {
+   "Plural": "Gibdos[1]",
+   "Main appearance(s)": "The Legend of Zelda\nA Link to the Past\nLink's Awakening\nOcarina of Time\nMajora's Mask\nOracle of Seasons\nOracle of Ages\nFour Swords\nFour Swords Adventures\nThe Minish Cap\nTwilight Princess\nA Link Between Worlds\nTri Force Heroes\nTears of the Kingdom",
+   "Other appearance(s)": "The Legend of Zelda TV series\nThe Crystal Trap\nThe Wand of Gamelon\nZelda's Adventure\nLink's Crossbow Training\nHyrule Warriors\nCadence of Hyrule",
+   "Habitat(s)": "Ocarina of TimeSpirit TempleShadow TempleBottom of the Well\nSpirit Temple\nShadow Temple\nBottom of the Well\nMajora's MaskBeneath the Well\nBeneath the Well\nFour Swords AdventuresPyramid\nPyramid\nThe Minish CapRoyal CryptPalace of WindsDark Hyrule Castle\nRoyal Crypt\nPalace of Winds\nDark Hyrule Castle\nTwilight PrincessArbiter's GroundsCave of Ordeals\nArbiter's Grounds\nCave of Ordeals\nTri Force HeroesGibdo MausoleumSky TempleDen of Trials\nGibdo Mausoleum\nSky Temple\nDen of Trials",
+   "Health": "The Legend of Zelda6\n6\nLink's Awakening6\n6\nOcarina of Time8\n8\nOracle of Seasons4\n4\nOracle of Ages4\n4",
+   "Attack": "The Legend of ZeldaContact \nContact \nA Link to the PastContact \nContact \nLink's AwakeningContact \nContact \nOcarina of TimeGaze  (stuns Link)Grab  (Per second)\nGaze  (stuns Link)\nGrab  (Per second)\nOracle of SeasonsContact \nContact \nOracle of AgesContact \nContact ",
+   "Weapon(s)": "The Legend of Zelda seriesSwordFire ArrowFlame Lantern\nSword\nFire Arrow\nFlame Lantern\nThe Crystal TrapMagic Arrow\nMagic Arrow\nThe Wand of GamelonShroud (TWoG)\nShroud (TWoG)",
+   "Spoil(s)": "The Legend of ZeldaFour BombsOne RupeeClockHeart\nFour Bombs\nOne Rupee\nClock\nHeart"
+  }
+ },
+ {
+  "name": "Soldier Construct",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "soldier_construct",
+  "attributes": {
+   "Race": "Construct",
+   "Main appearance(s)": "Tears of the Kingdom",
+   "Habitat(s)": "Sky Islands (TotK)",
+   "Spoil(s)": "Soldier Construct Horn (TotK)\nZonai Charge (TotK)"
+  }
+ },
+ {
+  "name": "Hinox",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "hinox",
+  "attributes": {
+   "Race": "Cyclops (LA)[1]",
+   "Main appearance(s)": "A Link to the Past\nLink's Awakening\nFour Swords Adventures\nPhantom Hourglass\nA Link Between Worlds\nTri Force Heroes\nBreath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "A Link to the Past (Ishinomori)\nLink's Awakening (Cagiva)\nFour Swords (Himekawa)\nCadence of Hyrule\nHyrule Warriors: Age of Calamity",
+   "Habitat(s)": "Dark World\nBottle Grotto\nEagle's Tower\nTurtle Rock\nDeath Mountain Foothills\nPalace of Winds\nGoron Temple\nDee Ess Island\nLorule\nVolcano\nDen of Trials",
+   "Member(s)": "Hinox Brothers\nHinox (Character)\nGiant Brothers",
+   "Health": "Link's Awakening8\n8\nBreath of the Wild600\n600",
+   "Attack": "Link's AwakeningGrab and Toss: Bomb Throw: \nGrab and Toss: \nBomb Throw: ",
+   "Weapon(s)": "Bomb\nBow\nBoomerang\nQuake Medallion",
+   "Spoil(s)": "Hinox Toenail (BotW)\nHinox Tooth (BotW)\nHinox Guts (BotW)"
+  }
+ },
+ {
+  "name": "Blue Hinox",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "blue_hinox",
+  "attributes": {
+   "Race": "Hinox",
+   "Main appearance(s)": "Link's Awakening\nBreath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Habitat(s)": "Link's AwakeningTurtle Rock\nTurtle Rock\nBreath of the WildHyrule FieldLanayru Great Spring\nHyrule Field\nLanayru Great Spring",
+   "Health": "Link's Awakening6\n6",
+   "Attack(s)": "Link's AwakeningGrab and Toss: Bomb Throw: \nGrab and Toss: \nBomb Throw: ",
+   "Reward(s)": "Hinox Toenail\nHinox Tooth\nHinox Guts\nRoasted Bass\nRoasted Hearty Bass\nRoasted Hearty Salmon\nRoasted Trout\nRoasted Carp\nRoasted Porgy\nSneaky River Escargot\nBlueshell Escargot\nBlackened Crab"
+  }
+ },
+ {
+  "name": "A Titan-like Construct",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "construct",
+  "attributes": {
+   "Main appearance(s)": "Tears of the Kingdom",
+   "Habitat(s)": "Sky Islands"
+  }
+ },
+ {
+  "name": "Like Like",
+  "category_ref": [
+   "categories/enemies",
+   "categories/normal_enemies"
+  ],
+  "item_id": "like_like",
+  "attributes": {
+   "Main appearance(s)": "The Legend of Zelda\nA Link to the Past\nLink's Awakening\nOcarina of Time\nMajora's Mask\nOracle of Seasons\nOracle of Ages\nThe Minish Cap\nPhantom Hourglass\nSpirit Tracks\nA Link Between Worlds\nTears of the Kingdom",
+   "Other appearance(s)": "Super Smash Bros. Melee\nSuper Smash Bros. for Nintendo 3DS \nSuper Smash Bros. Ultimate \nCadence of Hyrule",
+   "Habitat(s)": "Caves\nDungeons\nUnderwater",
+   "Health": "The Legend of Zelda10\n10\nLink's Awakening2\n2\nOcarina of Time4\n4",
+   "Attack": "The Legend of ZeldaSwallow \nSwallow \nLink's AwakeningSwallow \nSwallow \nOcarina of TimeSwallow \nSwallow ",
+   "Weapon(s)": "Arrows\nBombs\nFires\nSwords"
+  }
+ },
+ {
+  "name": "Boulder",
+  "category_ref": [
+   "categories/enemies",
+   "categories/traps"
+  ],
+  "item_id": "boulder",
+  "attributes": {
+   "Main appearance(s)": "The Legend of Zelda\nA Link to the Past\nLink's Awakening\nOcarina of Time\nMajora's Mask\nOracle of Ages\nFour Swords Adventures\nThe Minish Cap\nPhantom Hourglass\nSpirit Tracks\nA Link Between Worlds\nTri Force Heroes\nBreath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Cadence of Hyrule",
+   "Attack": "A Link to the PastContact (1 Heart)\nContact (1 Heart)\nThe Minish CapContact (1/2 Heart)\nContact (1/2 Heart)"
+  }
+ },
+ {
+  "name": "Spiked Boulder",
+  "category_ref": [
+   "categories/enemies",
+   "categories/traps"
+  ],
+  "item_id": "spiked_boulder",
+  "attributes": {
+   "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
+   "Habitat(s)": "Ancient Shrines"
+  }
+ },
+ {
+  "name": "Molduga",
+  "category_ref": [
+   "categories/enemies",
+   "categories/overword_bosses"
+  ],
+  "item_id": "molduga",
+  "attributes": {
+   "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Habitat(s)": "Gerudo Desert",
+   "Health": "1\n500",
+   "Weakness(es)": "Bombs\nBomb Arrows",
+   "Reward(s)": "Molduga Fins\nMolduga Guts"
+  }
+ },
+ {
+  "name": "Stone Talus (Luminous)",
+  "category_ref": [
+   "categories/enemies",
+   "categories/overword_bosses"
+  ],
+  "item_id": "stone_talus_(luminous)",
+  "attributes": {
+   "Race": "Stone Talus",
+   "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Habitat(s)": "Gerudo Highlands\nHyrule Field",
+   "Weapon(s)": "Iron Sledgehammer\nBomb Arrow",
+   "Spoil(s)": "Flint\nAmber\nOpal\nLuminous Stone\nTopaz\nDiamond"
+  }
+ }
+]
