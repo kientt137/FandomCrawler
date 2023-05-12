@@ -1,0 +1,186 @@
+{
+ "Battery": {
+  "item_id": "Battery",
+  "name": "Battery",
+  "description": "A Zonai device that holds concentrated Zonai-charge energy. Use it to provide temporary power for other Zonai devices.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c7/TotK_Zonai_Battery_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/zonai_devices"
+  ],
+  "item_url": null,
+  "attributes": {},
+  "additional": {}
+ },
+ "Big_Wheel": {
+  "item_id": "Big_Wheel",
+  "name": "Big Wheel",
+  "description": "A powered Zonai device that wants to move! It's a big, mean wheel that excels at tearing through environments that might challenge smaller wheels. It can handle shallow water.",
+  "image_url": null,
+  "category_ref": [
+   "categories/items",
+   "categories/zonai_devices"
+  ],
+  "item_url": null,
+  "attributes": {},
+  "additional": {}
+ },
+ "Small_Wheel": {
+  "item_id": "Small_Wheel",
+  "name": "Small Wheel",
+  "description": "A powered Zonai device that spins quickly and is best suited for flat surfaces. It doesn't hills, or even bumps, very well.",
+  "image_url": null,
+  "category_ref": [
+   "categories/items",
+   "categories/zonai_devices"
+  ],
+  "item_url": null,
+  "attributes": {},
+  "additional": {}
+ },
+ "Cart": {
+  "item_id": "Cart",
+  "name": "Cart",
+  "description": "A Zonai device built to move efficiently across flat surfaces. Apply force to get it moving, so long as it has a power source.",
+  "image_url": null,
+  "category_ref": [
+   "categories/items",
+   "categories/zonai_devices"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Cart",
+  "attributes": {},
+  "additional": {}
+ },
+ "Construct_Head": {
+  "item_id": "Construct_Head",
+  "name": "Construct Head",
+  "description": "A Zonai device that always faces whatever it deems an enemy. Attach a combat Zonai device to the head for homing attacks.",
+  "image_url": null,
+  "category_ref": [
+   "categories/items",
+   "categories/zonai_devices"
+  ],
+  "item_url": null,
+  "attributes": {},
+  "additional": {}
+ },
+ "Fan": {
+  "item_id": "Fan",
+  "name": "Fan",
+  "description": "A Zonai device that produces wind with its internal propeller. It's likely that the Zonai made smart use of this wind power to transport objects and generate thrust.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/42/TotK_Zonai_Fan_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/zonai_devices"
+  ],
+  "item_url": null,
+  "attributes": {},
+  "additional": {}
+ },
+ "Flame_Emitter": {
+  "item_id": "Flame_Emitter",
+  "name": "Flame Emitter",
+  "description": "A Zonai device that shoots fire. It's thought to have been originally used as protection from monsters.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7f/TotK_Zonai_Flame_Emitter_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/zonai_devices"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Flame_Emitter",
+  "attributes": {},
+  "additional": {}
+ },
+ "Hydrant": {
+  "item_id": "Hydrant",
+  "name": "Hydrant",
+  "description": "A Zonai device that gushes water when struck. According to legend, sky islands saw water shortages long ago, but became lush and fertile thanks to this technology.",
+  "image_url": null,
+  "category_ref": [
+   "categories/items",
+   "categories/zonai_devices"
+  ],
+  "item_url": null,
+  "attributes": {},
+  "additional": {}
+ },
+ "Portable_Pot": {
+  "item_id": "Portable_Pot",
+  "name": "Portable Pot",
+  "description": "A Zonai device for cooking food almost anytime, anywhere. It lasts for cooking a single dish.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/54/TotK_Zonai_Portable_Pot_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/zonai_devices"
+  ],
+  "item_url": null,
+  "attributes": {},
+  "additional": {}
+ },
+ "Rocket": {
+  "item_id": "Rocket",
+  "name": "Rocket",
+  "description": "A Zonai device that produces powerful thrust. It packs a punch but burns out quickly.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c4/TotK_Zonai_Rocket_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/zonai_devices"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Rocket",
+  "attributes": {},
+  "additional": {
+   "Locations and uses": "Rockets are Zonai Devices that can be found on the Sky Islands, as well as from a 'pachinko-style' Zonai Machine in exchange for Zonai Charges. When attached to objects using Ultrahand, it can be used to propel objects into the sky, and can additionally be attached to Link's arm to lift him into the air. Despite these uses, they do not last very long."
+  }
+ },
+ "Stabilizer": {
+  "item_id": "Stabilizer",
+  "name": "Stabilizer",
+  "description": "A perfectly balanced Zonai device that stands upright when activated. It was used to secure footholds in unstable places, such as sky islands.",
+  "image_url": null,
+  "category_ref": [
+   "categories/items",
+   "categories/zonai_devices"
+  ],
+  "item_url": null,
+  "attributes": {},
+  "additional": {}
+ },
+ "Steering_Stick": {
+  "item_id": "Steering_Stick",
+  "name": "Steering Stick",
+  "description": "A Zonai device that can control direction when attached to a conveyance. It'll activate all connected Zonai devices at once.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/94/TotK_Zonai_Steering_Stick_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/zonai_devices"
+  ],
+  "item_url": null,
+  "attributes": {},
+  "additional": {}
+ },
+ "Wing": {
+  "item_id": "Wing",
+  "name": "Wing",
+  "description": "A Zonai device that can harness lift to ride the wind. To fly farther, try balancing in the center of the wing.",
+  "image_url": null,
+  "category_ref": [
+   "categories/items",
+   "categories/zonai_devices"
+  ],
+  "item_url": null,
+  "attributes": {},
+  "additional": {}
+ },
+ "Balloon": {
+  "item_id": "Balloon",
+  "name": "Balloon",
+  "description": "A Zonai device that rises when filled with hot air. The hotter the air, the quicker it rises.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0d/TotK_Zonai_Balloon_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/zonai_devices"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Balloon",
+  "attributes": {},
+  "additional": {}
+ }
+}

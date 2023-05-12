@@ -14,8 +14,11 @@ app = firebase_admin.initialize_app(cred)
 
 db = firestore.client()
 
-array_item = []
 fandom_link = "https://zelda.fandom.com/wiki/Armor_in_Tears_of_the_Kingdom"
+
+dict_item = {}
+with open("data/armor_list.json", "r") as f:
+    dict_item = json.loads(f.read())
 
 req = Request(fandom_link)
 html = urlopen(req).read()
@@ -36,18 +39,7 @@ for i in range(0, 3):
     for item in items:
         item_data = item.find_all('td')
         if len(item_data) == 4:
-            image_url = None
-            img_html = item_data[0].find_all('img')
-            if len(img_html) == 1:
-                if img_html[0].has_attr('src'):
-                    image_url = img_html[0]['src']
-                    if not validators.url(image_url):
-                        image_url = None
-                        if img_html[0].has_attr('data-src'):
-                            image_url = img_html[0]['data-src']
-                            if not validators.url(image_url):
-                                image_url = None
-
+            image_url = Utils.get_image_url(item_data[0].find('img'))
             item_id = Utils.string_to_id(item_data[0].text)
             name_html = item_data[0].find_all('b')
             item_url = None
@@ -55,6 +47,7 @@ for i in range(0, 3):
                 a = name_html[0].find_all('a')
                 if len(a) == 1:
                     item_url = 'https://zelda.fandom.com' + a[0]['href']
+                    item_id = Utils.link_to_id(a[0]['href'])
 
             # Item detail
             attributes = {
@@ -83,17 +76,25 @@ for i in range(0, 3):
                                 attributes[title] = div_value.text
                         except Exception as e:
                             pass
-            data = {
-                "item_id": item_id,
-                "name": item_data[0].text.strip(),
-                "description": item_data[3].text.strip(),
-                "image_url": image_url,
-                "category_ref": category_ref,
-                "item_url": item_url,
-                "attributes": attributes
-            }
-            array_item.append(data)
-            print(data)
+
+            if item_id not in dict_item:
+                data = {
+                    "item_id": item_id,
+                    "name": item_data[0].text.strip(),
+                    "description": item_data[3].text.strip(),
+                    "image_url": image_url,
+                    "category_ref": category_ref,
+                    "item_url": item_url,
+                    "attributes": attributes,
+                    "additional": {}
+                }
+                dict_item[item_id] = data
+            else:
+                dict_item[item_id]["name"] = item_data[0].text.strip()
+                dict_item[item_id]["description"] = item_data[3].text.strip()
+                dict_item[item_id]["image_url"] = image_url
+                dict_item[item_id]["item_url"] = item_url
+
     # break
 with open("data/armor_list.json", 'w') as f:
-    json.dump(array_item, f, indent=True)
+    json.dump(dict_item, f, indent=True)
