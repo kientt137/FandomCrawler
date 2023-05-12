@@ -1,1 +1,2542 @@
-{}
+{
+ "Master_Sword": {
+  "item_id": "Master_Sword",
+  "name": "Master Sword",
+  "description": "The Legendary sword that seals the darkness. Its blade gleams with a sacred luster that can oppose the Calamity. Only a hero chosen by the sword itself may wield it.  The Legendary sword that seals the darkness, a blade whose sacred glow can combat the Calamity. Link's conquests in the Trial of the Sword have amplified its splendor.  The Legendary sword that seals the darkness, a blade whose sacred glow can combat the Calamity. Link's triumphs over the Trial of the Sword has awakened its true splendor.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/05/BotW_Master_Sword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Master_Sword",
+  "attributes": {
+   "Compendium No.": "198/203",
+   "Archetype": "",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "30  40  50  60  0",
+   "Durability": "40  188"
+  },
+  "additional": {}
+ },
+ "Tree_Branch": {
+  "item_id": "Tree_Branch",
+  "name": "Tree Branch",
+  "description": "Wooden branches such as this are pretty common, but it's surprisingly well-balanced. It doesn't do much damage but can serve as a weapon in a pinch.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/ef/BotW_Tree_Branch_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Tree_Branch",
+  "attributes": {
+   "Compendium No.": "199/204",
+   "Archetype": "",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "2",
+   "Durability": "4"
+  },
+  "additional": {}
+ },
+ "Torch": {
+  "item_id": "Torch",
+  "name": "Torch",
+  "description": "This torch will stay lit once ignited. If you put it away, the flame will be extinguished until you light it again.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/60/BotW_Torch_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Torch",
+  "attributes": {
+   "Compendium No.": "200/205",
+   "Archetype": "Daily Use Goods",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "2",
+   "Durability": "8"
+  },
+  "additional": {}
+ },
+ "Soup_Ladle": {
+  "item_id": "Soup_Ladle",
+  "name": "Soup Ladle",
+  "description": "A kitchen implement often used for serving delicious soups. It was carved from the wood of a sturdy tree, so it actually packs quite the wallop.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0d/BotW_Soup_Ladle_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Soup_Ladle",
+  "attributes": {
+   "Compendium No.": "201/206",
+   "Archetype": "Daily Use Goods",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "4",
+   "Durability": "5"
+  },
+  "additional": {}
+ },
+ "Boomerang": {
+  "item_id": "Boomerang",
+  "name": "Boomerang",
+  "description": "This throwing weapon was originally used by the forest-dwelling Koroks. Its unique shape allows it to return after being thrown.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b2/BotW_Boomerang_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Boomerang",
+  "attributes": {
+   "Compendium No.": "202/207",
+   "Archetype": "Boomerang",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "8",
+   "Durability": "18"
+  },
+  "additional": {}
+ },
+ "Spring-Loaded_Hammer": {
+  "item_id": "Spring-Loaded_Hammer",
+  "name": "Spring-Loaded Hammer",
+  "description": "This strange hammer is one of Kilton's specialties. Being struck by it doesn't hurt much, but the fourth swing in a string of attacks will send the victim flying.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/12/BotW_Spring-Loaded_Hammer_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Spring-Loaded_Hammer",
+  "attributes": {
+   "Compendium No.": "203/208",
+   "Archetype": "Hammer",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "1",
+   "Durability": "80"
+  },
+  "additional": {}
+ },
+ "Traveler%27s_Sword": {
+  "item_id": "Traveler%27s_Sword",
+  "name": "Traveler's Sword",
+  "description": "A very common sword often kept by travelers to fend off small beasts. It's fairly durable, but a bit unreliable against monsters.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e4/BotW_Traveler%27s_Sword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Traveler%27s_Sword",
+  "attributes": {
+   "Compendium No.": "204/209",
+   "Archetype": "Traveler's Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "5",
+   "Durability": "20"
+  },
+  "additional": {}
+ },
+ "Soldier%27s_Broadsword": {
+  "item_id": "Soldier%27s_Broadsword",
+  "name": "Soldier's Broadsword",
+  "description": "A sword brandished by the soldiers who once protected Hyrule Castle. Its durable blade is well tuned for slaying monsters.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/28/BotW_Soldier%27s_Broadsword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Soldier%27s_Broadsword",
+  "attributes": {
+   "Compendium No.": "205/210",
+   "Archetype": "Soldier's Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "14",
+   "Durability": "25"
+  },
+  "additional": {}
+ },
+ "Knight%27s_Broadsword": {
+  "item_id": "Knight%27s_Broadsword",
+  "name": "Knight's Broadsword",
+  "description": "Knights of Hyrule once carried this sword. These days it's the weapon of choice for seasoned adventurers thanks to its ease of use and high attack power.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9a/BotW_Knight%27s_Broadsword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Knight%27s_Broadsword",
+  "attributes": {
+   "Compendium No.": "206/211",
+   "Archetype": "Knight's Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "26",
+   "Durability": "27"
+  },
+  "additional": {}
+ },
+ "Royal_Broadsword": {
+  "item_id": "Royal_Broadsword",
+  "name": "Royal Broadsword",
+  "description": "The Hyrulean royal family would award this sword to knights who achieved remarkable feats. A sword that balances strength and beauty as elegantly as this one is a rare find.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e6/BotW_Royal_Broadsword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Royal_Broadsword",
+  "attributes": {
+   "Compendium No.": "207/212",
+   "Archetype": "Royal Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "36",
+   "Durability": "36"
+  },
+  "additional": {}
+ },
+ "Forest_Dweller%27s_Sword": {
+  "item_id": "Forest_Dweller%27s_Sword",
+  "name": "Forest Dweller's Sword",
+  "description": "Koroks made this sword for Hylians. It's made of wood, so it isn't the best choice for head-on attacks. Its original intent was likely clearing vines to forge paths through forests.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/23/BotW_Forest_Dweller%27s_Sword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Forest_Dweller%27s_Sword",
+  "attributes": {
+   "Compendium No.": "208/213",
+   "Archetype": "Forest Dweller's Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "22",
+   "Durability": "27"
+  },
+  "additional": {}
+ },
+ "Zora_Sword": {
+  "item_id": "Zora_Sword",
+  "name": "Zora Sword",
+  "description": "The ornamentation that adorns this blade is a traditional Zora design. It's forged from a very durable and rust-proof metal.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/8e/BotW_Zora_Sword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Zora_Sword",
+  "attributes": {
+   "Compendium No.": "209/214",
+   "Archetype": "Zora Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "15",
+   "Durability": "27"
+  },
+  "additional": {}
+ },
+ "Feathered_Edge": {
+  "item_id": "Feathered_Edge",
+  "name": "Feathered Edge",
+  "description": "Rito craftsmen forged this lightweight, double-edge sword so Rito warriors could soar into battle unhindered by its weight.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/fc/BotW_Feathered_Edge_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Feathered_Edge",
+  "attributes": {
+   "Compendium No.": "210/215",
+   "Archetype": "Rito Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "15",
+   "Durability": "27"
+  },
+  "additional": {}
+ },
+ "Gerudo_Scimitar": {
+  "item_id": "Gerudo_Scimitar",
+  "name": "Gerudo Scimitar",
+  "description": "This common sword is often carried by Gerudo women for self-defense. Its short, curved blade is easily recognized.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/93/BotW_Gerudo_Scimitar_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Gerudo_Scimitar",
+  "attributes": {
+   "Compendium No.": "211/216",
+   "Archetype": "Gerudo Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "16",
+   "Durability": "23"
+  },
+  "additional": {}
+ },
+ "Moonlight_Scimitar": {
+  "item_id": "Moonlight_Scimitar",
+  "name": "Moonlight Scimitar",
+  "description": "Delicate Gerudo carvings decorate this curved sword. The engraved blade is extremely sharp. Apparently it once served ceremonial purposes in festivals.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b5/BotW_Moonlight_Scimitar_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Moonlight_Scimitar",
+  "attributes": {
+   "Compendium No.": "212/217",
+   "Archetype": "Gerudo Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "25",
+   "Durability": "32"
+  },
+  "additional": {}
+ },
+ "Scimitar_of_the_Seven": {
+  "item_id": "Scimitar_of_the_Seven",
+  "name": "Scimitar of the Seven",
+  "description": "A famous sword once beloved by the Gerudo Champion Urbosa. It is said that when Urbosa swung this sword in battle, her movements resembled a beautiful dance.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a5/BotW_Scimitar_of_the_Seven_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Scimitar_of_the_Seven",
+  "attributes": {
+   "Compendium No.": "213/218",
+   "Archetype": "Gerudo Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "32",
+   "Durability": "60"
+  },
+  "additional": {}
+ },
+ "Eightfold_Blade": {
+  "item_id": "Eightfold_Blade",
+  "name": "Eightfold Blade",
+  "description": "A single-edged sword traditional to the Sheikah tribe. Forged using ancient technology it just may be among the sharpest conventional weapons ever made.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/10/BotW_Eightfold_Blade_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Eightfold_Blade",
+  "attributes": {
+   "Compendium No.": "214/219",
+   "Archetype": "Sheikah Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "15",
+   "Durability": "26"
+  },
+  "additional": {}
+ },
+ "Ancient_Short_Sword": {
+  "item_id": "Ancient_Short_Sword",
+  "name": "Ancient Short Sword",
+  "description": "The blade of this sword was made using an ancient power lost to this modern age. Its blade appears only when drawn, and its cutting power surpasses metal swords.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/65/BotW_Ancient_Short_Sword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Ancient_Short_Sword",
+  "attributes": {
+   "Compendium No.": "215/220",
+   "Archetype": "Ancient Soldier Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "40",
+   "Durability": "54"
+  },
+  "additional": {}
+ },
+ "Rusty_Broadsword": {
+  "item_id": "Rusty_Broadsword",
+  "name": "Rusty Broadsword",
+  "description": "A rusty sword used ages ago by a skilled swordsman. It can do some damage in the right hands but also breaks quickly.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/df/BotW_Rusty_Broadsword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Rusty_Broadsword",
+  "attributes": {
+   "Compendium No.": "216/221",
+   "Archetype": "Rusty Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "6",
+   "Durability": "8"
+  },
+  "additional": {}
+ },
+ "Royal_Guard%27s_Sword": {
+  "item_id": "Royal_Guard%27s_Sword",
+  "name": "Royal Guard's Sword",
+  "description": "A Sheikah-made replica of the sword that seals the darkness. It was made with ancient technology to oppose the Great Calamity, but its low durability made it inefficient.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f8/BotW_Royal_Guard%27s_Sword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Royal_Guard%27s_Sword",
+  "attributes": {
+   "Compendium No.": "217/222",
+   "Archetype": "Royal Guard's Series",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "48",
+   "Durability": "14"
+  },
+  "additional": {}
+ },
+ "Flameblade": {
+  "item_id": "Flameblade",
+  "name": "Flameblade",
+  "description": "This magical sword was forged in the lava of Death Mountain. It leaves white-hot flames in its wake when the blade glows red.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/91/BotW_Flameblade_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Flameblade",
+  "attributes": {
+   "Compendium No.": "218/223",
+   "Archetype": "Magic Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "24",
+   "Durability": "36"
+  },
+  "additional": {}
+ },
+ "Frostblade": {
+  "item_id": "Frostblade",
+  "name": "Frostblade",
+  "description": "A magical sword forged in the frigid mountains of the Hebra region. When the blade glows blue, enemies struck by it will become frozen.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/43/BotW_Frostblade_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Frostblade",
+  "attributes": {
+   "Compendium No.": "219/224",
+   "Archetype": "Magic Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "20",
+   "Durability": "30"
+  },
+  "additional": {}
+ },
+ "Thunderblade": {
+  "item_id": "Thunderblade",
+  "name": "Thunderblade",
+  "description": "A magical sword forged and refined by lightning from the Hyrule Hills. When the blade shines with a golden light, it will electrocute enemies struck by it.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/38/BotW_Thunderblade_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Thunderblade",
+  "attributes": {
+   "Compendium No.": "220/225",
+   "Archetype": "Magic Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "22",
+   "Durability": "36"
+  },
+  "additional": {}
+ },
+ "Goddess_Sword": {
+  "item_id": "Goddess_Sword",
+  "name": "Goddess Sword",
+  "description": "A sword said to have once belonged to a hero from the sky. Its blade houses the fire of the Goddess. When wielded, a strange yet heavenly breeze kicks up around you.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b6/BotW_Goddess_Sword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Goddess_Sword",
+  "attributes": {
+   "Compendium No.": "",
+   "Archetype": "",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "28",
+   "Durability": "45"
+  },
+  "additional": {}
+ },
+ "Sword": {
+  "item_id": "Sword",
+  "name": "Sword",
+  "description": "A sword once wielded by a hero in an ancient age. When grasped, a strange sense of nostalgia washes over you. Take it when going alone would otherwise be dangerous.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bd/BotW_Sword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Sword",
+  "attributes": {
+   "Compendium No.": "",
+   "Archetype": "",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "22",
+   "Durability": "27"
+  },
+  "additional": {}
+ },
+ "Sea-Breeze_Boomerang": {
+  "item_id": "Sea-Breeze_Boomerang",
+  "name": "Sea-Breeze Boomerang",
+  "description": "A boomerang said to have been used by a hero who traveled the Great Sea. It smells faintly of salt water.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d9/BotW_Sea-Breeze_Boomerang_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Sea-Breeze_Boomerang",
+  "attributes": {
+   "Compendium No.": "",
+   "Archetype": "",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "20",
+   "Durability": "20"
+  },
+  "additional": {}
+ },
+ "Boko_Club": {
+  "item_id": "Boko_Club",
+  "name": "Boko Club",
+  "description": "A crude Bokoblin club made to clobber small prey. It's essentially a stick, so its durability is low.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7f/BotW_Boko_Club_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Boko_Club",
+  "attributes": {
+   "Compendium No.": "221/226",
+   "Archetype": "Bokoblin Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "4",
+   "Durability": "8"
+  },
+  "additional": {}
+ },
+ "Spiked_Boko_Club": {
+  "item_id": "Spiked_Boko_Club",
+  "name": "Spiked Boko Club",
+  "description": "A reinforced Bokoblin club made to maximize damage. The sharpened bones jabbed into it make it a brutal weapon.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3f/BotW_Spiked_Boko_Club_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Spiked_Boko_Club",
+  "attributes": {
+   "Compendium No.": "222/227",
+   "Archetype": "Bokoblin Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "12",
+   "Durability": "14"
+  },
+  "additional": {}
+ },
+ "Dragonbone_Boko_Club": {
+  "item_id": "Dragonbone_Boko_Club",
+  "name": "Dragonbone Boko Club",
+  "description": "This Bokoblin club has been reinforced with fossilized bones to maximize clobbering potential. Only the brawniest of Bokoblins can manage its immense weight.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6f/BotW_Dragonbone_Boko_Club_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Dragonbone_Boko_Club",
+  "attributes": {
+   "Compendium No.": "223/228",
+   "Archetype": "Bokoblin Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "24",
+   "Durability": "18"
+  },
+  "additional": {}
+ },
+ "Lizal_Boomerang": {
+  "item_id": "Lizal_Boomerang",
+  "name": "Lizal Boomerang",
+  "description": "A curved sword favored by the Lizalfos. It can be used to attack directly or can be thrown like a boomerang.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/28/BotW_Lizal_Boomerang_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lizal_Boomerang",
+  "attributes": {
+   "Compendium No.": "224/229",
+   "Archetype": "Lizalfos Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "14",
+   "Durability": "17"
+  },
+  "additional": {}
+ },
+ "Lizal_Forked_Boomerang": {
+  "item_id": "Lizal_Forked_Boomerang",
+  "name": "Lizal Forked Boomerang",
+  "description": "Blue Lizalfos in particular like this weapon. It has one more blade than the Lizal boomerang to give it additional cutting power, and it still returns when thrown.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/50/BotW_Lizal_Forked_Boomerang_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lizal_Forked_Boomerang",
+  "attributes": {
+   "Compendium No.": "225/230",
+   "Archetype": "Lizalfos Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "24",
+   "Durability": "25"
+  },
+  "additional": {}
+ },
+ "Lizal_Tri-Boomerang": {
+  "item_id": "Lizal_Tri-Boomerang",
+  "name": "Lizal Tri-Boomerang",
+  "description": "More blades means more attack power! It can be used as a boomerang, but all those blades makes that a bit more dangerous. Carried by Black Lizalfos seasoned in battle.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/66/BotW_Lizal_Tri-Boomerang_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lizal_Tri-Boomerang",
+  "attributes": {
+   "Compendium No.": "226/231",
+   "Archetype": "Lizalfos Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "36",
+   "Durability": "27"
+  },
+  "additional": {}
+ },
+ "Guardian_Sword": {
+  "item_id": "Guardian_Sword",
+  "name": "Guardian Sword",
+  "description": "A sword often wielded by Guardian Scouts. Its blue energy blade is a product of ancient technology. It's not very durable.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c5/BotW_Guardian_Sword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Guardian_Sword",
+  "attributes": {
+   "Compendium No.": "227/232",
+   "Archetype": "Guardian Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "20",
+   "Durability": "17"
+  },
+  "additional": {}
+ },
+ "Guardian_Sword%2B": {
+  "item_id": "Guardian_Sword%2B",
+  "name": "Guardian Sword+",
+  "description": "This Guardian sword has enhanced power over the standard model. Its cutting capabilities are improved, and its durability has seen a slight uptick.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f3/BotW_Guardian_Sword%EF%BC%8B_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Guardian_Sword%2B",
+  "attributes": {
+   "Compendium No.": "228/233",
+   "Archetype": "Guardian Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "30",
+   "Durability": "26"
+  },
+  "additional": {}
+ },
+ "Guardian_Sword%2B%2B": {
+  "item_id": "Guardian_Sword%2B%2B",
+  "name": "Guardian Sword++",
+  "description": "The abilities of this Guardian sword have been boosted to the maximum, as evidenced by its increase in size. It slices through armor like a hot knife through butter!",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d5/BotW_Guardian_Sword%EF%BC%8B%EF%BC%8B_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Guardian_Sword%2B%2B",
+  "attributes": {
+   "Compendium No.": "229/234",
+   "Archetype": "Guardian Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "40",
+   "Durability": "32"
+  },
+  "additional": {}
+ },
+ "Lynel_Sword": {
+  "item_id": "Lynel_Sword",
+  "name": "Lynel Sword",
+  "description": "This Lynel-made sword was designed with smashing in mind rather than slicing. It's on the heavy side compared to what Hylians are used to, but it's very strong.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/30/BotW_Lynel_Sword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lynel_Sword",
+  "attributes": {
+   "Compendium No.": "230/235",
+   "Archetype": "Lynel Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "24",
+   "Durability": "26"
+  },
+  "additional": {}
+ },
+ "Mighty_Lynel_Sword": {
+  "item_id": "Mighty_Lynel_Sword",
+  "name": "Mighty Lynel Sword",
+  "description": "This Lynel-made sword boasts more blades and more attack power. A skilled Lynel can draw this sword simply in passing and still cut a foe in two.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/61/BotW_Mighty_Lynel_Sword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Mighty_Lynel_Sword",
+  "attributes": {
+   "Compendium No.": "231/236",
+   "Archetype": "Lynel Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "36",
+   "Durability": "32"
+  },
+  "additional": {}
+ },
+ "Savage_Lynel_Sword": {
+  "item_id": "Savage_Lynel_Sword",
+  "name": "Savage Lynel Sword",
+  "description": "A brutal sword carried by white-haired Lynels. The savage blades are strong enough to cut down any foe, no matter how strong.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/85/BotW_Savage_Lynel_Sword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Savage_Lynel_Sword",
+  "attributes": {
+   "Compendium No.": "232/237",
+   "Archetype": "Lynel Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "58",
+   "Durability": "41"
+  },
+  "additional": {}
+ },
+ "Fire_Rod": {
+  "item_id": "Fire_Rod",
+  "name": "Fire Rod",
+  "description": "A magical rod that can cast fireballs. The rod will break if it strikes something directly, so use it wisely.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b3/BotW_Fire_Rod_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Fire_Rod",
+  "attributes": {
+   "Compendium No.": "233/238",
+   "Archetype": "",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "5",
+   "Durability": "14"
+  },
+  "additional": {}
+ },
+ "Meteor_Rod": {
+  "item_id": "Meteor_Rod",
+  "name": "Meteor Rod",
+  "description": "A magical rod that can cast three fireballs at once, crafted by an ancient magician. It will break upon running out of magical energy, so make it last!",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/ae/BotW_Meteor_Rod_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Meteor_Rod",
+  "attributes": {
+   "Compendium No.": "234/239",
+   "Archetype": "",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "10",
+   "Durability": "32"
+  },
+  "additional": {}
+ },
+ "Ice_Rod": {
+  "item_id": "Ice_Rod",
+  "name": "Ice Rod",
+  "description": "A magical rod crafted from refined ice found in the Hebra Mountains. This rod can cast waves of freezing air. Great for magic\u2014not so great for melee.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e1/BotW_Ice_Rod_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Ice_Rod",
+  "attributes": {
+   "Compendium No.": "235/240",
+   "Archetype": "",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "5",
+   "Durability": "14"
+  },
+  "additional": {}
+ },
+ "Blizzard_Rod": {
+  "item_id": "Blizzard_Rod",
+  "name": "Blizzard Rod",
+  "description": "A magical rod that can cast extreme cold in a wide range. These are crafted from refined ice found at the summit of Hebra Peak. It will break when depleted.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/42/BotW_Blizzard_Rod_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Blizzard_Rod",
+  "attributes": {
+   "Compendium No.": "236/241",
+   "Archetype": "",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "10",
+   "Durability": "32"
+  },
+  "additional": {}
+ },
+ "Lightning_Rod": {
+  "item_id": "Lightning_Rod",
+  "name": "Lightning Rod",
+  "description": "A magical rod that can shoot balls of electricity. Its gem contains lightning from the Hyrule Hills. It's not recommended to use as a melee weapon.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/39/BotW_Lightning_Rod_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lightning_Rod",
+  "attributes": {
+   "Compendium No.": "237/242",
+   "Archetype": "",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "5",
+   "Durability": "14"
+  },
+  "additional": {}
+ },
+ "Thunderstorm_Rod": {
+  "item_id": "Thunderstorm_Rod",
+  "name": "Thunderstorm Rod",
+  "description": "A magical rod that can hurl three balls of electricity at once. Its gem contains electricity from the Hyrule Hills, and the rod will break when that electricity runs out.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4e/BotW_Thunderstorm_Rod_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Thunderstorm_Rod",
+  "attributes": {
+   "Compendium No.": "238/243",
+   "Archetype": "",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "10",
+   "Durability": "32"
+  },
+  "additional": {}
+ },
+ "Vicious_Sickle": {
+  "item_id": "Vicious_Sickle",
+  "name": "Vicious Sickle",
+  "description": "A grim weapon favored by the Yiga. The half-moon shape of the blade allows for the rapid delivery of fatal wounds and serves as a symbol of their terror. Its durability is low.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bf/BotW_Vicious_Sickle_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Vicious_Sickle",
+  "attributes": {
+   "Compendium No.": "239/244",
+   "Archetype": "Yiga Clan Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "16",
+   "Durability": "14"
+  },
+  "additional": {}
+ },
+ "Demon_Carver": {
+  "item_id": "Demon_Carver",
+  "name": "Demon Carver",
+  "description": "This lethal weapon is forged by the Yiga. Its unique shape facilitates the sound dispatching of any target and strikes fear into the hearts of all who see it.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/90/BotW_Demon_Carver_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Demon_Carver",
+  "attributes": {
+   "Compendium No.": "240/245",
+   "Archetype": "Yiga Clan Gear",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "40",
+   "Durability": "25"
+  },
+  "additional": {}
+ },
+ "Bokoblin_Arm": {
+  "item_id": "Bokoblin_Arm",
+  "name": "Bokoblin Arm",
+  "description": "A skeletal arm that keeps moving even after it's severed from its body. It's kind of gross to strap it to your back, but it'll do in a pinch. It's old and fragile, so it's quick to break.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a4/BotW_Bokoblin_Arm_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Bokoblin_Arm",
+  "attributes": {
+   "Compendium No.": "241/246",
+   "Archetype": "",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "5",
+   "Durability": "5"
+  },
+  "additional": {}
+ },
+ "Lizalfos_Arm": {
+  "item_id": "Lizalfos_Arm",
+  "name": "Lizalfos Arm",
+  "description": "The arm of a Stalizalfos that continues to struggle even in death. It can be used as a weapon, but it's very brittle. You can feel it wiggling when you strap it to your back...",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e9/BotW_Lizalfos_Arm_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lizalfos_Arm",
+  "attributes": {
+   "Compendium No.": "242/247",
+   "Archetype": "",
+   "Category": "One-handed weapon",
+   "Can use a shield simultaneously": "Yes",
+   "Attack": "12",
+   "Durability": "8"
+  },
+  "additional": {}
+ },
+ "Korok_Leaf": {
+  "item_id": "Korok_Leaf",
+  "name": "Korok Leaf",
+  "description": "A single swing of this giant, sturdy leaf can create a gust of wind strong enough to blow away light objects.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/66/BotW_Korok_Leaf_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Korok_Leaf",
+  "attributes": {
+   "Compendium No.": "243/248",
+   "Archetype": "",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "1",
+   "Durability": "25"
+  },
+  "additional": {}
+ },
+ "Farming_Hoe": {
+  "item_id": "Farming_Hoe",
+  "name": "Farming Hoe",
+  "description": "A farming tool primarily used for tilling fields. Its fine craftsmanship is sturdy enough to withstand backbreaking fieldwork, but its battle applications are untested.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/82/BotW_Farming_Hoe_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Farming_Hoe",
+  "attributes": {
+   "Compendium No.": "244/249",
+   "Archetype": "Daily Use Goods",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "16",
+   "Durability": "6"
+  },
+  "additional": {}
+ },
+ "Boat_Oar": {
+  "item_id": "Boat_Oar",
+  "name": "Boat Oar",
+  "description": "Made for paddling boats, but it was made sturdy enough to fight strong currents. Maybe it's useful for self-defense in a pinch.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/8b/BotW_Boat_Oar_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Boat_Oar",
+  "attributes": {
+   "Compendium No.": "245/250",
+   "Archetype": "Daily Use Goods",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "14",
+   "Durability": "8"
+  },
+  "additional": {}
+ },
+ "Woodcutter%27s_Axe": {
+  "item_id": "Woodcutter%27s_Axe",
+  "name": "Woodcutter's Axe",
+  "description": "A woodcutter's tool of choice for felling trees. Its formidable weight and uneven balancing make it a slow, inefficient weapon.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c1/BotW_Woodcutter%27s_Axe_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Woodcutter%27s_Axe",
+  "attributes": {
+   "Compendium No.": "246/251",
+   "Archetype": "",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "3",
+   "Durability": "47"
+  },
+  "additional": {}
+ },
+ "Double_Axe": {
+  "item_id": "Double_Axe",
+  "name": "Double Axe",
+  "description": "This double-sided axe was designed with fighting in mind. It's a bit unwieldy, so it requires a well-practiced technique to use efficiently.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b8/BotW_Double_Axe_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Double_Axe",
+  "attributes": {
+   "Compendium No.": "247/252",
+   "Archetype": "",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "18",
+   "Durability": "52"
+  },
+  "additional": {}
+ },
+ "Iron_Sledgehammer": {
+  "item_id": "Iron_Sledgehammer",
+  "name": "Iron Sledgehammer",
+  "description": "This large iron sledgehammer was originally used for mining, but it works reasonably well as a weapon too.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/32/BotW_Iron_Sledgehammer_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Iron_Sledgehammer",
+  "attributes": {
+   "Compendium No.": "248/253",
+   "Archetype": "Hammer",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "12",
+   "Durability": "40"
+  },
+  "additional": {}
+ },
+ "Giant_Boomerang": {
+  "item_id": "Giant_Boomerang",
+  "name": "Giant Boomerang",
+  "description": "This massive boomerang requires two hands. Originally used for hunting, it was modified for use as a weapon. The blades on the inner curves make it a bit tricky to wield.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/69/BotW_Giant_Boomerang_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Giant_Boomerang",
+  "attributes": {
+   "Compendium No.": "249/254",
+   "Archetype": "Boomerang",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "25",
+   "Durability": "40"
+  },
+  "additional": {}
+ },
+ "Traveler%27s_Claymore": {
+  "item_id": "Traveler%27s_Claymore",
+  "name": "Traveler's Claymore",
+  "description": "A basic two-handed sword often wielded by aspiring adventurers. Its immense weight can knock enemies' shields right out of their hands.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/99/BotW_Traveler%27s_Claymore_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Traveler%27s_Claymore",
+  "attributes": {
+   "Compendium No.": "250/255",
+   "Archetype": "Traveler's Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "10",
+   "Durability": "20"
+  },
+  "additional": {}
+ },
+ "Soldier%27s_Claymore": {
+  "item_id": "Soldier%27s_Claymore",
+  "name": "Soldier's Claymore",
+  "description": "A two-handed sword designed for combat. It's heavy and hard to use but has decent build quality and durability.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/38/BotW_Soldier%27s_Claymore_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Soldier%27s_Claymore",
+  "attributes": {
+   "Compendium No.": "251/256",
+   "Archetype": "Soldier's Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "20",
+   "Durability": "25"
+  },
+  "additional": {}
+ },
+ "Knight%27s_Claymore": {
+  "item_id": "Knight%27s_Claymore",
+  "name": "Knight's Claymore",
+  "description": "Only the most confident of Hyrule Castle's knights carried this two-handed sword. Its cutting edge is finely honed.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f4/BotW_Knight%27s_Claymore_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Knight%27s_Claymore",
+  "attributes": {
+   "Compendium No.": "252/257",
+   "Archetype": "Knight's Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "38",
+   "Durability": "30"
+  },
+  "additional": {}
+ },
+ "Royal_Claymore": {
+  "item_id": "Royal_Claymore",
+  "name": "Royal Claymore",
+  "description": "A two-handed sword issued to the Hyrulean royal family's immediate guard detail. Its powerful strikes are said to crush an opponent's body and resolve alike.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/23/BotW_Royal_Claymore_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Royal_Claymore",
+  "attributes": {
+   "Compendium No.": "253/258",
+   "Archetype": "Royal Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "52",
+   "Durability": "40"
+  },
+  "additional": {}
+ },
+ "Silver_Longsword": {
+  "item_id": "Silver_Longsword",
+  "name": "Silver Longsword",
+  "description": "Although the Zora prefer spears to swords, they made this two-handed weapon using a special metal. It found popularity among Hylians for its unique design.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f6/BotW_Silver_Longsword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Silver_Longsword",
+  "attributes": {
+   "Compendium No.": "254/259",
+   "Archetype": "Zora Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "22",
+   "Durability": "30"
+  },
+  "additional": {}
+ },
+ "Cobble_Crusher": {
+  "item_id": "Cobble_Crusher",
+  "name": "Cobble Crusher",
+  "description": "A Goron-made two-handed weapon. It's made from thick, hard metal and has no cutting edge, so it relies on its sheer weight to crush all opponents.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b7/BotW_Cobble_Crusher_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Cobble_Crusher",
+  "attributes": {
+   "Compendium No.": "255/260",
+   "Archetype": "Goron Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "15",
+   "Durability": "30"
+  },
+  "additional": {}
+ },
+ "Stone_Smasher": {
+  "item_id": "Stone_Smasher",
+  "name": "Stone Smasher",
+  "description": "A two-handed weapon forged from a rare metal mined in Goron City. Its center of gravity is at its tip, so it uses centrifugal force and its sheer weight to smash opponents flat.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/cf/BotW_Stone_Smasher_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Stone_Smasher",
+  "attributes": {
+   "Compendium No.": "256/261",
+   "Archetype": "Goron Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "42",
+   "Durability": "40"
+  },
+  "additional": {}
+ },
+ "Boulder_Breaker": {
+  "item_id": "Boulder_Breaker",
+  "name": "Boulder Breaker",
+  "description": "This two-handed weapon was once wielded by the Goron Champion Daruk. Daruk made swinging it around look easy, but a Hylian would need an immense amount of strength.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/2a/BotW_Boulder_Breaker_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Boulder_Breaker",
+  "attributes": {
+   "Compendium No.": "257/262",
+   "Archetype": "Goron Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "60",
+   "Durability": "60"
+  },
+  "additional": {}
+ },
+ "Golden_Claymore": {
+  "item_id": "Golden_Claymore",
+  "name": "Golden Claymore",
+  "description": "Only the most talented Gerudo sword fighters carry this two-handed sword. It's actually much lighter than it appears and is surprisingly easy to wield.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b6/BotW_Golden_Claymore_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Golden_Claymore",
+  "attributes": {
+   "Compendium No.": "258/263",
+   "Archetype": "Gerudo Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "28",
+   "Durability": "30"
+  },
+  "additional": {}
+ },
+ "Eightfold_Longblade": {
+  "item_id": "Eightfold_Longblade",
+  "name": "Eightfold Longblade",
+  "description": "A single-edged sword seldom seen in Hyrule. This weapon is passed down through the Sheikah tribe and has an astonishingly sharp edge ideal for slicing.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/ce/BotW_Eightfold_Longblade_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Eightfold_Longblade",
+  "attributes": {
+   "Compendium No.": "259/264",
+   "Archetype": "Sheikah Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "32",
+   "Durability": "25"
+  },
+  "additional": {}
+ },
+ "Edge_of_Duality": {
+  "item_id": "Edge_of_Duality",
+  "name": "Edge of Duality",
+  "description": "A curious double-edged sword crafted using Sheikah technology. It was originally made for Hyrulean knights unfamiliar with single-edged blades.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0c/BotW_Edge_of_Duality_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Edge_of_Duality",
+  "attributes": {
+   "Compendium No.": "260/265",
+   "Archetype": "Sheikah Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "50",
+   "Durability": "35"
+  },
+  "additional": {}
+ },
+ "Ancient_Bladesaw": {
+  "item_id": "Ancient_Bladesaw",
+  "name": "Ancient Bladesaw",
+  "description": "This two-handed sword was forged using ancient Sheikah technology. Its unique rotating blades give it impressive cutting power that will slice enemies to shreds.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/ce/BotW_Ancient_Bladesaw_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Ancient_Bladesaw",
+  "attributes": {
+   "Compendium No.": "261/266",
+   "Archetype": "Ancient Soldier Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "55",
+   "Durability": "50"
+  },
+  "additional": {}
+ },
+ "Rusty_Claymore": {
+  "item_id": "Rusty_Claymore",
+  "name": "Rusty Claymore",
+  "description": "A two-handed sword not properly cared for. Although it can be used as a weapon, its durability is very low. Don't expect it to last for more than a few strikes.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/24/BotW_Rusty_Claymore_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Rusty_Claymore",
+  "attributes": {
+   "Compendium No.": "262/267",
+   "Archetype": "",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "12",
+   "Durability": "10"
+  },
+  "additional": {}
+ },
+ "Royal_Guard%27s_Claymore": {
+  "item_id": "Royal_Guard%27s_Claymore",
+  "name": "Royal Guard's Claymore",
+  "description": "The Sheikah used the very essence of ancient technology to forge this greatsword. It was designed to oppose the Calamity, but its low durability made it impractical in battle.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/2d/BotW_Royal_Guard%27s_Claymore_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Royal_Guard%27s_Claymore",
+  "attributes": {
+   "Compendium No.": "263/268",
+   "Archetype": "Royal Guard's Series",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "72",
+   "Durability": "15"
+  },
+  "additional": {}
+ },
+ "Great_Flameblade": {
+  "item_id": "Great_Flameblade",
+  "name": "Great Flameblade",
+  "description": "This magic-infused greatsword was forged in the fires of Death Mountain by Goron smiths in an ancient age. Attack when the blade glows red to expel flames.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7d/BotW_Great_Flameblade_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Great_Flameblade",
+  "attributes": {
+   "Compendium No.": "264/269",
+   "Archetype": "Magic Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "34",
+   "Durability": "50"
+  },
+  "additional": {}
+ },
+ "Great_Frostblade": {
+  "item_id": "Great_Frostblade",
+  "name": "Great Frostblade",
+  "description": "This magic-infused greatsword was forged by smelting ore found in the Hebra Mountains' permafrost. Attack when the blade glows blue to expel freezing air.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/07/BotW_Great_Frostblade_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Great_Frostblade",
+  "attributes": {
+   "Compendium No.": "265/270",
+   "Archetype": "Magic Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "30",
+   "Durability": "40"
+  },
+  "additional": {}
+ },
+ "Great_Thunderblade": {
+  "item_id": "Great_Thunderblade",
+  "name": "Great Thunderblade",
+  "description": "This magic-infused greatsword was forged by the Hyrulean royal family using lightning from the Hyrule Hills. Attack when the blade glows golden to expel lightning.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a4/BotW_Great_Thunderblade_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Great_Thunderblade",
+  "attributes": {
+   "Compendium No.": "266/271",
+   "Archetype": "Magic Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "32",
+   "Durability": "50"
+  },
+  "additional": {}
+ },
+ "Sword_of_the_Six_Sages": {
+  "item_id": "Sword_of_the_Six_Sages",
+  "name": "Sword of the Six Sages",
+  "description": "The Six Sages are said to have forged this longsword to seal a demon king in the world where the hero fought against the beasts of twilight. The blade shines with a holy luster.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/8a/BotW_Sword_of_the_Six_Sages_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Sword_of_the_Six_Sages",
+  "attributes": {
+   "Compendium No.": "",
+   "Archetype": "",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "48",
+   "Durability": "50"
+  },
+  "additional": {}
+ },
+ "Biggoron%27s_Sword": {
+  "item_id": "Biggoron%27s_Sword",
+  "name": "Biggoron's Sword",
+  "description": "A legendary greatsword forged by a Goron craftsman for a hero who traveled through time. The exceptionally sharp cutting edge is a testament to the craftsman's mastery.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d3/BotW_Biggoron%27s_Sword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Biggoron%27s_Sword",
+  "attributes": {
+   "Compendium No.": "",
+   "Archetype": "",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "50",
+   "Durability": "60"
+  },
+  "additional": {}
+ },
+ "Fierce_Deity_Sword": {
+  "item_id": "Fierce_Deity_Sword",
+  "name": "Fierce Deity Sword",
+  "description": "A peculiar greatsword allegedly used by a hero from a world in which the moon threatened to fall. It slashes wildly in battle as if possessed by a fierce deity.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4e/BotW_Fierce_Deity_Sword_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Fierce_Deity_Sword",
+  "attributes": {
+   "Compendium No.": "",
+   "Archetype": "",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "60",
+   "Durability": "35"
+  },
+  "additional": {}
+ },
+ "Boko_Bat": {
+  "item_id": "Boko_Bat",
+  "name": "Boko Bat",
+  "description": "A clunky club made by a Bokoblin. If you swing it at an enemy's shield, it may be able to knock the shield out of your foe's hand.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/8e/BotW_Boko_Bat_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Boko_Bat",
+  "attributes": {
+   "Compendium No.": "267/272",
+   "Archetype": "Bokoblin Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "6",
+   "Durability": "12"
+  },
+  "additional": {}
+ },
+ "Spiked_Boko_Bat": {
+  "item_id": "Spiked_Boko_Bat",
+  "name": "Spiked Boko Bat",
+  "description": "After much consideration by Bokoblins on how to improve the Boko bat, they simply attached sharp spikes to it. A skilled fighter can cause immense damage with this.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/dd/BotW_Spiked_Boko_Bat_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Spiked_Boko_Bat",
+  "attributes": {
+   "Compendium No.": "268/273",
+   "Archetype": "Bokoblin Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "18",
+   "Durability": "12"
+  },
+  "additional": {}
+ },
+ "Dragonbone_Boko_Bat": {
+  "item_id": "Dragonbone_Boko_Bat",
+  "name": "Dragonbone Boko Bat",
+  "description": "Used by only the toughest Bokoblin warriors, this Boko bat has been fortified by fossilized bone. It boasts a high durability and is strong enough to beat down powerful foes.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/61/BotW_Dragonbone_Boko_Bat_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Dragonbone_Boko_Bat",
+  "attributes": {
+   "Compendium No.": "269/274",
+   "Archetype": "Bokoblin Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "36",
+   "Durability": "16"
+  },
+  "additional": {}
+ },
+ "Moblin_Club": {
+  "item_id": "Moblin_Club",
+  "name": "Moblin Club",
+  "description": "A crudely fashioned club favored by Moblins. It's carved from a sturdy tree but is sloppily made, so it breaks easily.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9a/BotW_Moblin_Club_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Moblin_Club",
+  "attributes": {
+   "Compendium No.": "270/275",
+   "Archetype": "Moblin Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "9",
+   "Durability": "12"
+  },
+  "additional": {}
+ },
+ "Spiked_Moblin_Club": {
+  "item_id": "Spiked_Moblin_Club",
+  "name": "Spiked Moblin Club",
+  "description": "Animal bone has been affixed to this Moblin club to greatly improve its damage.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/98/BotW_Spiked_Moblin_Club_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Spiked_Moblin_Club",
+  "attributes": {
+   "Compendium No.": "271/276",
+   "Archetype": "Moblin Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "27",
+   "Durability": "18"
+  },
+  "additional": {}
+ },
+ "Dragonbone_Moblin_Club": {
+  "item_id": "Dragonbone_Moblin_Club",
+  "name": "Dragonbone Moblin Club",
+  "description": "The bone of an ancient beast has been affixed to this Moblin club, further increasing its damage. Moblins carrying these in battle are particularly dangerous.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e5/BotW_Dragonbone_Moblin_Club_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Dragonbone_Moblin_Club",
+  "attributes": {
+   "Compendium No.": "272/277",
+   "Archetype": "Moblin Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "45",
+   "Durability": "24"
+  },
+  "additional": {}
+ },
+ "Ancient_Battle_Axe": {
+  "item_id": "Ancient_Battle_Axe",
+  "name": "Ancient Battle Axe",
+  "description": "A weapon used by Guardian Scouts. Its unique blade was forged using ancient technology. Although powerful, its unusual shape causes it to break easily.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/19/BotW_Ancient_Battle_Axe_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Ancient_Battle_Axe",
+  "attributes": {
+   "Compendium No.": "273/278",
+   "Archetype": "Guardian Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "30",
+   "Durability": "15"
+  },
+  "additional": {}
+ },
+ "Ancient_Battle_Axe%2B": {
+  "item_id": "Ancient_Battle_Axe%2B",
+  "name": "Ancient Battle Axe+",
+  "description": "This ancient battle axe's damage output has been increased to maximum. It's sharp enough to cut through almost anything, so it may have been used to forge new routes.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b1/BotW_Ancient_Battle_Axe%EF%BC%8B_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Ancient_Battle_Axe%2B",
+  "attributes": {
+   "Compendium No.": "274/279",
+   "Archetype": "Guardian Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "45",
+   "Durability": "20"
+  },
+  "additional": {}
+ },
+ "Ancient_Battle_Axe%2B%2B": {
+  "item_id": "Ancient_Battle_Axe%2B%2B",
+  "name": "Ancient Battle Axe++",
+  "description": "This ancient battle axe's damage output is scaled up to peak performance. Ancient technology makes it possible to enhance cutting power beyond metal weapons' limits.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/2e/BotW_Ancient_Battle_Axe%EF%BC%8B%EF%BC%8B_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Ancient_Battle_Axe%2B%2B",
+  "attributes": {
+   "Compendium No.": "275/280",
+   "Archetype": "Guardian Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "60",
+   "Durability": "25"
+  },
+  "additional": {}
+ },
+ "Lynel_Crusher": {
+  "item_id": "Lynel_Crusher",
+  "name": "Lynel Crusher",
+  "description": "This two-handed weapon is favored by the Lynels. It may be more accurate to call it a lump of metal than a weapon, but if wielded by a Lynel, it can pound you into a fine dust.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c9/BotW_Lynel_Crusher_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lynel_Crusher",
+  "attributes": {
+   "Compendium No.": "276/281",
+   "Archetype": "Lynel Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "36",
+   "Durability": "20"
+  },
+  "additional": {}
+ },
+ "Mighty_Lynel_Crusher": {
+  "item_id": "Mighty_Lynel_Crusher",
+  "name": "Mighty Lynel Crusher",
+  "description": "This Lynel-made two-handed weapon has been reinforced to increase its durability and striking power. Its overwhelming heft will crush your foe, shield and all.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/df/BotW_Mighty_Lynel_Crusher_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Mighty_Lynel_Crusher",
+  "attributes": {
+   "Compendium No.": "277/282",
+   "Archetype": "Lynel Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "54",
+   "Durability": "25"
+  },
+  "additional": {}
+ },
+ "Savage_Lynel_Crusher": {
+  "item_id": "Savage_Lynel_Crusher",
+  "name": "Savage Lynel Crusher",
+  "description": "This Lynel-made two-handed weapon is immensely heavy thanks to a rare metal from Death Mountain's peak. The power of its downward swing is in a class all its own.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f4/BotW_Savage_Lynel_Crusher_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Savage_Lynel_Crusher",
+  "attributes": {
+   "Compendium No.": "278/283",
+   "Archetype": "Lynel Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "78",
+   "Durability": "35"
+  },
+  "additional": {}
+ },
+ "Windcleaver": {
+  "item_id": "Windcleaver",
+  "name": "Windcleaver",
+  "description": "This sword is favored by high-ranking members of the Yiga. When wielded by a proficient fighter, its unique shape cleaves the very wind and creates a vacuum.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3a/BotW_Windcleaver_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Windcleaver",
+  "attributes": {
+   "Compendium No.": "279/284",
+   "Archetype": "Yiga Clan Gear",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "40",
+   "Durability": "25"
+  },
+  "additional": {}
+ },
+ "Moblin_Arm": {
+  "item_id": "Moblin_Arm",
+  "name": "Moblin Arm",
+  "description": "A Moblin bone that continues to move even after being detached from its body. The bone is thick enough to be used as a weapon but is extremely brittle and easily broken.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/32/BotW_Moblin_Arm_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Moblin_Arm",
+  "attributes": {
+   "Compendium No.": "280/285",
+   "Archetype": "",
+   "Category": "Two-handed weapon",
+   "Can use a shield simultaneously": "No",
+   "Attack": "15",
+   "Durability": "5"
+  },
+  "additional": {}
+ },
+ "Wooden_Mop": {
+  "item_id": "Wooden_Mop",
+  "name": "Wooden Mop",
+  "description": "Just a mop to the untrained eye, it excels at tidying up the place. But it owes its sturdy construction to a true craftsman, so it actually has some combat merit.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/92/BotW_Wooden_Mop_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Wooden_Mop",
+  "attributes": {
+   "Compendium No.": "281/286",
+   "Archetype": "Daily Use Goods",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "5",
+   "Durability": "8"
+  },
+  "additional": {}
+ },
+ "Farmer%27s_Pitchfork": {
+  "item_id": "Farmer%27s_Pitchfork",
+  "name": "Farmer's Pitchfork",
+  "description": "A farming tool used to collect hay efficiently. It's light enough to be used by anyone. The four prongs are very sharp.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/07/BotW_Farmer%27s_Pitchfork_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Farmer%27s_Pitchfork",
+  "attributes": {
+   "Compendium No.": "282/287",
+   "Archetype": "",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "7",
+   "Durability": "12"
+  },
+  "additional": {}
+ },
+ "Fishing_Harpoon": {
+  "item_id": "Fishing_Harpoon",
+  "name": "Fishing Harpoon",
+  "description": "A fisherman's tool that excels at catching large fish. Its particularly sharp spearhead makes it valuable as a weapon as well.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bc/BotW_Fishing_Harpoon_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Fishing_Harpoon",
+  "attributes": {
+   "Compendium No.": "283/288",
+   "Archetype": "",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "8",
+   "Durability": "12"
+  },
+  "additional": {}
+ },
+ "Throwing_Spear": {
+  "item_id": "Throwing_Spear",
+  "name": "Throwing Spear",
+  "description": "A specialized spear weighted to excel as a throwing weapon. It's perfectly balanced to be thrown farther than your average spear, able to pierce targets from a great distance.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6b/BotW_Throwing_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Throwing_Spear",
+  "attributes": {
+   "Compendium No.": "284/289",
+   "Archetype": "",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "6",
+   "Durability": "20"
+  },
+  "additional": {}
+ },
+ "Traveler%27s_Spear": {
+  "item_id": "Traveler%27s_Spear",
+  "name": "Traveler's Spear",
+  "description": "A spear used mainly by travelers to fend off wolves and other beasts. It's easy to hold and simple to use.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0c/BotW_Traveler%27s_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Traveler%27s_Spear",
+  "attributes": {
+   "Compendium No.": "285/290",
+   "Archetype": "Traveler's Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "3",
+   "Durability": "30"
+  },
+  "additional": {}
+ },
+ "Soldier%27s_Spear": {
+  "item_id": "Soldier%27s_Spear",
+  "name": "Soldier's Spear",
+  "description": "A long spear once used by the guards of Hyrule Castle. Easy to use but difficult to master. The iron tip is very sturdy and the shaft will not burn when exposed to flame.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/2c/BotW_Soldier%27s_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Soldier%27s_Spear",
+  "attributes": {
+   "Compendium No.": "286/291",
+   "Archetype": "Soldier's Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "7",
+   "Durability": "35"
+  },
+  "additional": {}
+ },
+ "Knight%27s_Halberd": {
+  "item_id": "Knight%27s_Halberd",
+  "name": "Knight's Halberd",
+  "description": "A spear used by knights adept in mounted combat. The spearhead is modeled after an axe.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/fa/BotW_Knight%27s_Halberd_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Knight%27s_Halberd",
+  "attributes": {
+   "Compendium No.": "287/292",
+   "Archetype": "Knight's Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "13",
+   "Durability": "40"
+  },
+  "additional": {}
+ },
+ "Royal_Halberd": {
+  "item_id": "Royal_Halberd",
+  "name": "Royal Halberd",
+  "description": "This spear was issued to the knights who guarded Hyrule Castle's throne room. Its ornate design was applied by a craftsman in service to the royal family.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/de/BotW_Royal_Halberd_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Royal_Halberd",
+  "attributes": {
+   "Compendium No.": "288/293",
+   "Archetype": "Royal Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "26",
+   "Durability": "50"
+  },
+  "additional": {}
+ },
+ "Forest_Dweller%27s_Spear": {
+  "item_id": "Forest_Dweller%27s_Spear",
+  "name": "Forest Dweller's Spear",
+  "description": "The Koroks made this spear for Hylians. The shaft is made from a light, sturdy wood, offering ease of use. The spearhead is made from a much harder wood, offering strength.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/43/BotW_Forest_Dweller%27s_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Forest_Dweller%27s_Spear",
+  "attributes": {
+   "Compendium No.": "289/294",
+   "Archetype": "Forest Dweller's Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "11",
+   "Durability": "35"
+  },
+  "additional": {}
+ },
+ "Zora_Spear": {
+  "item_id": "Zora_Spear",
+  "name": "Zora Spear",
+  "description": "This spear is a Zora's weapon of choice. It's lighter than it looks due to being made from a special metal and is used by the Zora for both fishing and protecting their domain.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/24/BotW_Zora_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Zora_Spear",
+  "attributes": {
+   "Compendium No.": "290/295",
+   "Archetype": "Zora Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "9",
+   "Durability": "40"
+  },
+  "additional": {}
+ },
+ "Silverscale_Spear": {
+  "item_id": "Silverscale_Spear",
+  "name": "Silverscale Spear",
+  "description": "The most skilled Zora fighters wield this spear. Its beautiful fish-tail design belies its impressive strength; the spearhead can pierce even the toughest scales.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/25/BotW_Silverscale_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Silverscale_Spear",
+  "attributes": {
+   "Compendium No.": "291/296",
+   "Archetype": "Zora Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "12",
+   "Durability": "40"
+  },
+  "additional": {}
+ },
+ "Ceremonial_Trident": {
+  "item_id": "Ceremonial_Trident",
+  "name": "Ceremonial Trident",
+  "description": "A spear modeled after the Lightscale Trident wielded by the Zora Champion Mipha. They may be identical in appearance, but this spear's strength and durability are inferior.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/38/BotW_Ceremonial_Trident_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Ceremonial_Trident",
+  "attributes": {
+   "Compendium No.": "292/297",
+   "Archetype": "Zora Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "14",
+   "Durability": "40"
+  },
+  "additional": {}
+ },
+ "Lightscale_Trident": {
+  "item_id": "Lightscale_Trident",
+  "name": "Lightscale Trident",
+  "description": "A spear of peerless grace cherished by the Zora Champion Mipha. Although Mipha specialized in healing abilities, her spearmanship was in a class all its own.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/38/BotW_Ceremonial_Trident_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lightscale_Trident",
+  "attributes": {
+   "Compendium No.": "293/298",
+   "Archetype": "Zora Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "22",
+   "Durability": "70"
+  },
+  "additional": {}
+ },
+ "Drillshaft": {
+  "item_id": "Drillshaft",
+  "name": "Drillshaft",
+  "description": "Goron artisans used recycled metal to forge this weapon. The tip is made from an old excavation bore, which affords it unmatched piercing capabilities.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/ac/BotW_Drillshaft_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Drillshaft",
+  "attributes": {
+   "Compendium No.": "294/299",
+   "Archetype": "Goron Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "14",
+   "Durability": "50"
+  },
+  "additional": {}
+ },
+ "Feathered_Spear": {
+  "item_id": "Feathered_Spear",
+  "name": "Feathered Spear",
+  "description": "Its lightweight design is a hallmark of Rito craftsmanship. It's made from light and sturdy materials, which afford Rito warriors ease of use during aerial combat.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4b/BotW_Feathered_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Feathered_Spear",
+  "attributes": {
+   "Compendium No.": "295/300",
+   "Archetype": "Rito Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "10",
+   "Durability": "35"
+  },
+  "additional": {}
+ },
+ "Gerudo_Spear": {
+  "item_id": "Gerudo_Spear",
+  "name": "Gerudo Spear",
+  "description": "This spear's center of gravity is in its tip, making it a bit unwieldy for the average fighter. But in the hands of a skilled Gerudo warrior, it's a weapon of reliable strength.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/ff/BotW_Gerudo_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Gerudo_Spear",
+  "attributes": {
+   "Compendium No.": "296/301",
+   "Archetype": "Gerudo Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "16",
+   "Durability": "35"
+  },
+  "additional": {}
+ },
+ "Serpentine_Spear": {
+  "item_id": "Serpentine_Spear",
+  "name": "Serpentine Spear",
+  "description": "The spearhead of this weapon is uniquely Sheikah in design. Spear masters of the Sheikah tribe can use the crescent shape to snag their opponents and deliver brutal cuts.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/39/BotW_Serpentine_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Serpentine_Spear",
+  "attributes": {
+   "Compendium No.": "297/302",
+   "Archetype": "Sheikah Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "12",
+   "Durability": "35"
+  },
+  "additional": {}
+ },
+ "Ancient_Spear": {
+  "item_id": "Ancient_Spear",
+  "name": "Ancient Spear",
+  "description": "This spear is the result of countless hours of research into the ancient technology used by Guardians. The glowing spearhead has high piercing potential.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f6/BotW_Ancient_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Ancient_Spear",
+  "attributes": {
+   "Compendium No.": "298/303",
+   "Archetype": "Ancient Soldier Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "30",
+   "Durability": "50"
+  },
+  "additional": {}
+ },
+ "Rusty_Halberd": {
+  "item_id": "Rusty_Halberd",
+  "name": "Rusty Halberd",
+  "description": "A rusty polearm likely used by knights from an age past. The spearhead is in bad shape due to prolonged exposure to the elements, so its durability is low.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/55/BotW_Rusty_Halberd_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Rusty_Halberd",
+  "attributes": {
+   "Compendium No.": "299/304",
+   "Archetype": "Rusty Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "5",
+   "Durability": "15"
+  },
+  "additional": {}
+ },
+ "Royal_Guard%27s_Spear": {
+  "item_id": "Royal_Guard%27s_Spear",
+  "name": "Royal Guard's Spear",
+  "description": "This Sheikah-made spear was created using ancient technology to combat the Calamity. Its attack power is very high, but a critical design flaw left it with poor durability.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/8d/BotW_Royal_Guard%27s_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Royal_Guard%27s_Spear",
+  "attributes": {
+   "Compendium No.": "300/305",
+   "Archetype": "Royal Guard's Series",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "32",
+   "Durability": "15"
+  },
+  "additional": {}
+ },
+ "Flamespear": {
+  "item_id": "Flamespear",
+  "name": "Flamespear",
+  "description": "A magical spear forged in the magma of Death Mountain. Attack when the blade glows to expel powerful flames.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a5/BotW_Flamespear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Flamespear",
+  "attributes": {
+   "Compendium No.": "301/306",
+   "Archetype": "Magic Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "24",
+   "Durability": "50"
+  },
+  "additional": {}
+ },
+ "Frostspear": {
+  "item_id": "Frostspear",
+  "name": "Frostspear",
+  "description": "A magical spear forged from ancient ice taken from the Hebra Mountains. Attack when the blade glows blue to chill the air and freeze your foe.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/36/BotW_Frostspear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Frostspear",
+  "attributes": {
+   "Compendium No.": "302/307",
+   "Archetype": "Magic Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "20",
+   "Durability": "40"
+  },
+  "additional": {}
+ },
+ "Thunderspear": {
+  "item_id": "Thunderspear",
+  "name": "Thunderspear",
+  "description": "A magical spear that contains thunder from Thundra Plateau in its tip. Attack when the blade glows with a golden light to unleash an electrical attack.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f8/BotW_Thunderspear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Thunderspear",
+  "attributes": {
+   "Compendium No.": "303/308",
+   "Archetype": "Magic Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "22",
+   "Durability": "50"
+  },
+  "additional": {}
+ },
+ "Boko_Spear": {
+  "item_id": "Boko_Spear",
+  "name": "Boko Spear",
+  "description": "A spear recklessly carved from a tree branch. Useful for skewering fish and meat, which can then be cooked over a flame. If it's close to breaking, consider throwing it.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/56/BotW_Boko_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Boko_Spear",
+  "attributes": {
+   "Compendium No.": "304/309",
+   "Archetype": "Bokoblin Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "2",
+   "Durability": "12"
+  },
+  "additional": {}
+ },
+ "Spiked_Boko_Spear": {
+  "item_id": "Spiked_Boko_Spear",
+  "name": "Spiked Boko Spear",
+  "description": "A Boko spear enhanced with sharpened animal bones. It's light, easy to use, and deals a decent amount of damage.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/98/BotW_Spiked_Boko_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Spiked_Boko_Spear",
+  "attributes": {
+   "Compendium No.": "305/310",
+   "Archetype": "Bokoblin Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "6",
+   "Durability": "15"
+  },
+  "additional": {}
+ },
+ "Dragonbone_Boko_Spear": {
+  "item_id": "Dragonbone_Boko_Spear",
+  "name": "Dragonbone Boko Spear",
+  "description": "This Boko spear has been strengthened with fossilized bones. The bones are positioned outward so the fangs bite at the opponent. Beware Bokoblins carrying this weapon.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d0/BotW_Dragonbone_Boko_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Dragonbone_Boko_Spear",
+  "attributes": {
+   "Compendium No.": "306/311",
+   "Archetype": "Bokoblin Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "12",
+   "Durability": "20"
+  },
+  "additional": {}
+ },
+ "Moblin_Spear": {
+  "item_id": "Moblin_Spear",
+  "name": "Moblin Spear",
+  "description": "This wooden spear is most often used by Moblins. It's made from a hastily whittled tree, so its stabbing power and durability are both pretty low.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/fe/BotW_Moblin_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Moblin_Spear",
+  "attributes": {
+   "Compendium No.": "307/312",
+   "Archetype": "Moblin Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "4",
+   "Durability": "15"
+  },
+  "additional": {}
+ },
+ "Spiked_Moblin_Spear": {
+  "item_id": "Spiked_Moblin_Spear",
+  "name": "Spiked Moblin Spear",
+  "description": "This Moblin-made spear uses a horned animal bone as the spearhead. Like many Moblin weapons it's sloppily made, but this one packs some respectable piercing power.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b2/BotW_Spiked_Moblin_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Spiked_Moblin_Spear",
+  "attributes": {
+   "Compendium No.": "308/313",
+   "Archetype": "Moblin Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "9",
+   "Durability": "20"
+  },
+  "additional": {}
+ },
+ "Dragonbone_Moblin_Spear": {
+  "item_id": "Dragonbone_Moblin_Spear",
+  "name": "Dragonbone Moblin Spear",
+  "description": "This spear is a fan favorite among Moblins. The spearhead is made from fossilized bones adorned with spikes, which greatly increases its stabbing power.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/00/BotW_Dragonbone_Moblin_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Dragonbone_Moblin_Spear",
+  "attributes": {
+   "Compendium No.": "309/314",
+   "Archetype": "Moblin Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "15",
+   "Durability": "25"
+  },
+  "additional": {}
+ },
+ "Lizal_Spear": {
+  "item_id": "Lizal_Spear",
+  "name": "Lizal Spear",
+  "description": "The brutal, ripping edge of this weapon\u2019s spearhead is a distinctly Lizalfos design. Its low durability doesn\u2019t lend itself to extended use.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/1d/BotW_Lizal_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lizal_Spear",
+  "attributes": {
+   "Compendium No.": "310/315",
+   "Archetype": "Lizalfos Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "7",
+   "Durability": "18"
+  },
+  "additional": {}
+ },
+ "Enhanced_Lizal_Spear": {
+  "item_id": "Enhanced_Lizal_Spear",
+  "name": "Enhanced Lizal Spear",
+  "description": "Judging by the harpoon-like spearhead of this Lizalfos-made spear, the Lizalfos use it for fishing as well as combat. Try not to get caught on the wrong end of its barbs.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/fd/BotW_Enhanced_Lizal_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Enhanced_Lizal_Spear",
+  "attributes": {
+   "Compendium No.": "311/316",
+   "Archetype": "Lizalfos Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "12",
+   "Durability": "22"
+  },
+  "additional": {}
+ },
+ "Forked_Lizal_Spear": {
+  "item_id": "Forked_Lizal_Spear",
+  "name": "Forked Lizal Spear",
+  "description": "Skilled Lizalfos warriors tend to favor this spear. What it lacks in piercing power, it makes up for with the brutal wounds its dual ripping blades will inflict.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/19/BotW_Forked_Lizal_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Forked_Lizal_Spear",
+  "attributes": {
+   "Compendium No.": "312/317",
+   "Archetype": "Lizalfos Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "18",
+   "Durability": "28"
+  },
+  "additional": {}
+ },
+ "Guardian_Spear": {
+  "item_id": "Guardian_Spear",
+  "name": "Guardian Spear",
+  "description": "Wielded by Guardian Scouts, this spear has a high piercing power and is a testament to the Sheikah's high level of technology. the spearhead appears only when brandished.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7a/BotW_Guardian_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Guardian_Spear",
+  "attributes": {
+   "Compendium No.": "313/318",
+   "Archetype": "Guardian Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "10",
+   "Durability": "20"
+  },
+  "additional": {}
+ },
+ "Guardian_Spear%2B": {
+  "item_id": "Guardian_Spear%2B",
+  "name": "Guardian Spear+",
+  "description": "The tip of this Guardian spear has been enlarged and strengthened. It's a bit shorter than your average spear, perhaps to facilitate use in tight spaces.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/94/BotW_Guardian_Spear%EF%BC%8B_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Guardian_Spear%2B",
+  "attributes": {
+   "Compendium No.": "314/319",
+   "Archetype": "Guardian Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "15",
+   "Durability": "25"
+  },
+  "additional": {}
+ },
+ "Guardian_Spear%2B%2B": {
+  "item_id": "Guardian_Spear%2B%2B",
+  "name": "Guardian Spear++",
+  "description": "This Guardian spear's output has been boosted to the maximum. The spearhead is designed for optimal stabbing, capable of easily piercing most armor.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/00/BotW_Guardian_Spear%EF%BC%8B%EF%BC%8B_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Guardian_Spear%2B%2B",
+  "attributes": {
+   "Compendium No.": "315/320",
+   "Archetype": "Guardian Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "20",
+   "Durability": "35"
+  },
+  "additional": {}
+ },
+ "Lynel_Spear": {
+  "item_id": "Lynel_Spear",
+  "name": "Lynel Spear",
+  "description": "The crescent-shaped spearhead of this Lynel-made weapon gives it poor balance, making it difficult to wield. Lynels, however, can swing it effectively with a single hand.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/29/BotW_Lynel_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lynel_Spear",
+  "attributes": {
+   "Compendium No.": "316/321",
+   "Archetype": "Lynel Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "14",
+   "Durability": "25"
+  },
+  "additional": {}
+ },
+ "Mighty_Lynel_Spear": {
+  "item_id": "Mighty_Lynel_Spear",
+  "name": "Mighty Lynel Spear",
+  "description": "The weight and cutting edge of this Lynel-made spear have both been enhanced. It's immensely heavy for a Hylian, but a Lynel can cleave through rock with a single swing.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/79/BotW_Mighty_Lynel_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Mighty_Lynel_Spear",
+  "attributes": {
+   "Compendium No.": "317/322",
+   "Archetype": "Lynel Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "20",
+   "Durability": "35"
+  },
+  "additional": {}
+ },
+ "Savage_Lynel_Spear": {
+  "item_id": "Savage_Lynel_Spear",
+  "name": "Savage Lynel Spear",
+  "description": "White-haired Lynels favor this brutal spear. Its axe-like spearhead and exceptional weight give it absolute destructive power.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/38/BotW_Savage_Lynel_Spear_Icon.png",
+  "category_ref": [
+   "categories/items",
+   "categories/weapons"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Savage_Lynel_Spear",
+  "attributes": {
+   "Compendium No.": "318/323",
+   "Archetype": "Lynel Gear",
+   "Category": "Spear",
+   "Can use a shield simultaneously": "No",
+   "Attack": "30",
+   "Durability": "45"
+  },
+  "additional": {}
+ }
+}

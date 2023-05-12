@@ -12,7 +12,7 @@ db = firestore.client()
 
 list_item_file = [
     "data/armor_list.json",
-    # "data/weapon_list.json"
+    "data/weapon_list.json"
     # "data/zonai_devices_list.json"
 ]
 

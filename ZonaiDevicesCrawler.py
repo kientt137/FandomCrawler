@@ -4,7 +4,6 @@ from firebase_admin import credentials
 from firebase_admin import firestore
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
-import validators
 from Utilities import Utilities as Utils
 
 # Use a service account.
@@ -16,7 +15,6 @@ db = firestore.client()
 
 fandom_link = "https://zelda.fandom.com/wiki/Zonai_Devices"
 
-dict_item = {}
 with open("data/zonai_devices_list.json", "r") as f:
     dict_item = json.loads(f.read())
 
