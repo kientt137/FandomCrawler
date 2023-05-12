@@ -13,14 +13,14 @@
   "attributes": {
    "Defense": "3",
    "Effect": "??",
-   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+   "Main appearance(s)": "Breath of the Wild",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Cost(s)": "2\n000 Rupees",
+   "Value": "500-600 Rupees",
+   "Locations(s)": "Southern Mine\nGoron City",
+   "Use(s)": "Flame Guard",
+   "Strength": "3-20",
+   "Comparable Item(s)": "Flamebreaker Armor\nFlamebreaker Boots\nFlamebreaker Set"
   }
  },
  {
@@ -37,13 +37,13 @@
   "attributes": {
    "Defense": "3",
    "Effect": "\u2014",
-   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+   "Main appearance(s)": "Breath of the Wild",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Cost(s)": "60 Rupees",
+   "Value": "15-265 Rupees",
+   "Locations(s)": "Hateno Village\nKakariko Village",
+   "Strength": "3-20",
+   "Comparable Item(s)": "Hylian Tunic\nHylian Trousers"
   }
  },
  {
@@ -60,12 +60,12 @@
   "attributes": {
    "Defense": "3",
    "Effect": "??",
-   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+   "Main appearance(s)": "Breath of the Wild",
+   "Cost(s)": "1000 Rupees",
+   "Value": "250-630 Rupees",
+   "Locations(s)": "Rito Village",
+   "Use(s)": "Cold Resistance",
+   "Strength": "3-20"
   }
  },
  {
@@ -114,11 +114,11 @@
   "attributes": {
    "Defense": "5",
    "Effect": "??",
-   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+   "Main appearance(s)": "Breath of the Wild",
+   "Other appearance(s)": "Animal Crossing: New Leaf\nMario Kart 8 Deluxe\nThe Elder Scrolls V: Skyrim\nHyrule Warriors:\u00a0Definitive Edition\nSuper Smash Bros. Ultimate\nHyrule Warriors: Age of Calamity",
+   "Locations(s)": "Kakariko Village (BotW)",
+   "Use(s)": "Revealing Enemy Life Gauge",
+   "Strength": "5-32"
   }
  },
  {
@@ -135,14 +135,14 @@
   "attributes": {
    "Defense": "3",
    "Effect": "??",
-   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+   "Main appearance(s)": "Breath of the Wild",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Cost(s)": "600 Rupees",
+   "Value": "150-250 Rupees",
+   "Locations(s)": "Goron City",
+   "Use(s)": "Flame Guard",
+   "Strength": "3",
+   "Comparable Item(s)": "Flamebreaker Boots\nFlamebreaker Helm\nFlamebreaker Set"
   }
  },
  {
@@ -159,13 +159,13 @@
   "attributes": {
    "Defense": "3",
    "Effect": "\u2014",
-   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+   "Main appearance(s)": "Breath of the Wild",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Cost(s)": "120 Rupees",
+   "Value": "30-280 Rupees",
+   "Locations(s)": "Hateno Village\nKakariko Village",
+   "Strength": "3-20",
+   "Comparable Item(s)": "Hylian Hood\nHylian Trousers"
   }
  },
  {
@@ -198,14 +198,14 @@
   "attributes": {
    "Defense": "3",
    "Effect": "??",
-   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+   "Main appearance(s)": "Breath of the Wild",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Cost(s)": "600 Rupees",
+   "Value": "160-530 Rupees",
+   "Locations(s)": "Brazen Beak",
+   "Use(s)": "Cold Resistance",
+   "Strength": "3-20",
+   "Comparable Item(s)": "Snowquill Headdress\nSnowquill Trousers"
   }
  },
  {
@@ -222,13 +222,13 @@
   "attributes": {
    "Defense": "4",
    "Effect": "??",
-   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+   "Main appearance(s)": "Breath of the Wild",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Cost(s)": "250 Rupees",
+   "Locations(s)": "Hateno Village",
+   "Use(s)": "Increasing Defense",
+   "Strength": "4-28",
+   "Comparable Item(s)": "Soldier's Helm\nSoldier's Greaves"
   }
  },
  {
@@ -266,7 +266,7 @@
  {
   "item_id": "archaic_warm_greaves",
   "name": "Archaic Warm Greaves",
-  "description": "Warm greaves belived to be from a very long time ago. Despite the old look, the heat-retaining materia- (imcomplete)",
+  "description": "Warm greaves belived to be from a very long time ago. Despite the old look, the heat-retaining material makes it pleasantly resistant to cold temperatures.",
   "image_url": null,
   "category_ref": [
    "categories/items",
@@ -293,14 +293,14 @@
   "attributes": {
    "Defense": "3",
    "Effect": "??",
-   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+   "Main appearance(s)": "Breath of the Wild",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Cost(s)": "700 Rupees",
+   "Value": "175-275 Rupees",
+   "Locations(s)": "Goron City",
+   "Use(s)": "Flame Guard",
+   "Strength": "3-20",
+   "Comparable Item(s)": "Flamebreaker Armor\nFlamebreaker Helm\nFlamebreaker Set"
   }
  },
  {
@@ -317,13 +317,13 @@
   "attributes": {
    "Defense": "3",
    "Effect": "\u2014",
-   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+   "Main appearance(s)": "Breath of the Wild",
+   "Other appearance(s)": "Super Smash Bros. Ultimate\nHyrule Warriors: Age of Calamity",
+   "Cost(s)": "90 Rupees",
+   "Value": "25-275 Rupees",
+   "Locations(s)": "Great Plateau\nKakariko Village\nHateno Village",
+   "Strength": "3-20",
+   "Comparable Item(s)": "Hylian Hood\nHylian Tunic"
   }
  },
  {
@@ -340,14 +340,14 @@
   "attributes": {
    "Defense": "3",
    "Effect": "??",
-   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Value": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+   "Main appearance(s)": "Breath of the Wild",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Cost(s)": "550 Rupees",
+   "Value": "140-515 Rupees",
+   "Locations(s)": "Brazen Beak",
+   "Use(s)": "Cold Resistance",
+   "Strength": "3-20",
+   "Comparable Item(s)": "Snowquill Headdress\nSnowquill Tunic"
   }
  },
  {
@@ -364,13 +364,13 @@
   "attributes": {
    "Defense": "4",
    "Effect": "\u2014",
-   "Main appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Other appearance(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Cost(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Locations(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Use(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Strength": "Lua error in Module:Franchise at line 349: attempt to compare string with nil.",
-   "Comparable Item(s)": "Lua error in Module:Franchise at line 349: attempt to compare string with nil."
+   "Main appearance(s)": "Breath of the Wild",
+   "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
+   "Cost(s)": "200 Rupees",
+   "Locations(s)": "Hateno Village",
+   "Use(s)": "Increasing Defense",
+   "Strength": "4-28",
+   "Comparable Item(s)": "Soldier's Armor\nSoldier's Helm"
   }
  },
  {
