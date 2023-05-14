@@ -1,0 +1,218 @@
+{
+ "Hylia_River": {
+  "item_id": "Hylia_River",
+  "name": "Hylia River",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b6/Totk_hylia_river.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hylia_River",
+  "attributes": {},
+  "additional": {}
+ },
+ "Great_Plateau": {
+  "item_id": "Great_Plateau",
+  "name": "Great Plateau",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/2a/Totk_great_plateau.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Great_Plateau",
+  "attributes": {},
+  "additional": {}
+ },
+ "Hyrule_Castle_Town_Ruins": {
+  "item_id": "Hyrule_Castle_Town_Ruins",
+  "name": "Hyrule Castle Town Ruins",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bf/Totk_hyrule_castle_town_ruins.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hyrule_Castle_Town_Ruins",
+  "attributes": {},
+  "additional": {}
+ },
+ "East_Post_Ruins": {
+  "item_id": "East_Post_Ruins",
+  "name": "East Post Ruins",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/00/Totk_east_post_ruins.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/East_Post_Ruins",
+  "attributes": {},
+  "additional": {}
+ },
+ "Mabe_Village_Ruins": {
+  "item_id": "Mabe_Village_Ruins",
+  "name": "Mabe Village Ruins",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9b/Totk_mabe_village_ruins.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Mabe_Village_Ruins",
+  "attributes": {},
+  "additional": {}
+ },
+ "Ranch_Ruins": {
+  "item_id": "Ranch_Ruins",
+  "name": "Ranch Ruins",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/77/Totk_ranch_ruins.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Ranch_Ruins",
+  "attributes": {},
+  "additional": {}
+ },
+ "Hyrule_Castle": {
+  "item_id": "Hyrule_Castle",
+  "name": "Hyrule Castle",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/01/TotK_Hyrule_Castle.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hyrule_Castle",
+  "attributes": {},
+  "additional": {}
+ },
+ "Throne_Room": {
+  "item_id": "Throne_Room",
+  "name": "Throne Room",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/63/Totk_throne_room.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Throne_Room",
+  "attributes": {},
+  "additional": {}
+ },
+ "Seres_Scablands": {
+  "item_id": "Seres_Scablands",
+  "name": "Seres Scablands",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a9/Totk_seres_scablands_2.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Seres_Scablands",
+  "attributes": {},
+  "additional": {}
+ },
+ "Bridge_of_Hylia": {
+  "item_id": "Bridge_of_Hylia",
+  "name": "Bridge of Hylia",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/ff/Totk_bridge_of_hylia.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Bridge_of_Hylia",
+  "attributes": {},
+  "additional": {}
+ },
+ "Death_Mountain": {
+  "item_id": "Death_Mountain",
+  "name": "Death Mountain",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7d/Death_Mountain.jpg",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Death_Mountain",
+  "attributes": {},
+  "additional": {}
+ },
+ "East_Barrens": {
+  "item_id": "East_Barrens",
+  "name": "East Barrens",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/8a/Totk_gerudo_desert.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/East_Barrens",
+  "attributes": {},
+  "additional": {}
+ },
+ "Fort_Hateno": {
+  "item_id": "Fort_Hateno",
+  "name": "Fort Hateno",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/72/Totk_fort_hateno.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Fort_Hateno",
+  "attributes": {},
+  "additional": {}
+ },
+ "Hateno_Village": {
+  "item_id": "Hateno_Village",
+  "name": "Hateno Village",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3f/Totk_hateno_village.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hateno_Village",
+  "attributes": {},
+  "additional": {}
+ },
+ "Dueling_Peaks_Stable": {
+  "item_id": "Dueling_Peaks_Stable",
+  "name": "Dueling Peaks Stable",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c7/Totk_dueling_peaks_stable.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Dueling_Peaks_Stable",
+  "attributes": {},
+  "additional": {}
+ },
+ "Dueling_Peaks": {
+  "item_id": "Dueling_Peaks",
+  "name": "Dueling Peaks",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/8f/Totk_dueling_peaks.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Dueling_Peaks",
+  "attributes": {},
+  "additional": {}
+ },
+ "Ash_Swamp": {
+  "item_id": "Ash_Swamp",
+  "name": "Ash Swamp",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/23/Totk_ash_swamp.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Ash_Swamp",
+  "attributes": {},
+  "additional": {}
+ },
+ "Sky_Islands": {
+  "item_id": "Sky_Islands",
+  "name": "Sky Islands",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/61/TotK_Sky_Islands.png",
+  "category_ref": [
+   "categories/locations"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Sky_Islands",
+  "attributes": {},
+  "additional": {}
+ }
+}

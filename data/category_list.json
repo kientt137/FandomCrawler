@@ -55,5 +55,14 @@
   },
   "leg_gear": {
     "name": "Leg Gear"
+  },
+  "normal_enemies": {
+    "name": "Normal Enemies"
+  },
+  "traps":  {
+    "name": "Traps"
+  },
+  "overword_bosses":  {
+    "name": "Overworld Bosses"
   }
 }

@@ -1,0 +1,61 @@
+import json
+import firebase_admin
+from firebase_admin import credentials
+from firebase_admin import firestore
+from bs4 import BeautifulSoup
+from urllib.request import Request, urlopen
+from Utilities import Utilities as Utils
+
+# Use a service account.
+cred = credentials.Certificate('src/Public/tears-of-the-kingdom-companion-firebase-adminsdk-dljty-8df1eba20e.json')
+
+app = firebase_admin.initialize_app(cred)
+
+db = firestore.client()
+
+fandom_link = "https://zelda.fandom.com/wiki/Locations_in_Tears_of_the_Kingdom"
+
+with open("data/location.json", "r") as f:
+    dict_item = json.loads(f.read())
+
+
+req = Request(fandom_link)
+html = urlopen(req).read()
+soup = BeautifulSoup(html, 'html.parser')
+
+category_ref = ["categories/locations"]    # parent enemies
+
+item_table = soup.find_all('li', {"class": "gallerybox"})
+for item in item_table:
+    name = item.find('p').text.strip()
+    image_url = Utils.get_image_url(item.find('img'))
+    description = None
+    a = item.find('p').find('a')
+    if a is not None:
+        item_id = Utils.link_to_id(a['href'])
+        link = "https://zelda.fandom.com" + a["href"]
+    else:
+        item_id = Utils.string_to_id(name)
+        link = None
+
+    if item_id not in dict_item:
+        data = {
+            "item_id": item_id,
+            "name": name,
+            "description": description,
+            "image_url": image_url,
+            "category_ref": category_ref,
+            "item_url": link,
+            "attributes": {},
+            "additional": {}
+        }
+        dict_item[item_id] = data
+    else:
+        dict_item[item_id]["name"] = name
+        dict_item[item_id]["description"] = description
+        dict_item[item_id]["image_url"] = image_url
+        dict_item[item_id]["item_url"] = link
+    print("Update item " + name)
+
+with open("data/location.json", 'w') as f:
+    json.dump(dict_item, f, indent=True)

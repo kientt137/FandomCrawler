@@ -1,11 +1,14 @@
-[
- {
+{
+ "Bokoblin": {
+  "item_id": "Bokoblin",
   "name": "Bokoblin",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/58/Untitled_document_%282%29-1.png",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "bokoblin",
+  "item_url": "https://zelda.fandom.com/wiki/Bokoblin",
   "attributes": {
    "Plural": "Bokoblins[1]",
    "Main appearance(s)": "The Wind Waker\nTwilight Princess\nSkyward Sword\nBreath of the Wild\nTears of the Kingdom",
@@ -13,15 +16,19 @@
    "Health": "The Wind Waker5 (Blue & Pink)  6 (Green)\n5 (Blue & Pink) \n 6 (Green)\nBreath of the Wild13\n13",
    "Attack": "The Wind WakerJump Kick: Swing Weapon: Jump Attack with Weapon: \nJump Kick: \nSwing Weapon: \nJump Attack with Weapon: \nTwilight PrincessSword Slash: \nSword Slash: ",
    "Spoil(s)": "The Wind WakerJoy Pendant\nJoy Pendant\nSkyward SwordOrnamental SkullGolden Skull\nOrnamental Skull\nGolden Skull\nBreath of the WildBokoblin Fang\nBokoblin Fang"
-  }
+  },
+  "additional": {}
  },
- {
+ "Blue_Bokoblin": {
+  "item_id": "Blue_Bokoblin",
   "name": "Blue Bokoblin",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/85/Untitled_document_%281%29-1.png",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "blue_bokoblin",
+  "item_url": "https://zelda.fandom.com/wiki/Blue_Bokoblin",
   "attributes": {
    "Race": "Bokoblin",
    "Main appearance(s)": "Skyward Sword\nBreath of the Wild\nTears of the Kingdom",
@@ -29,71 +36,91 @@
    "Habitat(s)": "Gerudo Desert (BotW)\nGerudo Highlands (BotW)",
    "Health": "Skyward Sword20\n20\n\nBreath of the Wild72\n72",
    "Spoil(s)": "Ornamental Skull (SS)\nGolden Skull (SS)\nBokoblin Horn (BotW)\nBokoblin Fang (BotW)\nBokoblin Guts (BotW)\nBlue Bokoblin Horn (TotK)"
-  }
+  },
+  "additional": {}
  },
- {
+ "Black_Bokoblin": {
+  "item_id": "Black_Bokoblin",
   "name": "Black Bokoblin",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7e/LIZAL-144.png",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "black_bokoblin",
+  "item_url": "https://zelda.fandom.com/wiki/Black_Bokoblin",
   "attributes": {
    "Race": "Bokoblin",
    "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
    "Other appearance(s)": "Cadence of Hyrule\nHyrule Warriors: Age of Calamity",
    "Health": "240",
    "Spoil(s)": "Breath of the WildBokoblin HornBokoblin FangBokoblin Guts\nBokoblin Horn\nBokoblin Fang\nBokoblin Guts"
-  }
+  },
+  "additional": {}
  },
- {
+ "Silver_Bokoblin": {
+  "item_id": "Silver_Bokoblin",
   "name": "Silver Bokoblin",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c2/Bko-1.png",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "silver_bokoblin",
+  "item_url": "https://zelda.fandom.com/wiki/Silver_Bokoblin",
   "attributes": {
    "Race": "Bokoblin",
    "Main appearance(s)": "Breath of the Wild",
    "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
    "Health": "720",
    "Spoil(s)": "Bokoblin Horn\nBokoblin Fang\nBokoblin Guts\nAmber\nOpal\nTopaz\nRuby\nSapphire\nDiamond"
-  }
+  },
+  "additional": {}
  },
- {
+ "Boss_Bokoblin": {
+  "item_id": "Boss_Bokoblin",
   "name": "Boss Bokoblin",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3f/TotK_Bokoblins_and_Boss_Blin.jpeg",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "boss_bokoblin",
+  "item_url": "https://zelda.fandom.com/wiki/Boss_Bokoblin",
   "attributes": {
    "Race": "Bokoblin",
    "Main appearance(s)": "Tears of the Kingdom",
    "Spoil(s)": "Boss Bokoblin Horn (TotK)"
-  }
+  },
+  "additional": {}
  },
- {
+ "Blue_Boss_Bokoblin": {
+  "item_id": "Blue_Boss_Bokoblin",
   "name": "Blue Boss Bokoblin",
+  "description": null,
+  "image_url": null,
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "blue_boss_bokoblin",
+  "item_url": "https://zelda.fandom.com/wiki/Blue_Boss_Bokoblin",
   "attributes": {
    "Race": "Boss Bokoblin",
    "Main appearance(s)": "Tears of the Kingdom",
    "Spoil(s)": "Blue Boss Bokoblin Horn (TotK)"
-  }
+  },
+  "additional": {}
  },
- {
+ "Moblin": {
+  "item_id": "Moblin",
   "name": "Moblin",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/03/TotK_Moblin_Model.png",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "moblin",
+  "item_url": "https://zelda.fandom.com/wiki/Moblin",
   "attributes": {
    "Plural": "Moblins[1](LA)",
    "Main appearance(s)": "The Legend of Zelda\nThe Adventure of Link\nA Link to the Past\nLink's Awakening\nOcarina of Time\nOracle of Seasons\nOracle of Ages\nFour Swords\nThe Wind Waker\nThe Minish Cap\nSkyward Sword\nA Link Between Worlds\nBreath of the Wild\nTears of the Kingdom",
@@ -105,15 +132,19 @@
    "Weapon(s)": "Any",
    "Spoil(s)": "Heart (TLoZ)\nFairy (TLoZ)\nOne Rupee (TLoZ)\nFour Bombs (TLoZ)\nClock (TLoZ)\nSkull Necklaces",
    "Exp Points": "20 "
-  }
+  },
+  "additional": {}
  },
- {
+ "Blue_Moblin": {
+  "item_id": "Blue_Moblin",
   "name": "Blue Moblin",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/31/TotK-Blue_Moblin.jpg",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "blue_moblin",
+  "item_url": "https://zelda.fandom.com/wiki/Blue_Moblin",
   "attributes": {
    "Race": "Moblin",
    "Main appearance(s)": "The Legend of Zelda\nThe Adventure of Link\nOracle of Seasons\nOracle of Ages\nThe Wind Waker\nBreath of the Wild\nTears of the Kingdom",
@@ -122,15 +153,19 @@
    "Health": "The Legend of Zelda3\n3\nThe Adventure of Link18\n18\nBreath of the Wild144\n144",
    "Attack": "The Legend of ZeldaArrow (1 heart)\nArrow (1 heart)",
    "Spoil(s)": "Moblin Horn (BotW)\nMoblin Fang (BotW)\nMoblin Guts (BotW)\nBlue Moblin Horn (TotK)"
-  }
+  },
+  "additional": {}
  },
- {
+ "Lizalfos": {
+  "item_id": "Lizalfos",
   "name": "Lizalfos",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/33/LIZAL-1.png",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "lizalfos",
+  "item_url": "https://zelda.fandom.com/wiki/Lizalfos",
   "attributes": {
    "Plural": "Lizalfos[1]",
    "Main appearance(s)": "Ocarina of Time\nTwilight Princess\nSkyward Sword\nBreath of the Wild\nTears of the Kingdom",
@@ -139,15 +174,19 @@
    "Attack": "Ocarina of TimeSword Slash/Jump Slash: Fire Breath: \nSword Slash/Jump Slash: \nFire Breath: \nSkyward SwordUppercut: Tail Mace: Fire Breath: \nUppercut: \nTail Mace: \nFire Breath: ",
    "Weapon(s)": "Bow\nBomb\nDeku Stick\nSword",
    "Spoil(s)": "Skyward SwordLizard TailBomb Bag\nLizard Tail\nBomb Bag\nBreath of the WildLizalfos HornLizalfos Talon\nLizalfos Horn\nLizalfos Talon"
-  }
+  },
+  "additional": {}
  },
- {
+ "Blue_Lizalfos": {
+  "item_id": "Blue_Lizalfos",
   "name": "Blue Lizalfos",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c8/LIZAL_%283%29-1.png",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "blue_lizalfos",
+  "item_url": "https://zelda.fandom.com/wiki/Blue_Lizalfos",
   "attributes": {
    "Race": "Lizalfos",
    "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
@@ -155,15 +194,19 @@
    "Habitat(s)": "Gerudo Desert\nTabantha Frontier",
    "Health": "120",
    "Spoil(s)": "Lizalfos Horn\nLizalfos Talon\nLizalfos Tail"
-  }
+  },
+  "additional": {}
  },
- {
+ "Black_Lizalfos": {
+  "item_id": "Black_Lizalfos",
   "name": "Black Lizalfos",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9b/LIZAL_%281%29-1.png",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "black_lizalfos",
+  "item_url": "https://zelda.fandom.com/wiki/Black_Lizalfos",
   "attributes": {
    "Race": "Lizalfos",
    "Main appearance(s)": "Breath of the Wild",
@@ -171,30 +214,38 @@
    "Habitat(s)": "Hyrule Field\nHebra Mountains",
    "Health": "288",
    "Spoil(s)": "Lizalfos Horn\nLizalfos Talon\nLizalfos Tail"
-  }
+  },
+  "additional": {}
  },
- {
+ "Silver_Lizalfos": {
+  "item_id": "Silver_Lizalfos",
   "name": "Silver Lizalfos",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/5d/LIZAL_%282%29-1.png",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "silver_lizalfos",
+  "item_url": "https://zelda.fandom.com/wiki/Silver_Lizalfos",
   "attributes": {
    "Race": "Lizalfos",
    "Main appearance(s)": "Breath of the Wild",
    "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
    "Health": "864",
    "Spoil(s)": "Lizalfos Horn\nLizalfos Talon\nLizalfos Tail\nAmber\nOpal\nRuby\nSapphire\nDiamond"
-  }
+  },
+  "additional": {}
  },
- {
+ "Chuchu": {
+  "item_id": "Chuchu",
   "name": "Chuchu",
+  "description": null,
+  "image_url": null,
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "chuchu",
+  "item_url": "https://zelda.fandom.com/wiki/Chuchu",
   "attributes": {
    "Plural": "Chuchus[1]",
    "Main appearance(s)": "Majora's Mask\nThe Wind Waker\nThe Minish Cap\nTwilight Princess\nPhantom Hourglass\nSpirit Tracks\nSkyward Sword\nBreath of the Wild\nTears of the Kingdom",
@@ -204,15 +255,19 @@
    "Attack": "The Wind WakerJump (1/4 Heart) (GreenYellowand Red)  Jump (1/2 Heart) (Blue and Dark)\nThe Wind WakerJump (1/4 Heart) (GreenYellowand Red)  Jump (1/2 Heart) (Blue and Dark)\nJump (1/4 Heart) (Green\nYellow\nand Red) \n Jump (1/2 Heart) (Blue and Dark)",
    "Weapon(s)": "Sword\nBoomerang\nBombs\nArrows",
    "Spoil(s)": "Chu Jelly"
-  }
+  },
+  "additional": {}
  },
- {
+ "Rock_Octorok": {
+  "item_id": "Rock_Octorok",
   "name": "Rock Octorok",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7b/TotK-Rock_Octorok.jpg",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "rock_octorok",
+  "item_url": "https://zelda.fandom.com/wiki/Rock_Octorok",
   "attributes": {
    "Race": "Octorok",
    "Main appearance(s)": "Skyward Sword\nBreath of the Wild\nTears of the Kingdom",
@@ -222,15 +277,19 @@
    "Attack": "Skyward SwordSpitting Rocks\nSpitting Rocks\nBreath of the WildSpitting explosive RocksSpitting Weapons back\nSpitting explosive Rocks\nSpitting Weapons back",
    "Weapon(s)": "Skyward SwordShields\nShields\nBreath of the WildRemote Bombs\nRemote Bombs",
    "Spoil(s)": "Breath of the WildOctorok TentacleOcto BalloonOctorok EyeballFish\nOctorok Tentacle\nOcto Balloon\nOctorok Eyeball\nFish"
-  }
+  },
+  "additional": {}
  },
- {
+ "White-Maned_Lynel": {
+  "item_id": "White-Maned_Lynel",
   "name": "White-Maned Lynel",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3f/TotK-Lynels.jpg",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "white-maned_lynel",
+  "item_url": "https://zelda.fandom.com/wiki/White-Maned_Lynel",
   "attributes": {
    "Race": "Lynel",
    "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
@@ -238,15 +297,19 @@
    "Habitat(s)": "Hyrule Field\nHebra Mountains\nGreat Plateau ",
    "Health": "4000",
    "Spoil(s)": "Lynel Horn\nLynel Hoof\nLynel Guts"
-  }
+  },
+  "additional": {}
  },
- {
+ "Blue-Maned_Lynel": {
+  "item_id": "Blue-Maned_Lynel",
   "name": "Blue-Maned Lynel",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3f/TotK-Lynels.jpg",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "blue-maned_lynel",
+  "item_url": "https://zelda.fandom.com/wiki/Blue-Maned_Lynel",
   "attributes": {
    "Race": "Lynel",
    "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
@@ -254,15 +317,19 @@
    "Habitat(s)": "Hyrule Field\nDeep Akkala",
    "Health": "3000",
    "Spoil(s)": "Lynel Horn\nLynel Hoof\nLynel Guts"
-  }
+  },
+  "additional": {}
  },
- {
+ "Silver_Lynel": {
+  "item_id": "Silver_Lynel",
   "name": "Silver Lynel",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3f/TotK-Lynels.jpg",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "silver_lynel",
+  "item_url": "https://zelda.fandom.com/wiki/Silver_Lynel",
   "attributes": {
    "Race": "Lynel",
    "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
@@ -270,15 +337,19 @@
    "Habitat(s)": "Breath of the WildHyrule Castle \nHyrule Castle ",
    "Health": "5000",
    "Spoil(s)": "Breath of the WildLynel HornLynel HoofLynel GutsTopazRubySapphireDiamondStar Fragment\nLynel Horn\nLynel Hoof\nLynel Guts\nTopaz\nRuby\nSapphire\nDiamond\nStar Fragment"
-  }
+  },
+  "additional": {}
  },
- {
+ "Gibdo": {
+  "item_id": "Gibdo",
   "name": "Gibdo",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/33/TotK_Gibdo.png",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "gibdo",
+  "item_url": "https://zelda.fandom.com/wiki/Gibdo",
   "attributes": {
    "Plural": "Gibdos[1]",
    "Main appearance(s)": "The Legend of Zelda\nA Link to the Past\nLink's Awakening\nOcarina of Time\nMajora's Mask\nOracle of Seasons\nOracle of Ages\nFour Swords\nFour Swords Adventures\nThe Minish Cap\nTwilight Princess\nA Link Between Worlds\nTri Force Heroes\nTears of the Kingdom",
@@ -288,29 +359,37 @@
    "Attack": "The Legend of ZeldaContact \nContact \nA Link to the PastContact \nContact \nLink's AwakeningContact \nContact \nOcarina of TimeGaze  (stuns Link)Grab  (Per second)\nGaze  (stuns Link)\nGrab  (Per second)\nOracle of SeasonsContact \nContact \nOracle of AgesContact \nContact ",
    "Weapon(s)": "The Legend of Zelda seriesSwordFire ArrowFlame Lantern\nSword\nFire Arrow\nFlame Lantern\nThe Crystal TrapMagic Arrow\nMagic Arrow\nThe Wand of GamelonShroud (TWoG)\nShroud (TWoG)",
    "Spoil(s)": "The Legend of ZeldaFour BombsOne RupeeClockHeart\nFour Bombs\nOne Rupee\nClock\nHeart"
-  }
+  },
+  "additional": {}
  },
- {
+ "Soldier_Construct": {
+  "item_id": "Soldier_Construct",
   "name": "Soldier Construct",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/5d/TotK-Soldier_Construct.jpg",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "soldier_construct",
+  "item_url": "https://zelda.fandom.com/wiki/Soldier_Construct",
   "attributes": {
    "Race": "Construct",
    "Main appearance(s)": "Tears of the Kingdom",
    "Habitat(s)": "Sky Islands (TotK)",
    "Spoil(s)": "Soldier Construct Horn (TotK)\nZonai Charge (TotK)"
-  }
+  },
+  "additional": {}
  },
- {
+ "Hinox": {
+  "item_id": "Hinox",
   "name": "Hinox",
+  "description": null,
+  "image_url": null,
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "hinox",
+  "item_url": "https://zelda.fandom.com/wiki/Hinox",
   "attributes": {
    "Race": "Cyclops (LA)[1]",
    "Main appearance(s)": "A Link to the Past\nLink's Awakening\nFour Swords Adventures\nPhantom Hourglass\nA Link Between Worlds\nTri Force Heroes\nBreath of the Wild\nTears of the Kingdom",
@@ -321,15 +400,19 @@
    "Attack": "Link's AwakeningGrab and Toss: Bomb Throw: \nGrab and Toss: \nBomb Throw: ",
    "Weapon(s)": "Bomb\nBow\nBoomerang\nQuake Medallion",
    "Spoil(s)": "Hinox Toenail (BotW)\nHinox Tooth (BotW)\nHinox Guts (BotW)"
-  }
+  },
+  "additional": {}
  },
- {
+ "Blue_Hinox": {
+  "item_id": "Blue_Hinox",
   "name": "Blue Hinox",
+  "description": null,
+  "image_url": null,
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "blue_hinox",
+  "item_url": "https://zelda.fandom.com/wiki/Blue_Hinox",
   "attributes": {
    "Race": "Hinox",
    "Main appearance(s)": "Link's Awakening\nBreath of the Wild\nTears of the Kingdom",
@@ -338,27 +421,35 @@
    "Health": "Link's Awakening6\n6",
    "Attack(s)": "Link's AwakeningGrab and Toss: Bomb Throw: \nGrab and Toss: \nBomb Throw: ",
    "Reward(s)": "Hinox Toenail\nHinox Tooth\nHinox Guts\nRoasted Bass\nRoasted Hearty Bass\nRoasted Hearty Salmon\nRoasted Trout\nRoasted Carp\nRoasted Porgy\nSneaky River Escargot\nBlueshell Escargot\nBlackened Crab"
-  }
+  },
+  "additional": {}
  },
- {
+ "Construct": {
+  "item_id": "Construct",
   "name": "A Titan-like Construct",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/53/TotK_Construct_Titan.jpg",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "construct",
+  "item_url": "https://zelda.fandom.com/wiki/Construct",
   "attributes": {
    "Main appearance(s)": "Tears of the Kingdom",
    "Habitat(s)": "Sky Islands"
-  }
+  },
+  "additional": {}
  },
- {
+ "Like_Like": {
+  "item_id": "Like_Like",
   "name": "Like Like",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a7/TotK_Unnamed_Enemy_Model_2.png",
   "category_ref": [
    "categories/enemies",
    "categories/normal_enemies"
   ],
-  "item_id": "like_like",
+  "item_url": "https://zelda.fandom.com/wiki/Like_Like",
   "attributes": {
    "Main appearance(s)": "The Legend of Zelda\nA Link to the Past\nLink's Awakening\nOcarina of Time\nMajora's Mask\nOracle of Seasons\nOracle of Ages\nThe Minish Cap\nPhantom Hourglass\nSpirit Tracks\nA Link Between Worlds\nTears of the Kingdom",
    "Other appearance(s)": "Super Smash Bros. Melee\nSuper Smash Bros. for Nintendo 3DS \nSuper Smash Bros. Ultimate \nCadence of Hyrule",
@@ -366,40 +457,52 @@
    "Health": "The Legend of Zelda10\n10\nLink's Awakening2\n2\nOcarina of Time4\n4",
    "Attack": "The Legend of ZeldaSwallow \nSwallow \nLink's AwakeningSwallow \nSwallow \nOcarina of TimeSwallow \nSwallow ",
    "Weapon(s)": "Arrows\nBombs\nFires\nSwords"
-  }
+  },
+  "additional": {}
  },
- {
+ "Boulder": {
+  "item_id": "Boulder",
   "name": "Boulder",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/2d/TotK_Boulder_Model.png",
   "category_ref": [
    "categories/enemies",
    "categories/traps"
   ],
-  "item_id": "boulder",
+  "item_url": "https://zelda.fandom.com/wiki/Boulder",
   "attributes": {
    "Main appearance(s)": "The Legend of Zelda\nA Link to the Past\nLink's Awakening\nOcarina of Time\nMajora's Mask\nOracle of Ages\nFour Swords Adventures\nThe Minish Cap\nPhantom Hourglass\nSpirit Tracks\nA Link Between Worlds\nTri Force Heroes\nBreath of the Wild\nTears of the Kingdom",
    "Other appearance(s)": "Cadence of Hyrule",
    "Attack": "A Link to the PastContact (1 Heart)\nContact (1 Heart)\nThe Minish CapContact (1/2 Heart)\nContact (1/2 Heart)"
-  }
+  },
+  "additional": {}
  },
- {
+ "Spiked_Boulder": {
+  "item_id": "Spiked_Boulder",
   "name": "Spiked Boulder",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d9/TotK_Spiked_Boulder_Model.png",
   "category_ref": [
    "categories/enemies",
    "categories/traps"
   ],
-  "item_id": "spiked_boulder",
+  "item_url": "https://zelda.fandom.com/wiki/Spiked_Boulder",
   "attributes": {
    "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
    "Habitat(s)": "Ancient Shrines"
-  }
+  },
+  "additional": {}
  },
- {
+ "Molduga": {
+  "item_id": "Molduga",
   "name": "Molduga",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/ff/TotK_Molduga_Model.png",
   "category_ref": [
    "categories/enemies",
-   "categories/overword_bosses"
+   "categories/overworld_bosses"
   ],
-  "item_id": "molduga",
+  "item_url": "https://zelda.fandom.com/wiki/Molduga",
   "attributes": {
    "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
    "Other appearance(s)": "Hyrule Warriors: Age of Calamity",
@@ -407,15 +510,19 @@
    "Health": "1\n500",
    "Weakness(es)": "Bombs\nBomb Arrows",
    "Reward(s)": "Molduga Fins\nMolduga Guts"
-  }
+  },
+  "additional": {}
  },
- {
+ "Stone_Talus_(Luminous)": {
+  "item_id": "Stone_Talus_(Luminous)",
   "name": "Stone Talus (Luminous)",
+  "description": null,
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/78/TotK_Stone_Talus_%28Luminous%29_Model.png",
   "category_ref": [
    "categories/enemies",
-   "categories/overword_bosses"
+   "categories/overworld_bosses"
   ],
-  "item_id": "stone_talus_(luminous)",
+  "item_url": "https://zelda.fandom.com/wiki/Stone_Talus_(Luminous)",
   "attributes": {
    "Race": "Stone Talus",
    "Main appearance(s)": "Breath of the Wild\nTears of the Kingdom",
@@ -423,6 +530,7 @@
    "Habitat(s)": "Gerudo Highlands\nHyrule Field",
    "Weapon(s)": "Iron Sledgehammer\nBomb Arrow",
    "Spoil(s)": "Flint\nAmber\nOpal\nLuminous Stone\nTopaz\nDiamond"
-  }
+  },
+  "additional": {}
  }
-]
+}

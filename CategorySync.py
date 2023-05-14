@@ -4,8 +4,11 @@ from firebase_admin import credentials
 from firebase_admin import firestore
 
 # Use a service account.
-cred = credentials.Certificate('src/Public/tears-of-the-kingdom-companion-firebase-adminsdk-dljty-8df1eba20e.json')
+#PRODUCTION
+# cred = credentials.Certificate('src/Public/tears-of-the-kingdom-companion-firebase-adminsdk-dljty-8df1eba20e.json')
 
+#DEVELOPMENT
+cred = credentials.Certificate('src/Public/totk-companion-dev-firebase-adminsdk-kee1u-a4ac96060a.json')
 app = firebase_admin.initialize_app(cred)
 
 db = firestore.client()
