@@ -1,0 +1,3332 @@
+{
+ "Acorn": {
+  "item_id": "Acorn",
+  "name": "Acorn",
+  "description": "Often found on the ground near trees. Squirrels adore this nut, so you may have competition while foraging. Add one to a meal for a nutty seasoning.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/66/BotW_Acorn_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Acorn",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Sold for Rupees\nArmor crafting\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Aerocuda_Wing": {
+  "item_id": "Aerocuda_Wing",
+  "name": "Aerocuda Wing",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Amber": {
+  "item_id": "Amber",
+  "name": "Amber",
+  "description": "A fossilized resin with a caramelesque sheen to it. It's been valued as a component in decorations and crafting since ancient times.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/01/Amber.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Amber",
+  "attributes": {
+   "Value": "30 %rupee%",
+   "Additional uses": "Sold for Rupees\nArmor crafting\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Ancient_Arowana": {
+  "item_id": "Ancient_Arowana",
+  "name": "Ancient Arowana",
+  "description": "A lively fish that hasn't changed much since ancient times. Its nutritious meat can restore a bit of health.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a6/TotK_Ancient_Arowana_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "6 %rupee%",
+   "Additional uses": "Restores %full_heart%"
+  },
+  "additional": {}
+ },
+ "Apple": {
+  "item_id": "Apple",
+  "name": "Apple",
+  "description": "A common fruit eaten by people since ancient times. Eat it fresh, or cook it to increase its effect.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f2/BotW_Apple_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Apple",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Restores %half_heart%"
+  },
+  "additional": {}
+ },
+ "Armoranth": {
+  "item_id": "Armoranth",
+  "name": "Armoranth",
+  "description": "This tough medicinal plant cannot be broken, but it can be cooked. Its durable yet flexible fibers raise your defense when cooked into a dish.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b3/BotW_Armoranth_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Armoranth",
+  "attributes": {
+   "Value": "5 %rupee%",
+   "Additional uses": "Boosts defense when cooked"
+  },
+  "additional": {}
+ },
+ "Armored_Carp": {
+  "item_id": "Armored_Carp",
+  "name": "Armored Carp",
+  "description": "Calcium deposits in the scales of this ancient fish make them as hard as armor. Cooking it into a dish will fortify your bones, temporarily increasing your defense.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/86/BotW_Armored_Carp_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Armored_Carp",
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Restores %full_heart%\nBoosts defense when cooked"
+  },
+  "additional": {}
+ },
+ "Armored_Porgy": {
+  "item_id": "Armored_Porgy",
+  "name": "Armored Porgy",
+  "description": "This porgy's body is covered in armor-hard scales. The compounds in its scales, when cooked into a dish, fortify your bones and temporarily boost your defense.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/60/BotW_Armored_Porgy_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Armored_Porgy",
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Restores %full_heart%\nBoosts defense when cooked"
+  },
+  "additional": {}
+ },
+ "Big_Hearty_Radish": {
+  "item_id": "Big_Hearty_Radish",
+  "name": "Big Hearty Radish",
+  "description": "This hearty radish has grown much larger than the average radish. It's rich in analeptic compounds that, when cooked into a dish, temporarily increase your maximum hearts.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3a/BotW_Big_Hearty_Radish_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Big_Hearty_Radish",
+  "attributes": {
+   "Value": "15 %rupee%",
+   "Additional uses": "Restores %full_heart%%full_heart%%full_heart%%full_heart%\nIncreases max hearts when cooked"
+  },
+  "additional": {}
+ },
+ "Big_Hearty_Truffle": {
+  "item_id": "Big_Hearty_Truffle",
+  "name": "Big Hearty Truffle",
+  "description": "Years of going unpicked have allowed this hearty truffle to grow quite large. It's chock-full of nutrients. When cooked into a dish, it temporarily increases your maximum hearts.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/69/BotW_Big_Hearty_Truffle_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Big_Hearty_Truffle",
+  "attributes": {
+   "Value": "15 %rupee%",
+   "Additional uses": "Restores %full_heart%%full_heart%%full_heart%\nIncreases max hearts when cooked"
+  },
+  "additional": {}
+ },
+ "Bird_Egg": {
+  "item_id": "Bird_Egg",
+  "name": "Bird Egg",
+  "description": "A fresh bird egg necessary for making dishes such as omelets and crepes. You can snag them from birds' nests if you're sneaky. Nutritious and delicious, perfect.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/75/BotW_Bird_Egg_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Bird_Egg",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Restores %full_heart%"
+  },
+  "additional": {}
+ },
+ "Bladed_Rhino_Beetle": {
+  "item_id": "Bladed_Rhino_Beetle",
+  "name": "Bladed Rhino Beetle",
+  "description": "This beetle's razor-sharp horns demand that you handle it with care. Boil the horns alongside monster parts to concoct an elixir that will raise your attack power.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d4/BotW_Bladed_Rhino_Beetle_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Bladed_Rhino_Beetle",
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Can make elixirs that raise attack power"
+  },
+  "additional": {}
+ },
+ "Black_Bokoblin_Horn": {
+  "item_id": "Black_Bokoblin_Horn",
+  "name": "Black Bokoblin Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "9 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Black_Hinox_Horn": {
+  "item_id": "Black_Hinox_Horn",
+  "name": "Black Hinox Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "60 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Black_Horriblin_Horn": {
+  "item_id": "Black_Horriblin_Horn",
+  "name": "Black Horriblin Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "15 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Black_Lizalfos_Horn": {
+  "item_id": "Black_Lizalfos_Horn",
+  "name": "Black Lizalfos Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Black_Lizalfos_Tail": {
+  "item_id": "Black_Lizalfos_Tail",
+  "name": "Black Lizalfos Tail",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "22 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Blue_Bokoblin_Horn": {
+  "item_id": "Blue_Bokoblin_Horn",
+  "name": "Blue Bokoblin Horn",
+  "description": "A two-pronged horn with sharp edges and tips. Attach it to a weapon to moderately increase its attack power, or brew it into an elixir.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Blue_Boss_Bokoblin_Horn": {
+  "item_id": "Blue_Boss_Bokoblin_Horn",
+  "name": "Blue Boss Bokoblin Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Blue_Hinox_Horn": {
+  "item_id": "Blue_Hinox_Horn",
+  "name": "Blue Hinox Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "35 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Blue_Horriblin_Horn": {
+  "item_id": "Blue_Horriblin_Horn",
+  "name": "Blue Horriblin Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "9 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Blue_Lizalfos_Horn": {
+  "item_id": "Blue_Lizalfos_Horn",
+  "name": "Blue Lizalfos Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Blue_Lizalfos_Tail": {
+  "item_id": "Blue_Lizalfos_Tail",
+  "name": "Blue Lizalfos Tail",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "20 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Blue_Moblin_Horn": {
+  "item_id": "Blue_Moblin_Horn",
+  "name": "Blue Moblin Horn",
+  "description": "A large, curved horn with two extremely hard tips. Attach it to a weapon to increase its attack power, or cook it with a critter to make an elixir.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Blue_Nightshade": {
+  "item_id": "Blue_Nightshade",
+  "name": "Blue Nightshade",
+  "description": "A plant that grows in quieter areas of Hyrule. At night, it gives off a soft glow. Cook with it to increase your stealth.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a5/BotW_Blue_Nightshade_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Blue_Nightshade",
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Increases stealth when cooked\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "BlueManed_Lynel_Mace_Horn": {
+  "item_id": "BlueManed_Lynel_Mace_Horn",
+  "name": "Blue-Maned Lynel Mace Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "70 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "BlueWhite_Frox_Fang": {
+  "item_id": "BlueWhite_Frox_Fang",
+  "name": "Blue-White Frox Fang",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "40 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Bokoblin_Fang": {
+  "item_id": "Bokoblin_Fang",
+  "name": "Bokoblin Fang",
+  "description": "A tooth obtained from a Bokoblin. It's worn down and not very sharp, but it's still pretty hard. Cook it alongside a critter to make an elixir.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/fa/BotW_Bokoblin_Fang_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Bokoblin_Fang",
+  "attributes": {
+   "Value": "8 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Bokoblin_Horn": {
+  "item_id": "Bokoblin_Horn",
+  "name": "Bokoblin Horn",
+  "description": "A sharp horn with multiple barbs. Attach it to a weapon to increase its attack power, or cook it with a critter to make an elixir.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/5b/TotK_Bokoblin_Horn_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Bokoblin_Horn",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Bomb_Flower": {
+  "item_id": "Bomb_Flower",
+  "name": "Bomb Flower",
+  "description": "A dangerous flower that contains explosive elements. Does not mix well with fire or electricity, unless the goal is to blow things up.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Explodes when struck"
+  },
+  "additional": {}
+ },
+ "Boss_Bokoblin_Guts": {
+  "item_id": "Boss_Bokoblin_Guts",
+  "name": "Boss Bokoblin Guts",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Boss_Bokoblin_Horn": {
+  "item_id": "Boss_Bokoblin_Horn",
+  "name": "Boss Bokoblin Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "14 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Brightbloom_Seed": {
+  "item_id": "Brightbloom_Seed",
+  "name": "Brightbloom Seed",
+  "description": "A seed that's often found in caves or wells. When struck, it will take root and bloom, giving off faint light from a small flower.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d5/TotK_Brightbloom_Seed_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Gives off faint light"
+  },
+  "additional": {}
+ },
+ "Brightcap": {
+  "item_id": "Brightcap",
+  "name": "Brightcap",
+  "description": "A mushroom that grows in caves and contains luminescent enzymes. Cook it into a dish to give a glowing effect to anyone who eats it.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e6/TotK_Brightcap_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Restores %half_heart%\nGives glowing effect when cooked"
+  },
+  "additional": {}
+ },
+ "Bright-Eyed_Crab": {
+  "item_id": "Bright-Eyed_Crab",
+  "name": "Bright-Eyed Crab",
+  "description": "This crab appears in large numbers when it rains. On bite of its delectable meat, and you'll forget all your exhaustion. Replenishes your stamina when cooked into a dish.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/db/BotW_Bright-Eyed_Crab_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Bright-Eyed_Crab",
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Restores %full_heart%\nRestores stamina when cooked"
+  },
+  "additional": {}
+ },
+ "Cane_Sugar": {
+  "item_id": "Cane_Sugar",
+  "name": "Cane Sugar",
+  "description": "When boiled with other ingredients, the cane breaks down into a sweet juice necessary for making cakes and other sweets. It's commonly found in ingredients stores.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b5/BotW_Cane_Sugar_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Cane_Sugar",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "General cooking and specific cooking recipes"
+  },
+  "additional": {}
+ },
+ "Captain_Construct_I_Horn": {
+  "item_id": "Captain_Construct_I_Horn",
+  "name": "Captain Construct I Horn",
+  "description": "This wavy, double-edged, blade-like horn is formidable when it comes to slashing. Attach it to a weapon to increase attack power.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7d/TotK_Captain_Construct_I_Horn_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Captain_Construct_II_Horn": {
+  "item_id": "Captain_Construct_II_Horn",
+  "name": "Captain Construct II Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "9 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Captain_Construct_III_Horn": {
+  "item_id": "Captain_Construct_III_Horn",
+  "name": "Captain Construct III Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "12 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Captain_Construct_IV_Horn": {
+  "item_id": "Captain_Construct_IV_Horn",
+  "name": "Captain Construct IV Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "80 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Chickaloo_Tree_Nut": {
+  "item_id": "Chickaloo_Tree_Nut",
+  "name": "Chickaloo Tree Nut",
+  "description": "Small birds love this nut. You can eat it raw for a minor effect, but it can also be added as a spice to other recipes.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/04/BotW_Chickaloo_Tree_Nut_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Chickaloo_Tree_Nut",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Restores %quarter_heart%"
+  },
+  "additional": {}
+ },
+ "Chillfin_Trout": {
+  "item_id": "Chillfin_Trout",
+  "name": "Chillfin Trout",
+  "description": "This blue trout prefers cold bodies of water. Its skin contains enzymes that keep its body cool, and when cooked into a dish, it will temporarily boost your heat resistance.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/15/BotW_Chillfin_Trout_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Chillfin_Trout",
+  "attributes": {
+   "Value": "6 %rupee%",
+   "Additional uses": "Restores %full_heart%\nBoosts heat resistance when cooked"
+  },
+  "additional": {}
+ },
+ "Chillshroom": {
+  "item_id": "Chillshroom",
+  "name": "Chillshroom",
+  "description": "Often found at the base of pine trees in cold climates, these mushrooms are cool to the touch and can be used to cook dishes that allow you to stay cool even in arid regions.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/26/BotW_Chillshroom_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Chillshroom",
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Restores %half_heart%\nBoosts heat resistance when cooked"
+  },
+  "additional": {}
+ },
+ "Chuchu_Jelly": {
+  "item_id": "Chuchu_Jelly",
+  "name": "Chuchu Jelly",
+  "description": "A gelatinous substance that came from a Chuchu. It's unusable in this state, but applying a bit of elemental stimulation will change its form.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/89/BotW_Chuchu_Jelly_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Chuchu_Jelly",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Cold_Darner": {
+  "item_id": "Cold_Darner",
+  "name": "Cold Darner",
+  "description": "This dragonfly prefers the cool shade of trees to the warmth of the sun. Its wings disperse heat from its body, which can be cooked into a heat-resistant elixir.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0f/BotW_Cold_Darner_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Cold_Darner",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Can make elixirs that raise heat resistance"
+  },
+  "additional": {}
+ },
+ "Cool_Safflina": {
+  "item_id": "Cool_Safflina",
+  "name": "Cool Safflina",
+  "description": "This medicinal plant grows in high elevations, such as mountains in the Hebra or Gerudo regions. When cooked into a dish, it will temporarily increase your heat resistance.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7d/BotW_Cool_Safflina_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Cool_Safflina",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Boosts heat resistance when cooked"
+  },
+  "additional": {}
+ },
+ "Courser_Bee_Honey": {
+  "item_id": "Courser_Bee_Honey",
+  "name": "Courser Bee Honey",
+  "description": "Honey straight from the hive is chock-full of nutrients. Cooking this into a meal unlocks the potential of these nutrients and provides a stamina-recovery effect.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/fd/BotW_Courser_Bee_Honey_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Courser_Bee_Honey",
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Restores %full_heart%%full_heart%\nRestores stamina when cooked\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Dark_Clump": {
+  "item_id": "Dark_Clump",
+  "name": "Dark Clump",
+  "description": "An unusual substance, it's cold to the touch, and it seems as though it's filled with pitch-black darkness. Use it in cooking to get a gloom-resistant effect.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "5 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Dazzle_Fruit": {
+  "item_id": "Dazzle_Fruit",
+  "name": "Dazzle Fruit",
+  "description": "A fruit charged with powerful light. Break it to unleash dazzling sparkles that blind any monsters nearby.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f6/TotK_Dazzle_Fruit_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": "Blinds enemies"
+  },
+  "additional": {}
+ },
+ "Deep_Lightning_Bug": {
+  "item_id": "Deep_Lightning_Bug",
+  "name": "Deep Lightning Bug",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Diamond": {
+  "item_id": "Diamond",
+  "name": "Diamond",
+  "description": "The most precious gem one can find in Hyrule, its signature sparkle has charmed Hyruleans for generations. As such, it has sold for a very high price since ancient times.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e4/BotW_Diamond_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Diamond",
+  "attributes": {
+   "Value": "500 %rupee%",
+   "Additional uses": "Sold for Rupees\nArmor crafting\nChampion weapon crafting"
+  },
+  "additional": {}
+ },
+ "Dinraal%27s_Claw": {
+  "item_id": "Dinraal%27s_Claw",
+  "name": "Dinraal's Claw",
+  "description": "This valuable claw was plucked from the red spirit Dinraal. It was extremely hot before it was removed. You could sell it to a store, but it must have some other use.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Dinraal%27s_Claw",
+  "attributes": {
+   "Value": "180 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Dinraals_Horn": {
+  "item_id": "Dinraals_Horn",
+  "name": "Dinraal's Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "300 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Dinraal%27s_Scale": {
+  "item_id": "Dinraal%27s_Scale",
+  "name": "Dinraal's Scale",
+  "description": "This precious scale fell from the red spirit Dinraal. It emanates a great heat, You can use it in cooking, but eating it seems like a waste.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Dinraal%27s_Scale",
+  "attributes": {
+   "Value": "150 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Dinraals_Talon": {
+  "item_id": "Dinraals_Talon",
+  "name": "Dinraal's Talon",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "ElectricBreath_Lizalfos_Horn": {
+  "item_id": "ElectricBreath_Lizalfos_Horn",
+  "name": "Electric-Breath Lizalfos Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "15 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Electric_Keese_Eyeball": {
+  "item_id": "Electric_Keese_Eyeball",
+  "name": "Electric Keese Eyeball",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "6 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Electric_Keese_Wing": {
+  "item_id": "Electric_Keese_Wing",
+  "name": "Electric Keese Wing",
+  "description": "A rare Electric Keese wing. The part of the Electric Keese that produces electricity is not in its wings, so it won't shock you. Toss it in with some critters to make elixirs.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Electric_Keese_Wing",
+  "attributes": {
+   "Value": "8 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Fairy": {
+  "item_id": "Fairy",
+  "name": "Fairy",
+  "description": "This fairy will fly from your pouch and heal all your wounds the moment you lose your last heart. It's easily mistaken for a firefly at first, but it glows in the daylight as well as night.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9c/BotW_Fairy_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Fairy",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Restores %full_heart%%full_heart%%full_heart%%full_heart%%full_heart%Automatically used upon death"
+  },
+  "additional": {}
+ },
+ "Farosh%27s_Claw": {
+  "item_id": "Farosh%27s_Claw",
+  "name": "Farosh's Claw",
+  "description": "This claw was plucked from the golden spirit Farosh. Its electricity was expelled before it was removed, so it's safe to handle. A store will buy it, but it must have some other use.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Farosh%27s_Claw",
+  "attributes": {
+   "Value": "180 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Faroshs_Horn": {
+  "item_id": "Faroshs_Horn",
+  "name": "Farosh's Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "300 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Farosh%27s_Scale": {
+  "item_id": "Farosh%27s_Scale",
+  "name": "Farosh's Scale",
+  "description": "This precious scale fell from the golden spirit Farosh. It contains powerful electricity within. You can cook it, but eating it seems like a waste.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Farosh%27s_Scale",
+  "attributes": {
+   "Value": "150 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Faroshs_Talon": {
+  "item_id": "Faroshs_Talon",
+  "name": "Farosh's Talon",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Fire_Fruit": {
+  "item_id": "Fire_Fruit",
+  "name": "Fire Fruit",
+  "description": "A plant that generates heat when struck. Cooked correctly its heating properties improve blood flow and stimulate muscles to raise attack power in high temperatures.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/2d/TotK_Fire_Fruit_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Restores %quarter_heart%"
+  },
+  "additional": {}
+ },
+ "Fire_Keese_Eyeball": {
+  "item_id": "Fire_Keese_Eyeball",
+  "name": "Fire Keese Eyeball",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "6 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Fire_Keese_Wing": {
+  "item_id": "Fire_Keese_Wing",
+  "name": "Fire Keese Wing",
+  "description": "A rare Fire Keese wing. There isn't enough Fire Keese attached to it to burn you, but it does have a slight warmth to it. It can be used as an ingredient for elixirs.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Fire_Keese_Wing",
+  "attributes": {
+   "Value": "8 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Fire_Like_Stone": {
+  "item_id": "Fire_Like_Stone",
+  "name": "Fire Like Stone",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "25 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "FireBreath_Lizalfos_Horn": {
+  "item_id": "FireBreath_Lizalfos_Horn",
+  "name": "Fire-Breath Lizalfos Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "15 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Fleet_Lotus_Seeds": {
+  "item_id": "Fleet_Lotus_Seeds",
+  "name": "Fleet Lotus Seeds",
+  "description": "The plant that bears these seeds grows near deep water. The roots draw nutrients from the water, which boosts your movement speed when the seeds are cooked into a dish.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/5e/BotW_Fleet-Lotus_Seeds_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Fleet_Lotus_Seeds",
+  "attributes": {
+   "Value": "5 %rupee%",
+   "Additional uses": "Restores %half_heart%\nIncreases speed when cooked"
+  },
+  "additional": {}
+ },
+ "Flint": {
+  "item_id": "Flint",
+  "name": "Flint",
+  "description": "Strike it with a metallic weapon to generate a spark. The portable fire starter breaks after one use, but it can create a long-lasting flame if you use it near firewood.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/73/BotW_Flint_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Flint",
+  "attributes": {
+   "Value": "5 %rupee%",
+   "Additional uses": "Fire starting\nChampion weapon crafting"
+  },
+  "additional": {}
+ },
+ "Fortified_Pumpkin": {
+  "item_id": "Fortified_Pumpkin",
+  "name": "Fortified Pumpkin",
+  "description": "An extremely tough pumpkin raised in village fields. When cooked, that toughness manifests itself by considerably upping defense.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/ec/BotW_Fortified_Pumpkin_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Fortified_Pumpkin",
+  "attributes": {
+   "Value": "5 %rupee%",
+   "Additional uses": "Restores %half_heart%\nBoosts defense when cooked"
+  },
+  "additional": {}
+ },
+ "Fresh_Milk": {
+  "item_id": "Fresh_Milk",
+  "name": "Fresh Milk",
+  "description": "This fresh milk comes from Hateno cows and white goats kept in the village. It's delicious on its own but can also be used as an ingredient in soups and stews.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6a/BotW_Fresh_Milk_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Fresh_Milk",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Restores %half_heart%"
+  },
+  "additional": {}
+ },
+ "Frox_Fang": {
+  "item_id": "Frox_Fang",
+  "name": "Frox Fang",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "40 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Frox_Fingernail": {
+  "item_id": "Frox_Fingernail",
+  "name": "Frox Fingernail",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Giant_Brightbloom_Seed": {
+  "item_id": "Giant_Brightbloom_Seed",
+  "name": "Giant Brightbloom Seed",
+  "description": "A seed that's found underground. When struck, it will take root and bloom, radiating a large amount of light from a big flower.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/ce/TotK_Giant_Brightbloom_Seed_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Gives off bright light"
+  },
+  "additional": {}
+ },
+ "Gibdo_Bone": {
+  "item_id": "Gibdo_Bone",
+  "name": "Gibdo Bone",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Gibdo_Guts": {
+  "item_id": "Gibdo_Guts",
+  "name": "Gibdo Guts",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Gibdo_Wing": {
+  "item_id": "Gibdo_Wing",
+  "name": "Gibdo Wing",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "6 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Gleeok_Electric_Horn": {
+  "item_id": "Gleeok_Electric_Horn",
+  "name": "Gleeok Electric Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "150 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Gleeok_Flame_Horn": {
+  "item_id": "Gleeok_Flame_Horn",
+  "name": "Gleeok Flame Horn",
+  "description": "A crown-like, fire-imbued horn of a Gleeok. Attach it to a weapon to vastly increase its attack power. Cook it with a critter to make an elixir.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "70 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Gleeok_Frost_Horn": {
+  "item_id": "Gleeok_Frost_Horn",
+  "name": "Gleeok Frost Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "90 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Gleeok_Guts": {
+  "item_id": "Gleeok_Guts",
+  "name": "Gleeok Guts",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "200 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Gleeok_Wing": {
+  "item_id": "Gleeok_Wing",
+  "name": "Gleeok Wing",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Goat_Butter": {
+  "item_id": "Goat_Butter",
+  "name": "Goat Butter",
+  "description": "Butter made from the milk of a domesticated white goat. In addition to being used in dishes like stews and meuni\u00e8re. It's often used when making cakes and other sweets.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/76/BotW_Goat_Butter_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Goat_Butter",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "General cooking and specific cooking recipes"
+  },
+  "additional": {}
+ },
+ "Golden_Apple": {
+  "item_id": "Golden_Apple",
+  "name": "Golden Apple",
+  "description": "A rare, very sweet fruit that seems to have an extra sparkle to it. Sometimes found near normal apples.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "8 %rupee%",
+   "Additional uses": "Restores %full_heart%%half_heart%"
+  },
+  "additional": {}
+ },
+ "Goron_Spice": {
+  "item_id": "Goron_Spice",
+  "name": "Goron Spice",
+  "description": "Made from several types of spices, this secret Goron seasoning has been handed down for generations. An initial wave of spiciness paves the way for the sweetness.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6f/BotW_Goron_Spice_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Goron_Spice",
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "General cooking and specific cooking recipes"
+  },
+  "additional": {}
+ },
+ "Hateno_Cheese": {
+  "item_id": "Hateno_Cheese",
+  "name": "Hateno Cheese",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "5 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Hearty_Bass": {
+  "item_id": "Hearty_Bass",
+  "name": "Hearty Bass",
+  "description": "This large fish lives near the shoreline. Its sizable body can restore a lot of nutrient. When cooked into a dish, it will temporarily increase your maximum hearts.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0c/BotW_Hearty_Bass_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hearty_Bass",
+  "attributes": {
+   "Value": "18 %rupee%",
+   "Additional uses": "Restores %full_heart%%full_heart%\nIncreases max hearts when cooked\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Hearty_Blueshell_Snail": {
+  "item_id": "Hearty_Blueshell_Snail",
+  "name": "Hearty Blueshell Snail",
+  "description": "This snail lives on sandy beaches in large numbers. Its flesh contains a high amount of stimulants, so when cooked into a dish, it temporarily increases your maximum hearts.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/66/BotW_Hearty_Blueshell_Snail_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hearty_Blueshell_Snail",
+  "attributes": {
+   "Value": "15 %rupee%",
+   "Additional uses": "Restores %full_heart%%full_heart%%full_heart%\nIncreases max hearts when cooked"
+  },
+  "additional": {}
+ },
+ "Hearty_Durian": {
+  "item_id": "Hearty_Durian",
+  "name": "Hearty Durian",
+  "description": "This fruit's odor earned it the nickname \"king of fruits\". It offers immense restorative power; dishes cooked with it will temporarily increase your maximum hearts.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/83/BotW_Hearty_Durian_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hearty_Durian",
+  "attributes": {
+   "Value": "15 %rupee%",
+   "Additional uses": "Restores %full_heart%%full_heart%%full_heart%\nIncreases max hearts when cooked"
+  },
+  "additional": {}
+ },
+ "Hearty_Lizard": {
+  "item_id": "Hearty_Lizard",
+  "name": "Hearty Lizard",
+  "description": "This rare lizard lives deep in the forests. It feeds on high-nutrient foods, giving it great vitality. When used to make elixirs, they temporarily increase your maximum hearts.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/96/BotW_Hearty_Lizard_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hearty_Lizard",
+  "attributes": {
+   "Value": "20 %rupee%",
+   "Additional uses": "Can make elixirs that raise max hearts"
+  },
+  "additional": {}
+ },
+ "Hearty_Radish": {
+  "item_id": "Hearty_Radish",
+  "name": "Hearty Radish",
+  "description": "A rare radish that grows best in sunny plains. Cook it before eating to temporarily increase your maximum hearts.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3e/BotW_Hearty_Radish_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hearty_Radish",
+  "attributes": {
+   "Value": "8 %rupee%",
+   "Additional uses": "Restores %full_heart%%full_heart%%half_heart%\nIncreases max hearts when cooked"
+  },
+  "additional": {}
+ },
+ "Hearty_Salmon": {
+  "item_id": "Hearty_Salmon",
+  "name": "Hearty Salmon",
+  "description": "This fish makes its home in cold water, giving it extra layers of fat. It temporarily increases your maximum hearts when used in cooking.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/81/BotW_Hearty_Salmon_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hearty_Salmon",
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Restores %full_heart%%full_heart%%full_heart%%full_heart%\nIncreases max hearts when cooked"
+  },
+  "additional": {}
+ },
+ "Hearty_Truffle": {
+  "item_id": "Hearty_Truffle",
+  "name": "Hearty Truffle",
+  "description": "This rare mushroom has a rich scent. Cook it before eating to temporarily increase your maximum hearts.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/cc/BotW_Hearty_Truffle_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hearty_Truffle",
+  "attributes": {
+   "Value": "6 %rupee%",
+   "Additional uses": "Restores %full_heart%%full_heart%\nIncreases max hearts when cooked"
+  },
+  "additional": {}
+ },
+ "Hightail_Lizard": {
+  "item_id": "Hightail_Lizard",
+  "name": "Hightail Lizard",
+  "description": "A lizard found throughout Hyrule. It's a bit slow to react at times, but if given a chance to escape, it will dart off quickly. Cook it with monster parts for a speed-boosting elixir.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6f/BotW_Hightail_Lizard_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hightail_Lizard",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Can make elixirs that raise speed\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Hinox_Guts": {
+  "item_id": "Hinox_Guts",
+  "name": "Hinox Guts",
+  "description": "A giant, smelly Hinox organ of unknown function. Upon closer inspection, it appears to be quivering, It can be used to make an elixir, but some say it has other uses, as well.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6f/BotW_Hinox_Guts_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hinox_Guts",
+  "attributes": {
+   "Value": "80 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Hinox_Toenail": {
+  "item_id": "Hinox_Toenail",
+  "name": "Hinox Toenail",
+  "description": "A nail obtained from a Hinox. It's as thick as a plate of armor and can be stewed with critters to make elixirs.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/11/BotW_Hinox_Toenail_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hinox_Toenail",
+  "attributes": {
+   "Value": "20 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees"
+  },
+  "additional": {}
+ },
+ "Hinox_Tooth": {
+  "item_id": "Hinox_Tooth",
+  "name": "Hinox Tooth",
+  "description": "This Hinox tooth is almost unbelievably big. Attach it to an arrowhead to increase its attack power, or brew it into an elixir.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/29/BotW_Hinox_Tooth_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hinox_Tooth",
+  "attributes": {
+   "Value": "35 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees"
+  },
+  "additional": {}
+ },
+ "Horriblin_Claw": {
+  "item_id": "Horriblin_Claw",
+  "name": "Horriblin Claw",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "12 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Horriblin_Guts": {
+  "item_id": "Horriblin_Guts",
+  "name": "Horriblin Guts",
+  "description": "Rare material dropped by a Horriblin. It's very bitter and unsuitable for cooking, but it makes an effective elixir when cooked with a critter.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "25 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Horriblin_Horn": {
+  "item_id": "Horriblin_Horn",
+  "name": "Horriblin Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Hot-Footed_Frog": {
+  "item_id": "Hot-Footed_Frog",
+  "name": "Hot-Footed Frog",
+  "description": "A quick frog that can be found hopping around near water. Cook it with monster parts to draw out its speed-boost effect.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4d/BotW_Hot-Footed_Frog_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hot-Footed_Frog",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Can make elixirs that raise speed\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Hydromelon": {
+  "item_id": "Hydromelon",
+  "name": "Hydromelon",
+  "description": "This resilient fruit can flourish even in the heat of the desert. The hydrating liquid inside provides a cooling effect that, when cooked, increases your heat resistance.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b0/BotW_Hydromelon_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hydromelon",
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Restores %half_heart%\nBoosts heat resistance when cooked"
+  },
+  "additional": {}
+ },
+ "Hylian_Rice": {
+  "item_id": "Hylian_Rice",
+  "name": "Hylian Rice",
+  "description": "This grain is a favorite among residents of Kakariko Village. It's grown in regions with a lot of water and is quite versatile. Used as an ingredient in things like risotto and rice balls.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/67/BotW_Hylian_Rice_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hylian_Rice",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Restores %full_heart%"
+  },
+  "additional": {}
+ },
+ "Hylian_Shroom": {
+  "item_id": "Hylian_Shroom",
+  "name": "Hylian Shroom",
+  "description": "A common mushroom found near trees around Hyrule. Eat it to restore half a heart.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/13/BotW_Hylian_Shroom_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hylian_Shroom",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Restores %half_heart%"
+  },
+  "additional": {}
+ },
+ "Hylian_Tomato": {
+  "item_id": "Hylian_Tomato",
+  "name": "Hylian Tomato",
+  "description": "A fruit found widely from cold areas to warm climates. Full of nutrition, and kind of trendy lately. Use it in cooking to recover more hearts.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/5c/TotK_Hylian_Tomato_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Restores %full_heart%"
+  },
+  "additional": {}
+ },
+ "Hyrule_Bass": {
+  "item_id": "Hyrule_Bass",
+  "name": "Hyrule Bass",
+  "description": "An ordinary fish that can be found all over Hyrule. Can be eaten raw, but cooking it amplifies its healing benefits.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/66/BotW_Hyrule_Bass_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hyrule_Bass",
+  "attributes": {
+   "Value": "6 %rupee%",
+   "Additional uses": "Restores %full_heart%\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Hyrule_Herb": {
+  "item_id": "Hyrule_Herb",
+  "name": "Hyrule Herb",
+  "description": "This healthy herb has not changed since ancient times. Cook it before eating to increase the number of hearts it restores.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3d/BotW_Hyrule_Herb_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Hyrule_Herb",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Restores %full_heart%"
+  },
+  "additional": {}
+ },
+ "Ice_Keese_Eyeball": {
+  "item_id": "Ice_Keese_Eyeball",
+  "name": "Ice Keese Eyeball",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "6 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Ice_Keese_Wing": {
+  "item_id": "Ice_Keese_Wing",
+  "name": "Ice Keese Wing",
+  "description": "A rare Ice Keese wing. Its frozen surface gleams attractively, but its usefulness isn't readily apparent.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/55/BotW_Ice_Keese_Wing_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Ice_Keese_Wing",
+  "attributes": {
+   "Value": "8 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Ice_Like_Stone": {
+  "item_id": "Ice_Like_Stone",
+  "name": "Ice Like Stone",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "25 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "IceBreath_Lizalfos_Horn": {
+  "item_id": "IceBreath_Lizalfos_Horn",
+  "name": "Ice-Breath Lizalfos Horn",
+  "description": "The freezing power embedded in this horn's crystal tip can be used to your advantage if you know how.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "15 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Ironshell_Crab": {
+  "item_id": "Ironshell_Crab",
+  "name": "Ironshell Crab",
+  "description": "This crab's shell is particularly hard. When cooked into a dish, its fat and meat bolster the body to increase your defense.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/1c/BotW_Ironshell_Crab_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Ironshell_Crab",
+  "attributes": {
+   "Value": "8 %rupee%",
+   "Additional uses": "Restores %full_heart%\nBoosts defense when cooked"
+  },
+  "additional": {}
+ },
+ "Ironshroom": {
+  "item_id": "Ironshroom",
+  "name": "Ironshroom",
+  "description": "The cap of this mushroom is very hard. Use it when cooking to prepare a dish that increases your defense.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/80/BotW_Ironshroom_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Ironshroom",
+  "attributes": {
+   "Value": "5 %rupee%",
+   "Additional uses": "Restores %half_heart%\nBoosts defense when cooked"
+  },
+  "additional": {}
+ },
+ "Keese_Eyeball": {
+  "item_id": "Keese_Eyeball",
+  "name": "Keese Eyeball",
+  "description": "These mysterious orbs scan their surroundings. Take advantage of their glaring awareness, and attach one to an arrow to grant homing quality to the arrow.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f2/BotW_Keese_Eyeball_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Keese_Eyeball",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Keese_Wing": {
+  "item_id": "Keese_Wing",
+  "name": "Keese Wing",
+  "description": "An aerodynamic material dropped by a defeated Keese. Arrows and thrown weapons fly farther with this item attached.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f8/BotW_Keese_Wing_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Keese_Wing",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Korok_Frond": {
+  "item_id": "Korok_Frond",
+  "name": "Korok Frond",
+  "description": "A mysterious leaf that looks like it might be hiding something behind it. It has some medicinal value. Attach it to a stick and it can be used as a fan.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/66/TotK_Korok_Frond_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Korok_Frond",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Like_Like_Stone": {
+  "item_id": "Like_Like_Stone",
+  "name": "Like Like Stone",
+  "description": "A strange round stone from a Like Like, made of crystallized inner fluids. It's a good ingredient for elixirs.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "15 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Light_Dragons_Claw": {
+  "item_id": "Light_Dragons_Claw",
+  "name": "Light Dragon's Claw",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "180 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Light_Dragons_Horn": {
+  "item_id": "Light_Dragons_Horn",
+  "name": "Light Dragon's Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "300 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Light_Dragons_Scale": {
+  "item_id": "Light_Dragons_Scale",
+  "name": "Light Dragon's Scale",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "150 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Light_Dragons_Talon": {
+  "item_id": "Light_Dragons_Talon",
+  "name": "Light Dragon's Talon",
+  "description": "A precious talon that fell from the Light Dragon. It may - (incomplete)",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Lizalfos_Horn": {
+  "item_id": "Lizalfos_Horn",
+  "name": "Lizalfos Horn",
+  "description": "This winding horn once grew atop the head of a Lizalfos. It's too hard to use for cooking, but stores are willing to buy it from you. It can also be used to make elixirs.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c9/BotW_Lizalfos_Horn_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lizalfos_Horn",
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Lizalfos_Talon": {
+  "item_id": "Lizalfos_Talon",
+  "name": "Lizalfos Talon",
+  "description": "This talon once grew from the elbow of a Lizalfos. You can stew it with critters to make elixirs, but it may have some other uses, as well.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/82/BotW_Lizalfos_Talon_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lizalfos_Talon",
+  "attributes": {
+   "Value": "15 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Lizalfos_Tail": {
+  "item_id": "Lizalfos_Tail",
+  "name": "Lizalfos Tail",
+  "description": "The severed tail of a Lizalfos. It continues to wriggle even after being separated from its body. That kind of vitality makes it highly valued as an ingredient in elixirs.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/53/BotW_Lizalfos_Tail_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lizalfos_Tail",
+  "attributes": {
+   "Value": "18 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Lynel_Guts": {
+  "item_id": "Lynel_Guts",
+  "name": "Lynel Guts",
+  "description": "This highly sought-after ingredient can only be obtained from a Lynel. It pulses with the vitality of a Lynel, a strength that makes it invaluable as an ingredient for elixirs.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7c/BotW_Lynel_Guts_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lynel_Guts",
+  "attributes": {
+   "Value": "200 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Lynel_Hoof": {
+  "item_id": "Lynel_Hoof",
+  "name": "Lynel Hoof",
+  "description": "This rare ingredient can be obtained only from a Lynel's foot. It's larger and heavier than a horse's hoof. It's useful for making elixirs but may have uses beyond that.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9e/BotW_Lynel_Hoof_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Lynel_Hoof",
+  "attributes": {
+   "Value": "50 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Lynel_Mace_Horn": {
+  "item_id": "Lynel_Mace_Horn",
+  "name": "Lynel Mace Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "40 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Mighty_Bananas": {
+  "item_id": "Mighty_Bananas",
+  "name": "Mighty Bananas",
+  "description": "This fruit grows mainly in tropical forests of the Faron region. When it's used as an ingredient, the resulting dish will temporarily increase your attack power.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/57/BotW_Mighty_Bananas_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Mighty_Bananas",
+  "attributes": {
+   "Value": "5 %rupee%",
+   "Additional uses": "Restores %half_heart%\nRaises attack power when cooked"
+  },
+  "additional": {}
+ },
+ "Mighty_Carp": {
+  "item_id": "Mighty_Carp",
+  "name": "Mighty Carp",
+  "description": "This freshwater fish lives alongside its less mighty carp ilk. A compound in its liver promotes muscle growth. Dishes cooked with it will temporarily increase your attack power.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c8/BotW_Mighty_Carp_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Mighty_Carp",
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Restores %full_heart%\nRaises attack power when cooked"
+  },
+  "additional": {}
+ },
+ "Mighty_Porgy": {
+  "item_id": "Mighty_Porgy",
+  "name": "Mighty Porgy",
+  "description": "This ocean-dwelling fish comes with one rude attitude. The compounds in its flesh elevate your competitive spirit when it's cooked into a dish, thus increasing your attack power.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/72/BotW_Mighty_Porgy_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Mighty_Porgy",
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Restores %full_heart%\nRaises attack power when cooked"
+  },
+  "additional": {}
+ },
+ "Mighty_Thistle": {
+  "item_id": "Mighty_Thistle",
+  "name": "Mighty Thistle",
+  "description": "This medicinal plant is known for its sharp thorns and for the fruit it bears. The fruit contains a compound that increases attack power when cooked into a dish.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/76/BotW_Mighty_Thistle_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Mighty_Thistle",
+  "attributes": {
+   "Value": "5 %rupee%",
+   "Additional uses": "Raises attack power when cooked"
+  },
+  "additional": {}
+ },
+ "Moblin_Fang": {
+  "item_id": "Moblin_Fang",
+  "name": "Moblin Fang",
+  "description": "A sharp fang obtained from a Moblin. It's too hard to be reshaped into a tool, but it can be tossed into a stew with some critters to create elixirs.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/81/BotW_Moblin_Fang_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Moblin_Fang",
+  "attributes": {
+   "Value": "12 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Moblin_Guts": {
+  "item_id": "Moblin_Guts",
+  "name": "Moblin Guts",
+  "description": "This prized ingredient can be obtained from Moblins. Its odor is too pungent for normal food preparation, but stew it with some critters to make elixirs.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3a/BotW_Moblin_Guts_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Moblin_Guts",
+  "attributes": {
+   "Value": "25 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Moblin_Horn": {
+  "item_id": "Moblin_Horn",
+  "name": "Moblin Horn",
+  "description": "A hard horn that resulted from a skull mutation. Attach it to a weapon to increase it's attack power, or cook it with a critter to make an elixir.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "5 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Molduga_Fin": {
+  "item_id": "Molduga_Fin",
+  "name": "Molduga Fin",
+  "description": "A sturdy fin obtained from a Molduga. It can be used to make elixirs, but there may be someone willing to trade for it.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/82/BotW_Molduga_Fin_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Molduga_Fin",
+  "attributes": {
+   "Value": "30 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Molduga_Guts": {
+  "item_id": "Molduga_Guts",
+  "name": "Molduga Guts",
+  "description": "A giant organ obtained from a Molduga. This invaluable ingredient is hard to come by, and its use is shrouded in mystery.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/ae/BotW_Molduga_Guts_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Molduga_Guts",
+  "attributes": {
+   "Value": "110 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nQuests"
+  },
+  "additional": {}
+ },
+ "Monster_Extract": {
+  "item_id": "Monster_Extract",
+  "name": "Monster Extract",
+  "description": "A result of Kilton's research into monsters, this suspicious spice can be used to punch up dishes while cooking. Apparently it can be used to make a number of monstrous meals.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a3/BotW_Monster_Extract_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Monster_Extract",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Restores or removes a random number of Hearts"
+  },
+  "additional": {}
+ },
+ "Muddle_Bud": {
+  "item_id": "Muddle_Bud",
+  "name": "Muddle Bud",
+  "description": "A wildflower with a powerful odour that can disorient and confuse, making it difficult to tell friend from foe.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": "Confuses enemies into briefly attacking each other."
+  },
+  "additional": {}
+ },
+ "Naydra%27s_Claw": {
+  "item_id": "Naydra%27s_Claw",
+  "name": "Naydra's Claw",
+  "description": "This valuable claw was plucked from the blue spirit Naydra. It was freezing cold before it was removed. You could sell it, but there must be some other use for it.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/65/BotW_Naydra%27s_Claw_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Naydra%27s_Claw",
+  "attributes": {
+   "Value": "180 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Naydras_Horn": {
+  "item_id": "Naydras_Horn",
+  "name": "Naydra's Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "300 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Naydra%27s_Scale": {
+  "item_id": "Naydra%27s_Scale",
+  "name": "Naydra's Scale",
+  "description": "This precious scale fell from the blue spirit Naydra. It contains a bitter cold within. You can use it in cooking, but just eating it seems like a waste.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/35/BotW_Naydra%27s_Scale_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Naydra%27s_Scale",
+  "attributes": {
+   "Value": "150 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Naydras_Talon": {
+  "item_id": "Naydras_Talon",
+  "name": "Naydra's Talon",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Obsidian_Frox_Fang": {
+  "item_id": "Obsidian_Frox_Fang",
+  "name": "Obsidian Frox Fang",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "40 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Octo_Balloon": {
+  "item_id": "Octo_Balloon",
+  "name": "Octo Balloon",
+  "description": "This inflatable Octorok organ has a lot of lift, so attach it to items you want to see float. Hold it in your hands, and then place it on an object to attach it.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0e/BotW_Octo_Balloon_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Octo_Balloon",
+  "attributes": {
+   "Value": "5 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees"
+  },
+  "additional": {}
+ },
+ "Octorok_Eyeball": {
+  "item_id": "Octorok_Eyeball",
+  "name": "Octorok Eyeball",
+  "description": "This can only be obtained from an Octorok-type enemy. You can sell it to a store, or you can make elixirs with it, but it may have other uses, as well.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/42/BotW_Octorok_Eyeball_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Octorok_Eyeball",
+  "attributes": {
+   "Value": "25 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees"
+  },
+  "additional": {}
+ },
+ "Octorok_Tentacle": {
+  "item_id": "Octorok_Tentacle",
+  "name": "Octorok Tentacle",
+  "description": "This can only be obtained from an Octorok-type enemy. It's too acidic for cooking, but it's highly valued as an ingredient for elixirs.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/33/BotW_Octorok_Tentacle_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Octorok_Tentacle",
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees"
+  },
+  "additional": {}
+ },
+ "Oil_Jar": {
+  "item_id": "Oil_Jar",
+  "name": "Oil Jar",
+  "description": "A mild oil extracted from plant seeds. It's very versatile in cooking and can coax flavors from ingredients used in many dishes. Also good for adding fuel to fire.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/60/TotK_Oil_Jar_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Used in cooking\nSold for Rupees"
+  },
+  "additional": {}
+ },
+ "Opal": {
+  "item_id": "Opal",
+  "name": "Opal",
+  "description": "A valuable ore that gives off a mesmerizing iridescence similar to the inside of a seashell. It contains the power of water.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3a/BotW_Opal_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Opal",
+  "attributes": {
+   "Value": "30 %rupee%",
+   "Additional uses": "Sold for Rupees\nArmor crafting\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Palm_Fruit": {
+  "item_id": "Palm_Fruit",
+  "name": "Palm Fruit",
+  "description": "Fruit from palm trees that grow near the ocean. It doesn't offer any special effects but will increase your heart recovery when used as an ingredient.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/93/BotW_Palm_Fruit_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Palm_Fruit",
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Restores %full_heart%"
+  },
+  "additional": {}
+ },
+ "Puffshroom": {
+  "item_id": "Puffshroom",
+  "name": "Puffshroom",
+  "description": "A mushroom that spreads a cloud of fine spores when a stimulus is applied- (Incomplete).",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7c/TotK_Puff_Shroom_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": "Creates a puff of spores, in which Enemies lose sight of Link and can be Stealth Struck.\nSold for Rupees"
+  },
+  "additional": {}
+ },
+ "Raw_Bird_Drumstick": {
+  "item_id": "Raw_Bird_Drumstick",
+  "name": "Raw Bird Drumstick",
+  "description": "This meat is tougher and chewier than a standard steak. Tastes better cooked.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c5/BotW_Raw_Bird_Drumstick_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Raw_Bird_Drumstick",
+  "attributes": {
+   "Value": "8 %rupee%",
+   "Additional uses": "Restores %full_heart%%full_heart%"
+  },
+  "additional": {}
+ },
+ "Raw_Meat": {
+  "item_id": "Raw_Meat",
+  "name": "Raw Meat",
+  "description": "Meat obtained from animals in plains and forests. You can eat it raw, but cooking it will make it more delicious and nutritious.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/52/BotW_Raw_Meat_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Raw_Meat",
+  "attributes": {
+   "Value": "8 %rupee%",
+   "Additional uses": "Restores %full_heart%"
+  },
+  "additional": {}
+ },
+ "Razorclaw_Crab": {
+  "item_id": "Razorclaw_Crab",
+  "name": "Razorclaw Crab",
+  "description": "This crab is well known for its exceptionally sharp pincers. When cooked, the strength compound in its claws will increase your attack power.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/56/BotW_Razorclaw_Crab_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Razorclaw_Crab",
+  "attributes": {
+   "Value": "8 %rupee%",
+   "Additional uses": "Restores %full_heart%\nRaises attack power when cooked"
+  },
+  "additional": {}
+ },
+ "Razorshroom": {
+  "item_id": "Razorshroom",
+  "name": "Razorshroom",
+  "description": "This mushroom is known for the natural slice in its cap. Eating it fosters your competitive spirit. Use it when cooking to prepare a dish that will increase your strength.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/62/BotW_Razorshroom_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Razorshroom",
+  "attributes": {
+   "Value": "5 %rupee%",
+   "Additional uses": "Restores %half_heart%\nRaises attack power when cooked"
+  },
+  "additional": {}
+ },
+ "Red_Chuchu_Jelly": {
+  "item_id": "Red_Chuchu_Jelly",
+  "name": "Red Chuchu Jelly",
+  "description": "A jiggly substance that normally comes from a Fire Chuchu. It consistently gives off heat. If struck, it will explode in a ball of flame.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/fd/BotW_Red_Chuchu_Jelly_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Red_Chuchu_Jelly",
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Can be created by killing any ChuChu with an Ice weapon\nElixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Restless_Cricket": {
+  "item_id": "Restless_Cricket",
+  "name": "Restless Cricket",
+  "description": "A very energetic cricket. Cook it with monster parts to create a stamina-recovery elixir.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/99/BotW_Restless_Cricket_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Restless_Cricket",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Can make elixirs that restore stamina"
+  },
+  "additional": {}
+ },
+ "Rock_Salt": {
+  "item_id": "Rock_Salt",
+  "name": "Rock Salt",
+  "description": "Crystallized salt from the ancient sea commonly used to season meals. Cannot be eaten in this form.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/21/BotW_Rock_Salt_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Rock_Salt",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Used in cooking"
+  },
+  "additional": {}
+ },
+ "Ruby": {
+  "item_id": "Ruby",
+  "name": "Ruby",
+  "description": "A precious red gem mined from large ore deposits found throughout Hyrule. Rubies contain the power of fire and have fetched a high price since ancient times.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/ee/BotW_Ruby_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Ruby",
+  "attributes": {
+   "Value": "210 %rupee%",
+   "Additional uses": "Sold for Rupees\nArmor crafting\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Rugged_Rhino_Beetle": {
+  "item_id": "Rugged_Rhino_Beetle",
+  "name": "Rugged Rhino Beetle",
+  "description": "This beetle's hard body resembles armor. When the shell is cooked with monster parts, the resulting elixir boosts your defense.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f0/BotW_Rugged_Rhino_Beetle_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Rugged_Rhino_Beetle",
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Can make elixirs that raise defense"
+  },
+  "additional": {}
+ },
+ "Rushroom": {
+  "item_id": "Rushroom",
+  "name": "Rushroom",
+  "description": "A mushroom that can grow almost anywhere but prefers ceilings and sheer cliffs. Cook it before eating to temporarily increase your movement speed.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/55/BotW_Rushroom_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Rushroom",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Restores %half_heart%\nIncreases speed when cooked\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Sanke_Carp": {
+  "item_id": "Sanke_Carp",
+  "name": "Sanke Carp",
+  "description": "This wild armored carp has been bred into a prizewinning fish. Its beautifully colored markings do not occur in nature. It offers no special effects when cooked.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9c/BotW_Sanke_Carp_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Sanke_Carp",
+  "attributes": {
+   "Value": "20 %rupee%",
+   "Additional uses": "Restores %full_heart%"
+  },
+  "additional": {}
+ },
+ "Sapphire": {
+  "item_id": "Sapphire",
+  "name": "Sapphire",
+  "description": "A precious blue gem mined from natural rock formations. Sapphires contain the very essence of ice. They've been known to fetch a high price since ancient times.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d0/BotW_Sapphire_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Sapphire",
+  "attributes": {
+   "Value": "260 %rupee%",
+   "Additional uses": "Sold for Rupees\nArmor crafting\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Shard_of_Dinraal%27s_Fang": {
+  "item_id": "Shard_of_Dinraal%27s_Fang",
+  "name": "Shard of Dinraal's Fang",
+  "description": "This shard fell from the red spirit Dinraal's fang. It's exceptionally hard and therefore impossible to process, but apparently it can be used as a material for something.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/81/BotW_Shard_of_Dinraal%27s_Fang_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Shard_of_Dinraal%27s_Fang",
+  "attributes": {
+   "Value": "250 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Shard_of_Dinraals_Spike": {
+  "item_id": "Shard_of_Dinraals_Spike",
+  "name": "Shard of Dinraal's Spike",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "30 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Shard_of_Farosh%27s_Fang": {
+  "item_id": "Shard_of_Farosh%27s_Fang",
+  "name": "Shard of Farosh's Fang",
+  "description": "This shard fell from the golden spirit Farosh's fang. It's so hard, hammers bounce right off it, so it's impossible to process. Yet rumors say it does have some use as a material.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/10/BotW_Shard_of_Farosh%27s_Fang_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Shard_of_Farosh%27s_Fang",
+  "attributes": {
+   "Value": "250 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Shard_of_Faroshs_Spike": {
+  "item_id": "Shard_of_Faroshs_Spike",
+  "name": "Shard of Farosh's Spike",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "30 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Shard_of_Light_Dragons_Fang": {
+  "item_id": "Shard_of_Light_Dragons_Fang",
+  "name": "Shard of Light Dragon's Fang",
+  "description": "A shard that fell off from the Light Dragon's fang. It's smooth rather than rough, and it has a mysterious power to heal when attached to a weapon.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "250 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Shard_of_Light_Dragons_Spike": {
+  "item_id": "Shard_of_Light_Dragons_Spike",
+  "name": "Shard of Light Dragon's Spike",
+  "description": "A horn chipped off the Light Dragon. Its gentle glow has a calming effect, and it has a mysterious healing power when attached to a weapon.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "30 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Shard_of_Naydra%27s_Fang": {
+  "item_id": "Shard_of_Naydra%27s_Fang",
+  "name": "Shard of Naydra's Fang",
+  "description": "This shard fell from the blue spirit Naydra's fang. It's much harder than any metal, so it's impossible to process. Yet rumors say it can be used as a material for something.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/64/BotW_Shard_of_Naydra%27s_Fang_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Shard_of_Naydra%27s_Fang",
+  "attributes": {
+   "Value": "250 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Shard_of_Naydras_Spike": {
+  "item_id": "Shard_of_Naydras_Spike",
+  "name": "Shard of Naydra's Spike",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "30 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Shock_Like_Stone": {
+  "item_id": "Shock_Like_Stone",
+  "name": "Shock Like Stone",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "25 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Silent_Shroom": {
+  "item_id": "Silent_Shroom",
+  "name": "Silent Shroom",
+  "description": "A strange mushroom that glows quietly in the forest at night. Cooking it into a dish unlocks the nutrients in its cap, resulting in a meal that will allow you to move stealthily.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/36/BotW_Silent_Shroom_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Silent_Shroom",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Restores %half_heart%\nIncreases stealth when cooked\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Silver_Boss_Bokoblin_Horn": {
+  "item_id": "Silver_Boss_Bokoblin_Horn",
+  "name": "Silver Boss Bokoblin Horn",
+  "description": "A circular, serrated horn. The neatly tied strap contains arcane power. Attach it to a weapon to vastly increase its attack power. Cook it with a critter to make an elixir.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "44 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Silver_Horriblin_Horn": {
+  "item_id": "Silver_Horriblin_Horn",
+  "name": "Silver Horriblin Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Silver_Lizalfos_Tail": {
+  "item_id": "Silver_Lizalfos_Tail",
+  "name": "Silver Lizalfos Tail",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "24 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Silver_Lynel_Mace_Horn": {
+  "item_id": "Silver_Lynel_Mace_Horn",
+  "name": "Silver Lynel Mace Horn",
+  "description": "This wickedly barbed Silver Lynel horn is as hard as a diamond. Attach it to a weapon to vastly increase its attack power. Cook it with a critter to make an elixir.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "150 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Silver_Lynel_Saber_Horn": {
+  "item_id": "Silver_Lynel_Saber_Horn",
+  "name": "Silver Lynel Saber Horn",
+  "description": "This piercing horn is sharpened to a point for maximum poking. Attach it to a weapon to vastly increase its attack power. Cook it with a critter to make an elixir.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "150 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Silver_Moblin_Horn": {
+  "item_id": "Silver_Moblin_Horn",
+  "name": "Silver Moblin Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "30 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Sizzlefin_Trout": {
+  "item_id": "Sizzlefin_Trout",
+  "name": "Sizzlefin Trout",
+  "description": "This red trout prefers warm bodies of water. It has a special organ specifically for storing heat. When cooked into a dish, it temporarily boosts your resistance to the cold.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/69/BotW_Sizzlefin_Trout_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Sizzlefin_Trout",
+  "attributes": {
+   "Value": "6 %rupee%",
+   "Additional uses": "Restores %full_heart%\nBoosts cold resistance when cooked"
+  },
+  "additional": {}
+ },
+ "Skyshroom": {
+  "item_id": "Skyshroom",
+  "name": "Skyshroom",
+  "description": "A common mushroom that grows near trees on sky islands. Eat it to restore health.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/dc/TotK_Skyshroom_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "8 %rupee%",
+   "Additional uses": "Restores %full_heart%"
+  },
+  "additional": {}
+ },
+ "Smotherwing_Butterfly": {
+  "item_id": "Smotherwing_Butterfly",
+  "name": "Smotherwing Butterfly",
+  "description": "This rare butterfly lives in volcanic regions. Its body contains a heat-resistant liquid, which can be turned into a topical elixir that offers resistance to flames.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/85/BotW_Smotherwing_Butterfly_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Smotherwing_Butterfly",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Can make elixirs that raise Fire resistance\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Sneaky_River_Snail": {
+  "item_id": "Sneaky_River_Snail",
+  "name": "Sneaky River Snail",
+  "description": "This large, glow-in-the-dark snail lives in fresh water. When cooked into a dish, it heightens your senses so you can move about silently.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/82/BotW_Sneaky_River_Snail_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Sneaky_River_Snail",
+  "attributes": {
+   "Value": "6 %rupee%",
+   "Additional uses": "Restores %full_heart%\nIncreases stealth when cooked\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Soldier_Construct_Horn": {
+  "item_id": "Soldier_Construct_Horn",
+  "name": "Soldier Construct Horn",
+  "description": "A blade-like horn dropped from a Soldier Construct. It's very sharp so handle with care.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/51/TotK_Soldier_Construct_Horn_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Soldier_Construct_Horn",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Soldier_Construct_II_Horn": {
+  "item_id": "Soldier_Construct_II_Horn",
+  "name": "Soldier Construct II Horn",
+  "description": "A sharp, hooked horn dropped from a Soldier Construct II. It's well suited for slicing through small branches and plants. Attach it to a weapon to moderately increase attack power.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Soldier_Construct_III_Horn": {
+  "item_id": "Soldier_Construct_III_Horn",
+  "name": "Soldier Construct III Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Soldier_Construct_IV_Horn": {
+  "item_id": "Soldier_Construct_IV_Horn",
+  "name": "Soldier Construct IV Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "24 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Spicy_Pepper": {
+  "item_id": "Spicy_Pepper",
+  "name": "Spicy Pepper",
+  "description": "This pepper is exploding with spice. Cook with it to create dishes that will raise your body temperature and help you withstand the cold.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0c/BotW_Spicy_Pepper_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Spicy_Pepper",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Restores %half_heart%\nBoosts heat resistance when cooked"
+  },
+  "additional": {}
+ },
+ "Splash_Fruit": {
+  "item_id": "Splash_Fruit",
+  "name": "Splash Fruit",
+  "description": "A fruit that contains pressurized water. Cooking it brings out its ability to enhance swim speed when ingested.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/61/TotK_Splash_Fruit_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Restores %quarter_heart%\nIncreases swim speed when cooked"
+  },
+  "additional": {}
+ },
+ "Stalnox_Horn": {
+  "item_id": "Stalnox_Horn",
+  "name": "Stalnox Horn",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Stambulb": {
+  "item_id": "Stambulb",
+  "name": "Stambulb",
+  "description": "A wild plant with bulging roots often found in cooler climates. It contains nutrients that increase endurance.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/43/Leek.jpg",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Restores %full_heart%\nRestores stamina when cooked"
+  },
+  "additional": {}
+ },
+ "Stamella_Shroom": {
+  "item_id": "Stamella_Shroom",
+  "name": "Stamella Shroom",
+  "description": "A green mushroom that grows near trees in the forest. It's chock-full of natural energy. Cook it to release its stamina-restoration properties.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c2/BotW_Stamella_Shroom_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Stamella_Shroom",
+  "attributes": {
+   "Value": "5 %rupee%",
+   "Additional uses": "Restores %full_heart%\nRestores stamina when cooked"
+  },
+  "additional": {}
+ },
+ "Staminoka_Bass": {
+  "item_id": "Staminoka_Bass",
+  "name": "Staminoka Bass",
+  "description": "This Hyrule bass got to be the biggest fish by never getting caught (until now). Its long life results in a cooked dish that will restore a lot of stamina.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/79/BotW_Staminoka_Bass_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Staminoka_Bass",
+  "attributes": {
+   "Value": "18 %rupee%",
+   "Additional uses": "Restores %full_heart%\nRestores stamina when cooked"
+  },
+  "additional": {}
+ },
+ "Star_Fragment": {
+  "item_id": "Star_Fragment",
+  "name": "Star Fragment",
+  "description": "A mysterious stone fragment that fell from the sky. It looks like it would fetch a good price, but you may be able to use it in certain recipes as well.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/59/BotW_Star_Fragment_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Star_Fragment",
+  "attributes": {
+   "Value": "300 %rupee%",
+   "Additional uses": "Armor upgrading"
+  },
+  "additional": {}
+ },
+ "Stealthfin_Trout": {
+  "item_id": "Stealthfin_Trout",
+  "name": "Stealthfin Trout",
+  "description": "Consuming the bioluminescent compound that makes this fish glow in the dark will increase concentration. Dishes cooked with it will suppress noise when consumed.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d6/BotW_Stealthfin_Trout_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Stealthfin_Trout",
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Restores %full_heart%\nIncreases stealth when cooked\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Sticky_Lizard": {
+  "item_id": "Sticky_Lizard",
+  "name": "Sticky Lizard",
+  "description": "The suction of its toes allows this lizard to easily cling to walls. It could be an asset for a climber on wet surfaces if it were mixed into an elixir.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "??? %rupee%",
+   "Additional uses": "Elixir creation (Slip Resistance)"
+  },
+  "additional": {}
+ },
+ "Summerwing_Butterfly": {
+  "item_id": "Summerwing_Butterfly",
+  "name": "Summerwing Butterfly",
+  "description": "A butterfly found in the woods and plains of warm regions. Its wings absorb the warmth of the sun. Cook it with monster parts to create an elixir that makes you feel warm and fuzzy.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a3/BotW_Summerwing_Butterfly_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Summerwing_Butterfly",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Can make elixirs that raise cold resistance"
+  },
+  "additional": {}
+ },
+ "Sunset_Firefly": {
+  "item_id": "Sunset_Firefly",
+  "name": "Sunset Firefly",
+  "description": "These fireflies glow gently in the dark. When cooked with monster parts, the compound that causes it to glow results in an elixir that will allow you to move more quietly.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bb/BotW_Sunset_Firefly_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Sunset_Firefly",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Can make elixirs that raise stealth\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Sundelion": {
+  "item_id": "Sundelion",
+  "name": "Sundelion",
+  "description": "A wild plant that grows in the sun at high altitudes. Soaked in sunlight, its petals can restore health depleted by gloom when used in cooking.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d8/TotK_Sundelion_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "8 %rupee%",
+   "Additional uses": "Restores %full_heart%\nRestores %full_heart% depleted by gloom."
+  },
+  "additional": {}
+ },
+ "Sunshroom": {
+  "item_id": "Sunshroom",
+  "name": "Sunshroom",
+  "description": "A bright red mushroom that grows in hot climates. Imbued with the power of heat, they can be used to cook dishes that will allow you to endure the bitter cold.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/5d/BotW_Sunshroom_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Sunshroom",
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Restores %half_heart%\nBoosts cold resistance when cooked\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Sun_Pumpkin": {
+  "item_id": "Sun_Pumpkin",
+  "name": "Sun Pumpkin",
+  "description": "",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "5 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Swift_Carrot": {
+  "item_id": "Swift_Carrot",
+  "name": "Swift Carrot",
+  "description": "This carrot is cultivated extensively in Kakariko Village. It strengthens the legs and hips when cooked into a dish, which helps increase your movement speed.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/32/BotW_Swift_Carrot_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Swift_Carrot",
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Restores %half_heart%\nIncreases speed when cooked"
+  },
+  "additional": {}
+ },
+ "Swift_Violet": {
+  "item_id": "Swift_Violet",
+  "name": "Swift Violet",
+  "description": "This vitality-rich flower blooms mainly on cliffsides. When cooked into a dish, the nourishing compounds increase your movement speed.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e1/BotW_Swift_Violet_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Swift_Violet",
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Increases speed when cooked\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Tabantha_Wheat": {
+  "item_id": "Tabantha_Wheat",
+  "name": "Tabantha Wheat",
+  "description": "This grain is cultivated extensively on the Tabantha Plains. It's ground finely with a millstone to be used in cooking. Use it to make things such as stews and breads.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a3/BotW_Tabantha_Wheat_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Tabantha_Wheat",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Restores %full_heart%"
+  },
+  "additional": {}
+ },
+ "Thunderwing_Butterfly": {
+  "item_id": "Thunderwing_Butterfly",
+  "name": "Thunderwing Butterfly",
+  "description": "This rare butterfly only shows itself when it rains. The organs in its body produce an insulating compound. When made into an elixir, it offers electrical resistance.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/2c/BotW_Thunderwing_Butterfly_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Thunderwing_Butterfly",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Can make elixirs that raise shock resistance"
+  },
+  "additional": {}
+ },
+ "Tireless_Frog": {
+  "item_id": "Tireless_Frog",
+  "name": "Tireless Frog",
+  "description": "This rare frog only ventures out in the rain. When cooked with monster parts, the elixir it produces will temporarily increase your maximum stamina.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6e/BotW_Tireless_Frog_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Tireless_Frog",
+  "attributes": {
+   "Value": "20 %rupee%",
+   "Additional uses": "Can make elixirs that raise max stamina"
+  },
+  "additional": {}
+ },
+ "Topaz": {
+  "item_id": "Topaz",
+  "name": "Topaz",
+  "description": "This precious yellow gem contains the power of electricity. It's been known to fetch a high price since ancient times.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a9/BotW_Topaz_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Topaz",
+  "attributes": {
+   "Value": "180 %rupee%",
+   "Additional uses": "Sold for Rupees\nArmor crafting\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Voltfin_Trout": {
+  "item_id": "Voltfin_Trout",
+  "name": "Voltfin Trout",
+  "description": "This trout makes its home in the freshwater lakes. Its scales have an insulating compound that, when cooked into a dish, offers resistance to electricity.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/1b/BotW_Voltfin_Trout_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Voltfin_Trout",
+  "attributes": {
+   "Value": "6 %rupee%",
+   "Additional uses": "Restores %full_heart%\nBoosts shock resistance when cooked"
+  },
+  "additional": {}
+ },
+ "Voltfruit": {
+  "item_id": "Voltfruit",
+  "name": "Voltfruit",
+  "description": "Cacti found in the Gerudo Desert bear this sweet fruit. It's naturally insulated, so when cooked into a dish, it provides resistance against electricity.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e1/BotW_Voltfruit_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Voltfruit",
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Restores %half_heart%\nBoosts shock resistance when cooked\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Warm_Darner": {
+  "item_id": "Warm_Darner",
+  "name": "Warm Darner",
+  "description": "This dragonfly has a special organ that causes it to sweat profusely. Cook it with monster parts for an elixir that will raise your core temperatures so you can resist the cold.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/66/BotW_Warm_Darner_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Warm_Darner",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Can make elixirs that raise cold resistance"
+  },
+  "additional": {}
+ },
+ "Warm_Safflina": {
+  "item_id": "Warm_Safflina",
+  "name": "Warm Safflina",
+  "description": "This medicinal plant grows in hot regions, such as the Gerudo Desert. It's warm to the touch and increases your cold resistance when cooked into a dish.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/ea/BotW_Warm_Safflina_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Warm_Safflina",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Boosts cold resistance when cooked\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "White_Chuchu_Jelly": {
+  "item_id": "White_Chuchu_Jelly",
+  "name": "White Chuchu Jelly",
+  "description": "A jiggly substance that came from an Ice Chuchu. It's cool to the touch, and squeezing it seems to relieve stress. If struck, it will explode in a cold mist.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3d/BotW_White_Chuchu_Jelly_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/White_Chuchu_Jelly",
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Can be created by killing any ChuChu with an Ice weapon\nElixir creation\nSold for Rupees and Mon\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "WhiteManed_Lynel_Saber_Horn": {
+  "item_id": "WhiteManed_Lynel_Saber_Horn",
+  "name": "White-Maned Lynel Saber Horn",
+  "description": "This blade-like horn of a White-Maned Lynel can slash through just about anything. Attach it to a weapon to vastly increase its attack power. Cook it with a critter to make an elixir.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "90 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades\nFuse to weapons"
+  },
+  "additional": {}
+ },
+ "Wildberry": {
+  "item_id": "Wildberry",
+  "name": "Wildberry",
+  "description": "A fruit that grows in cold, snowy regions known for its tangy, sweet flavor. It doesn't offer any special effects, but it's a popular cooking ingredient.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/10/BotW_Wildberry_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Wildberry",
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": "Restores %half_heart%"
+  },
+  "additional": {}
+ },
+ "Winterwing_Butterfly": {
+  "item_id": "Winterwing_Butterfly",
+  "name": "Winterwing Butterfly",
+  "description": "The powdery scales of this butterfly's wings cool the air around it. Watching it flutter around snowflakes is a thing of beauty. Cook it with monster parts for a heat-resistant elixir.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a7/BotW_Winterwing_Butterfly_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Winterwing_Butterfly",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Can make elixirs that raise heat resistance"
+  },
+  "additional": {}
+ },
+ "Wood": {
+  "item_id": "Wood",
+  "name": "Wood",
+  "description": "A portable bundle of wood. You can use this to make a campfire if you have something to light it.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/1e/BotW_Wood_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Wood",
+  "attributes": {
+   "Value": "2 %rupee%",
+   "Additional uses": "Campfires\nSold for Rupees"
+  },
+  "additional": {}
+ },
+ "Yellow_Chuchu_Jelly": {
+  "item_id": "Yellow_Chuchu_Jelly",
+  "name": "Yellow Chuchu Jelly",
+  "description": "A jiggly substance that came from an Electric Chuchu. Electricity pulses through its gelatinous mass. If struck, it will explode in a burst of electric current.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/97/BotW_Yellow_Chuchu_Jelly_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Yellow_Chuchu_Jelly",
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Can be created by killing any ChuChu with an Electric weapon\nElixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Zapshroom": {
+  "item_id": "Zapshroom",
+  "name": "Zapshroom",
+  "description": "This mushroom grows wild in the Gerudo region. The cap is naturally insulated, so when used in cooking, it will offer protection against electricity.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6c/BotW_Zapshroom_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Zapshroom",
+  "attributes": {
+   "Value": "4 %rupee%",
+   "Additional uses": "Restores %half_heart%\nBoosts shock resistance when cooked\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Zonai_Charge": {
+  "item_id": "Zonai_Charge",
+  "name": "Zonai Charge",
+  "description": "A material used as a power source for constructs and other devices. Use it to recover a small amount of power for a Zonai Energy Cell.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e5/Zonai_Charge.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Zonai_Charge",
+  "attributes": {
+   "Value": "6 %rupee%",
+   "Additional uses": "Elixir creation\nSold for Rupees\nArmor upgrades"
+  },
+  "additional": {}
+ },
+ "Zonaite": {
+  "item_id": "Zonaite",
+  "name": "Zonaite",
+  "description": "An unusual material that has many purposes. Ancients extracted energy from it and refined it for the crafting of weapons and armor.",
+  "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/92/Totk_Zonaite_Icon.png",
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": null,
+  "attributes": {
+   "Value": "3 %rupee%",
+   "Additional uses": ""
+  },
+  "additional": {}
+ },
+ "Endura_Carrot": {
+  "item_id": "Endura_Carrot",
+  "name": "Endura Carrot",
+  "description": "Highly valued as a medicinal plant, this carrot contains large amounts of nourishing energy. When cooked into a dish, it boosts your stamina beyond its maximum limit.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Endura_Carrot",
+  "attributes": {
+   "Value": "30 %rupee%",
+   "Additional uses": "Restores %full_heart%%full_heart%\nUsed in cooking to increase max stamina\nFed to horses to increase max horse stamina"
+  },
+  "additional": {}
+ },
+ "Silent_Princess_(Item)": {
+  "item_id": "Silent_Princess_(Item)",
+  "name": "Silent Princess",
+  "description": "This lovely flower was said to have been a favorite of the princess of Hyrule. Once feared to have gone extinct, it's recently been spotted growing in the wild.",
+  "image_url": null,
+  "category_ref": [
+   "categories/materials"
+  ],
+  "item_url": "https://zelda.fandom.com/wiki/Silent_Princess_(Item)",
+  "attributes": {
+   "Value": "10 %rupee%",
+   "Additional uses": "Increases stealth when cooked\nArmor upgrades"
+  },
+  "additional": {}
+ }
+}

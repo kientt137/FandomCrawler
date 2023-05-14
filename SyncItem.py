@@ -20,7 +20,8 @@ list_item_file = [
     # "data/zonai_devices_list.json",
     # "data/enemies_list.json",
     # "data/location.json",
-    "data/ability_list.json",
+    # "data/ability_list.json",
+    "data/material.json"
 ]
 
 for file in list_item_file:
@@ -31,3 +32,5 @@ for file in list_item_file:
             doc_ref = db.collection(u'items').document(item['item_id'])
             doc_ref.set(item)
             print("sync 1 item successfully")
+        print("Sync file " + file + "finished")
+        print("========================")
