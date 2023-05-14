@@ -1,0 +1,77 @@
+{
+  "Ultrahand": {
+    "item_id": "Ultrahand",
+    "name": "Ultrahand",
+    "description": "With Ultrahand Link can pick up, move, and rotate objects. He can even attach things together to create bridges, and vehicles.",
+    "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/be/Ultrahand_Icon.png",
+    "category_ref": [
+      "categories/abilities"
+    ],
+    "item_url": "https://zelda.fandom.com/wiki/Ultrahand",
+    "attributes": {
+      "Main appearance(s)": "Tears of the Kingdom",
+      "Use(s)": "Glueing objects together to build"
+    },
+    "additional": {}
+  },
+  "Fuse": {
+    "item_id": "Fuse",
+    "name": "Fuse",
+    "description": "Magically fuse objects to Link’s current weapon, shield, or arrow to increase durability, damage, or even add a new effect. Experiment with lots of different combinations to come up with surprising—and sometimes hilarious—results, for example, fusing a Keese Eyeball onto an arrow allows it to home in on a target. Fusing also improves the new gear's durability.\nFused objects can the detached in the inventory.Fused gear will also be renamed, with the new name being based on the material that was fused with the base gear.",
+    "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e7/Fuse_Icon.png",
+    "category_ref": [
+      "categories/abilities"
+    ],
+    "item_url": "https://zelda.fandom.com/wiki/Fuse",
+    "attributes": {
+      "Main appearance(s)": "Tears of the Kingdom",
+      "Use(s)": "Fusing equipment with other items"
+    },
+    "additional": {}
+  },
+  "Ascend": {
+    "item_id": "Ascend",
+    "name": "Ascend",
+    "description": "Ascend is an ability in Tears of The Kingdom that allows Link to rise up through ceilings, hillsides, and even certain enemies to create seemingly impossible shortcuts.",
+    "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/70/Ascend_Icon.png",
+    "category_ref": [
+      "categories/abilities"
+    ],
+    "item_url": "https://zelda.fandom.com/wiki/Ascend",
+    "attributes": {
+      "Main appearance(s)": "Tears of the Kingdom",
+      "Use(s)": "Phasing through ceilings"
+    },
+    "additional": {}
+  },
+  "Recall": {
+    "item_id": "Recall",
+    "name": "Recall",
+    "description": "Use Recall to reverse an object’s movement, letting Link ride fallen boulders skyward, recover thrown weapons, or send projectiles back where they came from.",
+    "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/be/Recall_Icon.png",
+    "category_ref": [
+      "categories/abilities"
+    ],
+    "item_url": "https://zelda.fandom.com/wiki/Recall",
+    "attributes": {
+      "Main appearance(s)": "Tears of the Kingdom",
+      "Use(s)": "Sending items back on the path they came from"
+    },
+    "additional": {}
+  },
+  "Autobuild": {
+    "item_id": "Autobuild",
+    "name": "Autobuild",
+    "description": "This rune will be received later than the initial four runes. It streamlines the Ultrahand building process and is especially useful in sections in which one has to build a lot.",
+    "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d5/Autobuild_Icon.png",
+    "category_ref": [
+      "categories/abilities"
+    ],
+    "item_url": "https://zelda.fandom.com/wiki/Autobuild",
+    "attributes": {
+      "Main appearance(s)": "Tears of the Kingdom",
+      "Use(s)": "Aids in sections in which one has to build a lot"
+    },
+    "additional": {}
+  }
+}

@@ -19,3 +19,4 @@ with open("data/category_list.json", 'r') as f:
     for key, value in list_category.items():
         doc_ref = db.collection(u'categories').document(key)
         doc_ref.set(value)
+        print("Sync 1 category successfully")

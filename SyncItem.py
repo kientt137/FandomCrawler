@@ -15,11 +15,12 @@ app = firebase_admin.initialize_app(cred)
 db = firestore.client()
 
 list_item_file = [
-    "data/armor_list.json",
-    "data/weapon_list.json",
-    "data/zonai_devices_list.json",
-    "data/enemies_list.json",
-    "data/location.json"
+    # "data/armor_list.json",
+    # "data/weapon_list.json",
+    # "data/zonai_devices_list.json",
+    # "data/enemies_list.json",
+    # "data/location.json",
+    "data/ability_list.json",
 ]
 
 for file in list_item_file:

@@ -1,68 +1,94 @@
 {
   "characters": {
-    "name": "Characters"
+    "name": "Characters",
+    "showDefault": false
   },
   "bosses": {
-    "name": "Bosses"
+    "name": "Bosses",
+    "showDefault": false
   },
   "creatures": {
-    "name": "Creatures"
+    "name": "Creatures",
+    "showDefault": false
   },
   "enemies": {
-    "name": "Enemies"
+    "name": "Enemies",
+    "showDefault": true
   },
   "dungeons": {
-    "name": "Dungeons"
+    "name": "Dungeons",
+    "showDefault": false
   },
   "locations": {
-    "name": "Locations"
+    "name": "Locations",
+    "showDefault": true
   },
   "items": {
-    "name": "Items"
+    "name": "Items",
+    "showDefault": true
   },
   "translations": {
-    "name": "Translations"
+    "name": "Translations",
+    "showDefault": false
   },
   "armor": {
-    "name": "Armor"
+    "name": "Armor",
+    "showDefault": true
   },
   "weapons": {
-    "name": "Weapons"
+    "name": "Weapons",
+    "showDefault": true
   },
   "shields": {
-    "name": "Shields"
+    "name": "Shields",
+    "showDefault": false
   },
   "bows_arrows": {
-    "name": "Bows & Arrows"
+    "name": "Bows & Arrows",
+    "showDefault": false
   },
   "materials": {
-    "name": "Materials"
+    "name": "Materials",
+    "showDefault": false
   },
   "food": {
-    "name": "Food"
+    "name": "Food",
+    "showDefault": false
   },
   "zonai_devices": {
-    "name": "Zonai Devices"
+    "name": "Zonai Devices",
+    "showDefault": true
   },
   "key_items": {
-    "name": "Key Items"
+    "name": "Key Items",
+    "showDefault": false
   },
   "head_gear": {
-    "name": "Head Gear"
+    "name": "Head Gear",
+    "showDefault": false
   },
   "body_gear": {
-    "name": "Body Gear"
+    "name": "Body Gear",
+    "showDefault": false
   },
   "leg_gear": {
-    "name": "Leg Gear"
+    "name": "Leg Gear",
+    "showDefault": false
   },
   "normal_enemies": {
-    "name": "Normal Enemies"
+    "name": "Normal Enemies",
+    "showDefault": false
   },
   "traps":  {
-    "name": "Traps"
+    "name": "Traps",
+    "showDefault": false
   },
   "overword_bosses":  {
-    "name": "Overworld Bosses"
+    "name": "Overworld Bosses",
+    "showDefault": false
+  },
+  "abilities": {
+    "name": "Abilities",
+    "showDefault": true
   }
 }
